@@ -4,7 +4,7 @@ title: Raspberry PI 2 and the Microsoft Band
 guest: Joost van Schaik
 date: 2015-03-13
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0046.mp3
-
+guestImage: joost-van-schaik.jpg
 ---
 
 ###News
