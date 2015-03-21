@@ -43,5 +43,5 @@ guestImage: laurent-bugnion.jpg
 
 ###App of the Week
 
--   [Pimp My  Band](http://www.windowsphone.com/s?appid=9966b6e7-bb20-4b53-9b3c-8701a271c66c)
--   [Band Sensor Monitor](http://www.windowsphone.com/s?appid=68f97b41-de2f-4579-a473-5d476a5c5196)
+ - [Pimp My  Band](http://www.windowsphone.com/s?appid=9966b6e7-bb20-4b53-9b3c-8701a271c66c)
+ - [Band Sensor Monitor](http://www.windowsphone.com/s?appid=68f97b41-de2f-4579-a473-5d476a5c5196)

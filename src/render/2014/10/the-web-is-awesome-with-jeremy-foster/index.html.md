@@ -8,6 +8,7 @@ guestImage: jeremy-foster.jpg
 ---
 
 ###News
+
  - [Real space battles would be more 'Asteroids' than 'Star Wars'](http://www.engadget.com/2014/09/28/physics-in-space-battles/)
  - [The 4k programmer](http://tonyla.me/blog/2014/09/29/the-4k-programmer/)
  - [4K is for programmers](http://tiamat.tsotech.com/4k-is-for-programmers)
@@ -16,6 +17,7 @@ guestImage: jeremy-foster.jpg
   - [Wyvern](http://www.cs.cmu.edu/~aldrich/wyvern/)  on [GitHub](https://github.com/wyvernlang/wyvern)
 
 ###Jeremy Foster
+
  - [https://twitter.com/codefoster](https://twitter.com/codefoster)
  - [http://codefoster.com](http://codefoster.com)
  - [http://codefoster.com/codechat](http://codefoster.com/codechat)
@@ -35,6 +37,7 @@ guestImage: jeremy-foster.jpg
 -   [ExpressRoute](http://azure.microsoft.com/en-us/documentation/services/expressroute/)
 
 ###App of the Week
+
  - [Maestro (Preview)](http://www.windowsphone.com/s?appid=b75be3fa-fbf8-4c1a-bd39-1517c1d6aec0)
   - From [Hidden Pineapple](http://hiddenpineapple.com/) -
 [Twitter](http://twitter.com/thehp)

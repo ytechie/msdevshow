@@ -9,6 +9,7 @@ guestImage: liam-cavanagh.jpg
 
 
 ###News
+
  - [C\#, the += operator is not merely not guaranteed to be atomic, it is guaranteed not to be atomic](http://blogs.msdn.com/b/oldnewthing/archive/2014/08/14/10549885.aspx)
  - [Running Windows on my Intel Galileo](http://ms-iot.github.io/content/index.htm)
  - [Gooey: Turn command line programs into GUI applications](https://github.com/chriskiehl/Gooey)
@@ -17,6 +18,7 @@ guestImage: liam-cavanagh.jpg
  - Breaking News: A Fond Farewell to the Developer Ambassadors‏
 
 ###Liam Cavanagh
+
  -   [https://twitter.com/liamca](https://twitter.com/liamca)
  -   [http://blog.liamcavanagh.com/](http://blog.liamcavanagh.com/)
 
@@ -30,7 +32,9 @@ guestImage: liam-cavanagh.jpg
 ###App of the Week
 
  - [Spotify](http://www.windowsphone.com/s?appid=10f2995d-1f82-4203-b7fa-46ddbd07a6e6)
+
 ###Promo
+
  - Retweet any one of our apps for a chance at one of two $5 Microsoft gift cards!
 	 - US residents only :'(
  - Congrats to: 

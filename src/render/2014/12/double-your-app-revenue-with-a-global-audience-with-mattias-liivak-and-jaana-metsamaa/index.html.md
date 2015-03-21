@@ -16,6 +16,7 @@ guestImage: mattias-and-jaana.jpg
  - [Highway at Night JavaScript in 1023 bytes](http://js1k.com/2014-dragons/details/1951)
 
 ###Mattias Liivak
+
  - [@mattiasliivak](https://twitter.com/mattiasliivak)
 
 ----------
@@ -36,4 +37,5 @@ guestImage: mattias-and-jaana.jpg
   - [Windows Phone](https://www.windowsphone.com/s?appid=2d89520e-d360-4b5b-ba5a-5a15064aa935)
 
 ###Facebook
+
  - Remember to like us on [Facebook](https://www.facebook.com/msdevshow) 

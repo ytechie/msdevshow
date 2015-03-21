@@ -26,15 +26,15 @@ platform](http://dev.windows.com/en-us/develop/Building-universal-Windows-apps)
 
 ###Lindsey Garrity
 
--   [@garrla21](https://twitter.com/garrla21)
--   [LinkedIn](https://www.linkedin.com/in/lindseygarrity)
--   [Skyline Careers](http://skylinetechnologies.com/About/Careers.aspx)
+ - [@garrla21](https://twitter.com/garrla21)
+ - [LinkedIn](https://www.linkedin.com/in/lindseygarrity)
+ - [Skyline Careers](http://skylinetechnologies.com/About/Careers.aspx)
 
 ----------------------------------------------
 
--   [How Would You Move Mount Fuji?](http://www.amazon.com/How-Would-Move-Mount-Fuji/dp/0316778494/?tag=ytechie-20)
--   [Buy our new sticker!](https://www.stickermule.com/marketplace/4324-ms-dev-show-pixelated)
- -   Be careful about shipping if you're from Canada(or overseas)!
+ - [How Would You Move Mount Fuji?](http://www.amazon.com/How-Would-Move-Mount-Fuji/dp/0316778494/?tag=ytechie-20)
+ - [Buy our new sticker!](https://www.stickermule.com/marketplace/4324-ms-dev-show-pixelated)
+  - Be careful about shipping if you're from Canada(or overseas)!
 
 ###Azure pick of the week
 

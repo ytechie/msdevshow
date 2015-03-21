@@ -27,9 +27,9 @@ ignored: true
 ###Apps of the Week
 
  - ConcertWall
-  -   [Windows Phone](http://www.windowsphone.com/s?appid=6337ad32-2d69-4f26-bd98-44f6eaae7708)
+  - [Windows Phone](http://www.windowsphone.com/s?appid=6337ad32-2d69-4f26-bd98-44f6eaae7708)
  - [Maestro](http://maestroapp.com/)
-  -   [Windows Phone](http://www.windowsphone.com/s?appId=2e130744-3a86-4c3e-bbf5-aab61556743c)
+  - [Windows Phone](http://www.windowsphone.com/s?appId=2e130744-3a86-4c3e-bbf5-aab61556743c)
 
 ###Min Maung
 

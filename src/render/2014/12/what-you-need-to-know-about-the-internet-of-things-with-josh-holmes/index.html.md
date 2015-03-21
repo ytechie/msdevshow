@@ -20,9 +20,9 @@ guestImage: josh-holmes.jpg
 
 ###Josh Holmes
 
-- [@joshholmes](https://twitter.com/joshholmes)
-- [http://www.joshholmes.com/](http://www.joshholmes.com/)
-- [flickr](https://www.flickr.com/photos/joshholmes)
+ - [@joshholmes](https://twitter.com/joshholmes)
+ - [http://www.joshholmes.com/](http://www.joshholmes.com/)
+ - [flickr](https://www.flickr.com/photos/joshholmes)
  
 --------
 
@@ -41,7 +41,7 @@ guestImage: josh-holmes.jpg
 
 ###Azure pick of the week
 
--   [Azure Backup](http://azure.microsoft.com/en-us/services/backup/)
+ - [Azure Backup](http://azure.microsoft.com/en-us/services/backup/)
 
 ###App of the Week
 

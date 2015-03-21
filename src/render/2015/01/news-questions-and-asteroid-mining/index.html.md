@@ -14,7 +14,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0037.mp3
   - [MESS Project](http://www.mess.org/)
   - [MAME Project](http://mamedev.org/)
  - [Why is the Next Big Thing always ancient history?](http://www.thegrumpyprogrammer.com/2014/12/why-is-next-big-thing-always-ancient.html)
-  -   [What is the Internet of Things?](http://www.ytechie.com/2014/06/what-is-the-internet-of-things/)
+  - [What is the Internet of Things?](http://www.ytechie.com/2014/06/what-is-the-internet-of-things/)
  - [Microservices - Not A Free Lunch!](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
  - [Building a dungeon!  - With basic computer science concepts.](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
  - [Visual Studio Auto Updater](https://visualstudiogallery.msdn.microsoft.com/14973bbb-8e00-4cab-a8b4-415a38d78615)
@@ -29,8 +29,8 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0037.mp3
 ###Apps of the Week
 
  - [Trivia Crack](http://www.triviacrack.com/)
-  -   [Windows Phone](http://www.windowsphone.com/s?appid=161a7b1f-df94-4331-ab0a-a964a345fb83)
-  -   [iOS](https://itunes.apple.com/us/app/trivia-crack/id651510680?mt=8)
-  -   [Android](https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite&hl=en)
+  - [Windows Phone](http://www.windowsphone.com/s?appid=161a7b1f-df94-4331-ab0a-a964a345fb83)
+  - [iOS](https://itunes.apple.com/us/app/trivia-crack/id651510680?mt=8)
+  - [Android](https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite&hl=en)
  - [Glympse](http://www.glympse.com/)
  - [Stocard](http://stocardapp.com/)

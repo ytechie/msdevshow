@@ -34,7 +34,7 @@ guestImage: janet-yeilding.jpg
 
 ###Azure pick of the week
 
--   [eventhubs-js](https://github.com/ytechie/eventhubs-js)
+ - [eventhubs-js](https://github.com/ytechie/eventhubs-js)
 
 ###App of the Week
 

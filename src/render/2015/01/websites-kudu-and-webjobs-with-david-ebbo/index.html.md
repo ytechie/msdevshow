@@ -29,4 +29,4 @@ guestImage: david-ebbo.jpg
 
 ###App of the Week
 
--   [Dropbox for Windows Phone](http://www.windowsphone.com/s?appId=47e5340d-945f-494e-b113-b16121aeb8f8)
+ - [Dropbox for Windows Phone](http://www.windowsphone.com/s?appId=47e5340d-945f-494e-b113-b16121aeb8f8)

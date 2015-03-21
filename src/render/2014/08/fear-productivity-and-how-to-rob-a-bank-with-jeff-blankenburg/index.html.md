@@ -8,6 +8,7 @@ guestImage: jeff-blankenburg.jpg
 ---
 
 ###News
+
  - [Microservices and the First Law of Distributed Objects](http://martinfowler.com/articles/distributed-objects-microservices.html)
  - [Errant Architectures](http://www.drdobbs.com/errant-architectures/184414966)
  - [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
@@ -21,14 +22,17 @@ guestImage: jeff-blankenburg.jpg
  - [Quick Change on Netflix](http://dvd.netflix.com/Movie/Quick-Change/70036931?trkid=222336)
 
 ###Jeff Blankenburg
--   [https://twitter.com/jeffblankenburg](https://twitter.com/jeffblankenburg)
--   [http://jeffblankenburg.com/](http://jeffblankenburg.com/)
--   [Jeff's Windows Phone apps](http://www.windowsphone.com/en-US/store/publishers?publisherId=Jeff%2BBlankenburg)
--   [https://speakerdeck.com/jeffblankenburg](https://speakerdeck.com/jeffblankenburg)
+
+ - [https://twitter.com/jeffblankenburg](https://twitter.com/jeffblankenburg)
+ - [http://jeffblankenburg.com/](http://jeffblankenburg.com/)
+ - [Jeff's Windows Phone apps](http://www.windowsphone.com/en-US/store/publishers?publisherId=Jeff%2BBlankenburg)
+ - [https://speakerdeck.com/jeffblankenburg](https://speakerdeck.com/jeffblankenburg)
 
 ###App of the Week
+
  - [http://batterybarpro.com/](http://batterybarpro.com/)
 
 ###Promo
+
  - Retweet any one of our tweets for a chance at one of two $5 Microsoft gift cards!
 	 - US residents only :'(

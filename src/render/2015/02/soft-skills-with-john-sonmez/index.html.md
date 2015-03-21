@@ -24,11 +24,11 @@ guestImage: john-sonmez.jpg
 
 -----------
 
- -   [.Net Rocks - Working on your Career with John Sonmez](http://www.dotnetrocks.com/default.aspx?showNum=1088)
- -   [odesk.com](https://www.odesk.com/)
- -   [kanbanflow.com](https://kanbanflow.com/)
- -   [Pomodoro Technique](http://en.wikipedia.org/wiki/Pomodoro_Technique)
- -   [My Secret To Ridiculous Productivity. (I’m Using It Now)](http://simpleprogrammer.com/2014/02/17/secret-ridiculous-productivity-im-using-now/)
+ - [.Net Rocks - Working on your Career with John Sonmez](http://www.dotnetrocks.com/default.aspx?showNum=1088)
+ - [odesk.com](https://www.odesk.com/)
+ - [kanbanflow.com](https://kanbanflow.com/)
+ - [Pomodoro Technique](http://en.wikipedia.org/wiki/Pomodoro_Technique)
+ - [My Secret To Ridiculous Productivity. (I’m Using It Now)](http://simpleprogrammer.com/2014/02/17/secret-ridiculous-productivity-im-using-now/)
 
 ###Azure pick of the week
 
@@ -43,7 +43,7 @@ guestImage: john-sonmez.jpg
  - [devcareerboost.com](http://devcareerboost.com)
   - Code: **MSDEVSHOW** for $100 off
  - [Dev career boost -- blog course](http://devcareerboost.com/blog-course)
-  -   Free 3 Week Email course to create a blog to boost your career
+  - Free 3 Week Email course to create a blog to boost your career
  - Get a free signed copy of John's book: Soft Skills
   - Leave a *comment below* on how you'll improve yourself this year
  

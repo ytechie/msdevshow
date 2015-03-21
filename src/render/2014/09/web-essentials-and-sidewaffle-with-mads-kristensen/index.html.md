@@ -8,6 +8,7 @@ guestImage: mads-kristensen.jpg
 ---
 
 ###News
+
  - [WinJS Everywhere](http://blogs.windows.com/buildingapps/2014/09/17/winjs-everywhere/)
  - [Optimizing static websites hosted on IIS](http://madskristensen.net/post/optimizing-static-websites-on-iis#comments)
   -   [Azure Site Extensions](http://azure.microsoft.com/blog/2014/06/20/azure-web-sites-extensions/)
@@ -27,6 +28,7 @@ few more things we haven't mentioned before
  - [New D-Series Virtual Machine Sizes](http://azure.microsoft.com/blog/2014/09/22/new-d-series-virtual-machine-sizes/)
 
 ###Mads Kristensen
+
  - [https://twitter.com/mkristensen](https://twitter.com/mkristensen)
  - [http://madskristensen.net/](http://madskristensen.net/)
  - [Web Essentials](http://vswebessentials.com/) 
@@ -39,11 +41,14 @@ few more things we haven't mentioned before
  - [Add Empty file](http://visualstudiogallery.msdn.microsoft.com/3f820e99-6c0d-41db-aa74-a18d9623b1f3)
     
 ###Apps of the Week
+
  - [OneStart](http://www.windowsphone.com/s?appid=7860ee13-3666-4a15-9464-2a678e2f4f15)
  - [Age of Empires - Castle Siege](http://www.ageofempires.com/castlesiege)
 
 ###Dev Tool Of the Week
--   [Windows Store App Logo Maker](http://www.winbeta.org/news/awesome-tool-easily-creates-multi-sized-logos-your-windows-81-or-windows-phone-app-project)
+
+ - [Windows Store App Logo Maker](http://www.winbeta.org/news/awesome-tool-easily-creates-multi-sized-logos-your-windows-81-or-windows-phone-app-project)
 
 ###Carl
+
  - Carl will be [speaking](http://twincitiescodecamp.com/Speakers/Fall2014#sp5) at the [Twin Cities Code Camp](http://twincitiescodecamp.com/) on Oct 4th about Cortana. 

@@ -24,11 +24,11 @@ guestImage: joost-van-schaik.jpg
 
 ###Joost van Schaik
 
--   [dotnetbyexample.blogspot.com](http://dotnetbyexample.blogspot.com/)
--   [@localjoost](https://twitter.com/localjoost)
--   [LinkedIn](https://www.linkedin.com/in/joostvanschaik)
--   [Microsoft MVP](http://mvp.microsoft.com/en-us/MVP/Joost%20van%20Schaik-4034925)
--   [Joost's Apps](http://www.windowsphone.com/en-us/search?q=localjoost)
+ - [dotnetbyexample.blogspot.com](http://dotnetbyexample.blogspot.com/)
+ - [@localjoost](https://twitter.com/localjoost)
+ - [LinkedIn](https://www.linkedin.com/in/joostvanschaik)
+ - [Microsoft MVP](http://mvp.microsoft.com/en-us/MVP/Joost%20van%20Schaik-4034925)
+ - [Joost's Apps](http://www.windowsphone.com/en-us/search?q=localjoost)
 
 ----------------------
 

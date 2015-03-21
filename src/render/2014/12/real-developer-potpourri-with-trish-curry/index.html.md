@@ -22,8 +22,8 @@ guestImage: trish-curry.jpg
 
 ###Trish Curry
 
--   [@theCurryShow](https://twitter.com/theCurryShow)
--   [http://www.4imprint.com/](http://www.4imprint.com/)
+ - [@theCurryShow](https://twitter.com/theCurryShow)
+ - [http://www.4imprint.com/](http://www.4imprint.com/)
 
 ###Azure Pick of the Week
 

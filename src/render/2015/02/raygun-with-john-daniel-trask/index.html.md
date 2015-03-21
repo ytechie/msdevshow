@@ -10,7 +10,7 @@ guestImage: john-daniel-trask.jpg
 ###News
 
  - [Google Chrome will prevent your monitors from sleeping](https://code.google.com/p/chromium/issues/detail?id=179007)
-  -   [Carl's Monitor GitHub repo](https://github.com/caschw/Monitor)
+  - [Carl's Monitor GitHub repo](https://github.com/caschw/Monitor)
  - [Office "Touch" for Windows](http://winsupersite.com/office/office-touch-windows-outclass-version-ipad)
  - [Cloud Platform Roadmap](http://www.microsoft.com/en-us/server-cloud/roadmap/)
  - [Date and time formatting for humans](http://thechangelog.com/date-time-formatting-humans/)
