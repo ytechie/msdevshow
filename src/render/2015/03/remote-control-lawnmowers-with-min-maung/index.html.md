@@ -5,7 +5,6 @@ guest: Min Maung
 date: 2015-03-20
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0047.mp3
 guestImage: min-maung.jpg
-ignored: true
 ---
 
 ###News
