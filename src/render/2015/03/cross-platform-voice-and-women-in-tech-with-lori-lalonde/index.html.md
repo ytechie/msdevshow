@@ -30,6 +30,17 @@ guestImage: lori-lalonde.jpg
  - [CTTDNUG](http://www.meetup.com/CTTDNUG/)
  - [Amazon Book](http://www.amazon.com/Windows-Phone-Recipes-Problem-Solution-Approach/dp/1430259027/ref=la_B00J4U0A4I_1_1?s=books&ie=UTF8&qid=1427487378&sr=1-1)
 
+---------------------
+
+ - [James Montemagno's text to speech repo - Xamarin](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/TextToSpeech)
+ - [Hour of code](http://code.org/)
+ - [Lean In](http://leanin.org/)
+ - [Girls Who Code](http://girlswhocode.com/)
+ - [Girl Geeks Dinner](http://girlgeekdinners.com/)
+ - [Ladies Learning Code](http://ladieslearningcode.com/)
+  - [For 8-13 year old girls](http://ladieslearningcode.com/program/girls-learning-code/)
+  - [For 8-13 year old boys and girls](http://ladieslearningcode.com/program/kids-learning-code/)
+
 ###Azure pick of the week
 
  - [Azure App Service](https://weblogs.asp.net/scottgu/announcing-the-new-azure-app-service)
@@ -38,10 +49,4 @@ guestImage: lori-lalonde.jpg
 
  - [Telescope](https://www.windowsphone.com/s?appId=e6df1b0c-6776-4ce0-af99-75a7b5a7daa2)
 
----------------------
 
--   [James Montemagno's text to speech repo - Xamarin](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/TextToSpeech)
--   [Hour of code](http://code.org/)
--   [Lean In](http://leanin.org/)
--   [Girls Who Code](http://girlswhocode.com/)
--   [Girl Geeks Dinner](http://girlgeekdinners.com/)
