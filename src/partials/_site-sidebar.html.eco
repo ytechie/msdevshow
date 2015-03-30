@@ -2,9 +2,6 @@
 cacheable: true
 ---
 <aside id="site-sidebar">
-    <header>
-        <h1>Dev Bar</h1>
-    </header>
     <nav class="sidebar-nav" id="subscribe-nav">
     	<h2>Subscribe!</h2>
     	<ul>
