@@ -5,7 +5,6 @@ guest: Sara Itani
 date: 2015-04-10
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0050.mp3
 guestImage: sara-itani.jpg
-ignored: true
 ---
 
 ###News
