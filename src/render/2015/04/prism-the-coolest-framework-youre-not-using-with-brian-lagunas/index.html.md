@@ -5,7 +5,6 @@ guest: Brian Lagunas
 date: 2015-04-17
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0051.mp3
 guestImage: brian-lagunas.jpg
-ignored: true
 ---
 
 ###News
