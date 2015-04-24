@@ -3,7 +3,6 @@ layout: post
 title: News-A-Palooza
 date: 2015-04-24
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0052.mp3
-ignored: true
 ---
 
 ###News
