@@ -3,7 +3,6 @@ layout: post
 title: BUILD 2015 Recap
 date: 2015-05-04
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0053.mp3
-ignored: true
 ---
 
 ###News
