@@ -10,42 +10,42 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0053.mp3
 ####Windows
 
  - [UAP -\> UWP Universal Windows Platform](http://blogs.windows.com/buildingapps/2015/04/29/distributing-windows-apps-to-the-world/)
- - [Deep Dive](http://blogs.windows.com/buildingapps/2015/04/30/a-deeper-dive-into-the-universal-windows-platform/)
- - [Need to Know: What is UWP?](https://www.thurrott.com/windows/windows-10/3294/need-to-know-universal-windows-platform)
- - [Live tiles, notifications and Action center](http://channel9.msdn.com/Events/Build/2015/2-762)
-  -   XAML Tiles are being worked on
-  -   Interactive tiles are being worked on
-  -   JSON format being worked on
- - [Web of apps](http://channel9.msdn.com/Events/Build/2015/3-765)
- - Subscription based IAPs are coming to the new dev center and win10 apps
- - Carrier Billing across all Windows 10 devices
- - [One Dev Center](http://blogs.windows.com/buildingapps/2015/05/01/get-ready-for-the-unified-dev-center-dashboard-preview-and-upcoming-store-changes/)
-  - Single submission flow for your Universal Windows Apps, as well as legacy Windows 8.x and Windows Phone 7.x/8.x apps
-  - Single dashboard to analyze and manage app performance across all you apps
-  -   Ability to distribute your apps to consumers who use Windows Store, as well as in a storefront specifically built for businesses and organizations, all via a single app submission
-  - Management of your ads-in-apps from within Dev Center
-  - And when the toolkits are available later this year, you will be able to submit and manage apps and games created with any of the [Universal Windows Platform Bridges](http://dev.windows.com/uwp-bridges/), a combination of developer tooling and runtime technologies that enables existing code to run in a way appropriate to the Windows platform including:
-  - Classic Windows apps – bridge for traditional desktop applications
+  - [Deep Dive](http://blogs.windows.com/buildingapps/2015/04/30/a-deeper-dive-into-the-universal-windows-platform/)
+  - [Need to Know: What is UWP?](https://www.thurrott.com/windows/windows-10/3294/need-to-know-universal-windows-platform)
+  - [Live tiles, notifications and Action center](http://channel9.msdn.com/Events/Build/2015/2-762)
+     -   XAML Tiles are being worked on
+     -   Interactive tiles are being worked on
+     -   JSON format being worked on
+  - [Web of apps](http://channel9.msdn.com/Events/Build/2015/3-765)
+  - Subscription based IAPs are coming to the new dev center and win10 apps
+  - Carrier Billing across all Windows 10 devices
+  - [One Dev Center](http://blogs.windows.com/buildingapps/2015/05/01/get-ready-for-the-unified-dev-center-dashboard-preview-and-upcoming-store-changes/)
+     - Single submission flow for your Universal Windows Apps, as well as legacy Windows 8.x and Windows Phone 7.x/8.x apps
+     - Single dashboard to analyze and manage app performance across all you apps
+     -   Ability to distribute your apps to consumers who use Windows Store, as well as in a storefront specifically built for businesses and organizations, all via a single app submission
+     - Management of your ads-in-apps from within Dev Center
+     - And when the toolkits are available later this year, you will be able to submit and manage apps and games created with any of the [Universal Windows Platform Bridges](http://dev.windows.com/uwp-bridges/), a combination of developer tooling and runtime technologies that enables existing code to run in a way appropriate to the Windows platform including:
+     - Classic Windows apps – bridge for traditional desktop applications
     and PC games into the Windows Store, making it easier to distribute
     and monetize PC games and applications that use .NET and Win32
-  - Web apps – new ways for web sites to get discovered as apps in the
+     - Web apps – new ways for web sites to get discovered as apps in the
     Store, engaged by using notifications, and new ways to monetize
     using Windows Store payment options. Discussed at [Mobile World
     Congress](http://blogs.windows.com/buildingapps/2015/03/02/a-first-look-at-the-windows-10-universal-app-platform/)
-  - For today’s app developer, we gave an early peek at [Android](https://dev.windows.com/en-US/uwp-bridges/project-astoria)subsystem and [IOS](https://dev.windows.com/en-US/uwp-bridges/project-islandwood) toolkits that make it easy for developers to extend their reach using their existing code, be it C++, Java, OpenGL, or Objective C
- - [Universal App Samples on GitHub have been updated](https://github.com/Microsoft/Windows-universal-samples)
- - [Initial Design Guidance](http://blogs.windows.com/bloggingwindows/2015/04/29/windows-10-design-getting-the-balance-right/)
- - [Bridges](http://blogs.msdn.com/b/stevengu/archive/2015/04/30/building-bridges-that-empower-developers.aspx)
- - [More UWP Bridges](https://dev.windows.com/en-US/uwp-bridges)
- - [Use your Android Code on Windows as UWP](http://channel9.msdn.com/Events/Build/2015/2-702) - Project Astoria
- - [Use your iOS Code on Windows as UWP](http://channel9.msdn.com/Blogs/OneCode/How-to-Port-iOS-apps-to-Windows-Store-apps) - Project Islandwood
- - [Use your .Net and Win32 code on Windows as UWP](http://channel9.msdn.com/Events/Build/2015/2-692) - Project Centennial
- - Use your web code on Windows as UWP - Project Westminster
- - [Hololens](http://channel9.msdn.com/Events/Build/2015/C9-08)
- - [Continuum](http://channel9.msdn.com/Events/Build/2015/2-703)
- - Run the tablet version of phone apps with a connected display
-  -   Works over HDMI or Miracast
- - [Windows 10 preview for IoT is available](http://channel9.msdn.com/Events/Build/2015/2-724)
+     - For today’s app developer, we gave an early peek at [Android](https://dev.windows.com/en-US/uwp-bridges/project-astoria)subsystem and [IOS](https://dev.windows.com/en-US/uwp-bridges/project-islandwood) toolkits that make it easy for developers to extend their reach using their existing code, be it C++, Java, OpenGL, or Objective C
+  - [Universal App Samples on GitHub have been updated](https://github.com/Microsoft/Windows-universal-samples)
+  - [Initial Design Guidance](http://blogs.windows.com/bloggingwindows/2015/04/29/windows-10-design-getting-the-balance-right/)
+  - [Bridges](http://blogs.msdn.com/b/stevengu/archive/2015/04/30/building-bridges-that-empower-developers.aspx)
+     - [More UWP Bridges](https://dev.windows.com/en-US/uwp-bridges)
+     - [Use your Android Code on Windows as UWP](http://channel9.msdn.com/Events/Build/2015/2-702) - Project Astoria
+     - [Use your iOS Code on Windows as UWP](http://channel9.msdn.com/Blogs/OneCode/How-to-Port-iOS-apps-to-Windows-Store-apps) - Project Islandwood
+     - [Use your .Net and Win32 code on Windows as UWP](http://channel9.msdn.com/Events/Build/2015/2-692) - Project Centennial
+     - Use your web code on Windows as UWP - Project Westminster
+  - [Hololens](http://channel9.msdn.com/Events/Build/2015/C9-08)
+  - [Continuum](http://channel9.msdn.com/Events/Build/2015/2-703)
+   - Run the tablet version of phone apps with a connected display
+     -   Works over HDMI or Miracast
+  - [Windows 10 preview for IoT is available](http://channel9.msdn.com/Events/Build/2015/2-724)
   -   [Works on Minnowboard Max or Raspberry Pi 2](http://blogs.windows.com/buildingapps/2015/04/29/microsoft-brings-windows-10-to-makers/)
   -   [Get started here](http://ms-iot.github.io/content/GetStarted.htm)
   - [Windows 10 "Arduino Certified" components](http://www.zdnet.com/article/windows-10-gets-arduino-certified-with-new-two-open-source-libraries/)
