@@ -5,7 +5,7 @@ guest: Jason Bock
 date: 2015-05-08
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0054.mp3
 guestImage: jason-bock.jpg
-igonred: true
+ignored: true
 ---
 
 ###News
