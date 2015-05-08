@@ -5,7 +5,6 @@ guest: Jason Bock
 date: 2015-05-08
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0054.mp3
 guestImage: jason-bock.jpg
-ignored: true
 ---
 
 ###News
@@ -60,7 +59,7 @@ ignored: true
   - Broadcast to up to 10,000 viewers
   - DVR functionality for conferences
 
-###Jason Bock 
+###Jason Bock
 Jason Bock, practice lead for Magenic, Microsoft MVP, author, and speaker.
 
  - [jasonbock.net](http://jasonbock.net)
