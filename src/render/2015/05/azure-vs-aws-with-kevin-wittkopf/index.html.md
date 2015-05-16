@@ -2,6 +2,7 @@
 layout: post
 title: Azure vs AWS
 guest: Kevin Wittkopf
+guestImage: kevin-wittkopf.jpg
 date: 2015-05-15
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0055.mp3
 ---
