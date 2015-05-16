@@ -28,3 +28,7 @@ Technical Evangelist at Microsoft
 
  - [Bounce For Band](http://www.windowsphone.com/s?appid=e5760d04-df84-4339-9489-e1947a3ea02c)
  - [Microsoft Hyperlapse](http://research.microsoft.com/en-us/um/redmond/projects/hyperlapseapps/)
+
+###Sponsor
+
+Want a sweet license from [Infragistics](http://infragistics.com)? Leave a comment below, or reach out to us on [Twitter](https://twitter.com/msdevshow) or [Facebook](https://www.facebook.com/msdevshow) for a chance to get one!
