@@ -29,6 +29,7 @@ Technical Evangelist at Microsoft
 ###Apps of the Week
 
  - [Bounce For Band](http://www.windowsphone.com/s?appid=e5760d04-df84-4339-9489-e1947a3ea02c)
+  - By [Carl Robinson](https://twitter.com/walkingpopcorn)
  - [Microsoft Hyperlapse](http://research.microsoft.com/en-us/um/redmond/projects/hyperlapseapps/)
 
 ###Sponsor
