@@ -16,6 +16,8 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0055.mp3
   - [CodePen example](http://codepen.io/anon/pen/xGVKgm)
  - [Why the way we look at technical debt is wrong](http://bigeng.io/post/118399425343/why-the-way-we-look-at-technical-debt-is-wrong)
  - [Node.js and IO.js are Merging](https://github.com/iojs/io.js/issues/1664#issuecomment-101828384)
+ - [@aruntalkstech](https://twitter.com/aruntalkstech)
+  - [Arun talks web of apps](http://channel9.msdn.com/events/Build/2015/3-765)
 
 ###Kevin Wittkopf
 
