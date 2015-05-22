@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Project Centennial
+title: Project Centennial (Win32 in appx)
 guest: John Sheehan
 guestImage: john-sheehan.jpg
 date: 2015-05-22
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0056.mp3
-ignored: true
 ---
 
 ###News
