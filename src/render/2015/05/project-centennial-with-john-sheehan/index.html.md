@@ -24,10 +24,8 @@ ignored: true
 
 ###John Sheehan
 
- - Distinguished Engineer in Windows
- - Architect of the Windows App Model
- - Came into Microsoft through the acquisition of Softricity, where he was Chief Architect
-  - SoftGrid (the Softricity product) became Microsoft App-V, an app virtualization product
+John is Distinguished Engineer in Windows, and Architect of the Windows App Model. He came into Microsoft through the acquisition of Softricity, where he was Chief Architect where of the product SoftGrid. SoftGrid became Microsoft App-V, a current Microsoft app virtualization product
+
  - [@dumbnose](https://twitter.com/dumbnose)
  - [John's Microsoft Blog](http://blogs.msdn.com/b/johnsheehan/)
  - [Project Centennial Build Session by John](http://channel9.msdn.com/Events/Build/2015/2-692)
