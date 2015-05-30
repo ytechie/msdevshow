@@ -10,7 +10,6 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0057.mp3
 ###News
 
  - [Show Topic Voting](http://msdv.sh/showtopicvoting)
-  - [http://msdv.sh/showtopicvoting](http://msdv.sh/showtopicvoting)
  - [Windows Store payout improvements](http://blogs.windows.com/buildingapps/2015/05/29/windows-store-payout-improvements/?utm_content=buffer20ee3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
  - [Optimistic UI with Meteor](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation?utm_content=bufferab051&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
  - [Pull to refresh in WinRT](http://www.blendrocks.com/code-blend/2015/4/29/pull-to-refresh-for-winrt?utm_content=bufferf5d7f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -23,7 +22,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0057.mp3
 Principal Program Manager on the Astoria project
 
  - [LinkedIn](https://www.linkedin.com/pub/shabnam-erfani/0/149/33)
- - [https://twitter.com/shaberf](https://twitter.com/shaberf)
+ - [@shaberf](https://twitter.com/shaberf)
 
 --------------------------------------
 
