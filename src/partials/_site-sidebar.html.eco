@@ -10,9 +10,9 @@ cacheable: true
             <li><a href="http://msdevshow.libsyn.com/rss" title="Subscribe to the MS Dev Show via RSS" target="_blank">RSS (Others)</a></li>
     	</ul>
     </nav>
-    <nav class="sidebar-nav">
+    <nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsor</h2>
-			<a href="http://infragistics.com" title="Infragistics">
+			<a href="http://bit.ly/1dnkzSf" title="Infragistics">
 				<img src="/images/sidebar-ad.jpg" title="Infragistics" />
 			</a>
     </nav>
