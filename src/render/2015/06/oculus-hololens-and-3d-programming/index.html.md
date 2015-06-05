@@ -5,7 +5,6 @@ guest: René Schulte
 guestImage: rene-schulte.jpg
 date: 2015-06-05
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0058.mp3
-ignored: true
 ---
 
 ###News
