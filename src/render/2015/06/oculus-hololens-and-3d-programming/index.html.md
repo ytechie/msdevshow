@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oculus, Hololens, and 3D Programming
-guest: René Schulte
+guest: Rene Schulte
 guestImage: rene-schulte.jpg
 date: 2015-06-05
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0058.mp3
@@ -21,21 +21,13 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0058.mp3
  - [Visual Studio Code 0.3.0](https://code.visualstudio.com/Updates)
  - [JSON Support in SQL Server](http://www.infoq.com/news/2015/05/SQL-Server-JSON)
 
-###
+###Rene Schulte 
 
 René Schulte is an internationally recognized, independent expert and
-was honored for his community work with the [Microsoft
-MVP](http://mvp.microsoft.com/en-US/findanmvp/Pages/profile.aspx?MVPID=a045a803-b9e7-4bda-8209-648068e8b2ee)
-Award and as [Nokia Developer
-Champion](https://www.developer.nokia.com/Profile/?u=teichgraf). He
-[blogs](http://blog.rene-schulte.info/) about many topics of Windows
-Phone, .NET, and Windows development in general and writes articles.
-Sometimes he can also be found at various events as a speaker like
-[//build](http://www.buildwindows.com/) and the Microsoft and Nokia
-Windows Phone launch events and he takes part as a judge for Mobile
-Development Contests (Microsoft Imagine Cup, AppCampus, Core77).
-
-###René Schulte 
+was honored for his community work with the [Microsoft MVP](http://mvp.microsoft.com/en-US/findanmvp/Pages/profile.aspx?MVPID=a045a803-b9e7-4bda-8209-648068e8b2ee)
+Award and as [Nokia Developer Champion](https://www.developer.nokia.com/Profile/?u=teichgraf). He
+[blogs](http://blog.rene-schulte.info/) about many topics of Windows Phone, .NET, and Windows development in general and writes articles. Sometimes he can also be found at various events as a speaker like
+[//build](http://www.buildwindows.com/) and the Microsoft and Nokia Windows Phone launch events and he takes part as a judge for Mobile Development Contests (Microsoft Imagine Cup, AppCampus, Core77).
 
 René Schulte is a Windows Phone developer since day one and develops highly acclaimed apps such as [Pictures Lab](http://bit.ly/PicLabWp), [Funny Faces](http://bit.ly/FunnyFacesWp7), [Face Lens](http://www.windowsphone.com/s?appid=69a2cb09-53e1-477e-a8d7-d3093cff287b), [Helium Voice](http://windowsphone.com/s?appid=da4c75d6-df50-e011-854c-00237de2db9e), [Cloud Recorder](http://bit.ly/CloudRecorderWp7) and [more](http://www.windowsphone.com/en-US/publishers/Schulte%20Software%20Development).
 
