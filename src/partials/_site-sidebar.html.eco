@@ -10,6 +10,12 @@ cacheable: true
             <li><a href="http://msdevshow.libsyn.com/rss" title="Subscribe to the MS Dev Show via RSS" target="_blank">RSS (Others)</a></li>
     	</ul>
     </nav>
+    <nav class="sidebar-nav">
+    	<h2>Sponsor</h2>
+			<a href="https://www.facebook.com/msdevshow" title="Like the MS Dev Show on Facebook">
+				<img src="/images/sidebar-ad.jpg" title="Like the MS Dev Show on Facebook" />
+			</a>
+    </nav>
     <nav class="sidebar-nav" id="share-nav">
     	<h2>Social</h2>
     	<ul>
