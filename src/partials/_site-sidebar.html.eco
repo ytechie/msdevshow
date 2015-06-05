@@ -12,8 +12,8 @@ cacheable: true
     </nav>
     <nav class="sidebar-nav">
     	<h2>Sponsor</h2>
-			<a href="https://www.facebook.com/msdevshow" title="Like the MS Dev Show on Facebook">
-				<img src="/images/sidebar-ad.jpg" title="Like the MS Dev Show on Facebook" />
+			<a href="http://infragistics.com" title="Infragistics">
+				<img src="/images/sidebar-ad.jpg" title="Infragistics" />
 			</a>
     </nav>
     <nav class="sidebar-nav" id="share-nav">
