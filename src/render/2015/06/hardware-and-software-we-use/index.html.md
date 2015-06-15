@@ -20,33 +20,33 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
  - [Intel Core i7-4770S Haswell Quad-Core 3.1GHz LGA 1150 65W BX80646I74770S Desktop Processor Intel HD Graphics](http://www.newegg.com/Product/Product.aspx?Item=N82E16819116902)
  - [ASRock Fatal1ty Z87 Killer LGA 1150 Intel Z87 HDMI SATA 6Gb/s USB 3.0 ATX Intel Gaming Motherboard](http://www.newegg.com/Product/Product.aspx?Item=N82E16813157460)
  - [Antec GX500 Black Steel ATX Mid Tower Computer Case](http://www.newegg.com/Product/Product.aspx?Item=N82E16811129191)
- - [Razer Abyssus Optical PC Gaming Mouse](http://www.amazon.com/gp/product/B002XLR0JI?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00)
- - [Logitech HD Pro Webcam C920](http://www.amazon.com/gp/product/B006JH8T3S?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00)
- - [Logitech Illuminated Keyboard K740](http://www.amazon.com/gp/product/B001F51G16?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00)
- - [3 foot Cord PowerSquid Surge Protector with Power Conditioner and 5 Outlets](http://www.amazon.com/gp/product/B0055YB7IA?psc=1&redirect=true&ref_=oh_aui_detailpage_o09_s00)
+ - [Razer Abyssus Optical PC Gaming Mouse](http://www.amazon.com/gp/product/B002XLR0JI?tag=ytechie-20)
+ - [Logitech HD Pro Webcam C920](http://www.amazon.com/gp/product/B006JH8T3S?tag=ytechie-20)
+ - [Logitech Illuminated Keyboard K740](http://www.amazon.com/gp/product/B001F51G16?tag=ytechie-20)
+ - [3 foot Cord PowerSquid Surge Protector with Power Conditioner and 5 Outlets](http://www.amazon.com/gp/product/B0055YB7IA?tag=ytechie-20)
 
 ###Carl's Mobile Rig
 
  - [Surface Pro 3 - i5, 8GB Ram, 256GB](http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600?WT.mc_id=sp3pdp-hero)
-  - [Inateck Surface Pro 3 Protective Carrying Sleeve Bag Envelope Case](http://www.amazon.com/gp/product/B00P259LFS?psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
+  - [Inateck Surface Pro 3 Protective Carrying Sleeve Bag Envelope Case](http://www.amazon.com/gp/product/B00P259LFS?tag=ytechie-20)
   - [Arc Touch Mouse Surface Edition](http://www.microsoftstore.com/store/msusa/en_US/pdp/Arc-Touch-Mouse-Surface-Edition/productID.286866800)
 
 ###Carl's Other Hardware
 
- - [PNY 7800mAh 2.4 Amp PowerPack Portable Rechargeable Battery Charger](http://www.amazon.com/gp/product/B00B7UKVHY?psc=1&redirect=true&ref_=oh_aui_detailpage_o06_s00)
-  - Replace with: [Anker Astro E7 Ultra-High Capacity 25600mAh 3-Port 4A External Portable  Charger](http://www.amazon.com/dp/B00M3073L4/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=fb_us_nfdesktop_e7_lookalike79_35-44m_0611-20&linkId=2HGC647QT7JRLXYE)
- - [Jabra SPEAK410 USB Speakerphone](http://www.amazon.com/Jabra-SPEAK410-Speakerphone-Skype-other/dp/B007SHJIO2/ref=sr_1_1?ie=UTF8&qid=1434080555&sr=8-1&keywords=jabra+speak+410&pebp=1434080568166&perid=804DA49E5E034BF4B1AF)
- - [Plantronics Voyager Legend UC B235-M Bluetooth Headset](http://www.amazon.com/Plantronics-Voyager-Legend-Bluetooth-Headset/dp/B009ZJ3MSY/ref=sr_1_2?ie=UTF8&qid=1434080655&sr=8-2&keywords=plantronics+voyager+pro+uc)
- - [Get USB cables that fit your need](http://www.amazon.com/gp/product/B00N8VT4FK?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00)
- - [**Really short** USB cables](http://www.amazon.com/gp/product/B00N8VT4FK?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00)
+ - [PNY 7800mAh 2.4 Amp PowerPack Portable Rechargeable Battery Charger](http://www.amazon.com/gp/product/B00B7UKVHY?tag=ytechie-20)
+  - Replace with: [Anker Astro E7 Ultra-High Capacity 25600mAh 3-Port 4A External Portable  Charger](http://www.amazon.com/dp/B00M3073L4/?tag=ytechie-20)
+ - [Jabra SPEAK410 USB Speakerphone](http://www.amazon.com/Jabra-SPEAK410-Speakerphone-Skype-other/dp/B007SHJIO2/?tag=ytechie-20)
+ - [Plantronics Voyager Legend UC B235-M Bluetooth Headset](http://www.amazon.com/Plantronics-Voyager-Legend-Bluetooth-Headset/dp/B009ZJ3MSY/?tag=ytechie-20)
+ - [Get USB cables that fit your need](http://www.amazon.com/gp/product/B00N8VT4FK?tag=ytechie-20)
+ - [**Really short** USB cables](http://www.amazon.com/gp/product/B00N8VT4FK?tag=ytechie-20)
 
 ###Carl's Phone
 
- - [HTC One M8 for Windows](http://www.amazon.com/gp/product/B00M7DFJ0O?psc=1&redirect=true&ref_=oh_aui_detailpage_o08_s00)
- - [HTC Dot View Case - Orange Popsicle](http://www.amazon.com/gp/product/B00J62637C?psc=1&redirect=true&ref_=oh_aui_detailpage_o07_s00)
+ - [HTC One M8 for Windows](http://www.amazon.com/gp/product/B00M7DFJ0O?tag=ytechie-20)
+ - [HTC Dot View Case - Orange Popsicle](http://www.amazon.com/gp/product/B00J62637C?tag=ytechie-20)
  - [Patriot Signature 64GB MicroSD Extended Capacity](http://www.newegg.com/Product/Product.aspx?Item=N82E16820220814)
- - [FiiO E11K Portable Headphone Amplifier](http://www.amazon.com/gp/product/B00MFMW29I?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00)
- - [FiiO L16 Professional 3.5mm to 3.5mm Short Cable](http://www.amazon.com/L16-Professional-3-5mm-Short-Cable/dp/B00KL7C10O/ref=pd_sim_23_1?ie=UTF8&refRID=1F1Q1175XZDE78NFYX6C)
+ - [FiiO E11K Portable Headphone Amplifier](http://www.amazon.com/gp/product/B00MFMW29I?tag=ytechie-20)
+ - [FiiO L16 Professional 3.5mm to 3.5mm Short Cable](http://www.amazon.com/L16-Professional-3-5mm-Short-Cable/dp/B00KL7C10O/?tag=ytechie-20)
 
 ###Carl's Software
 
@@ -76,19 +76,19 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
 ###Jason's Rig
 
  - [Detailed Build Information](http://www.ytechie.com/2013/03/my-ivy-bridge-i7-build/)
- - [Samsung 850 Pro 512GB 2.5-Inch SATA III Internal SSD](http://www.amazon.com/gp/product/B00LF10KTO)
+ - [Samsung 850 Pro 512GB 2.5-Inch SATA III Internal SSD](http://www.amazon.com/gp/product/B00LF10KTO/?tag=ytechie-20)
 
 ###Jason's Mobile Rig
 
 - [Surface Pro 3 - i5, 8GB Ram, 256GB](http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600?WT.mc_id=sp3pdp-hero)
- - [amCase Protective Neoprene with Handle](http://www.amazon.com/gp/product/B00DUN2PBQ)
+ - [amCase Protective Neoprene with Handle](http://www.amazon.com/gp/product/B00DUN2PBQ/?tag=ytechie-20)
  - [Arc Touch Mouse Surface Edition](http://www.microsoftstore.com/store/msusa/en_US/pdp/Arc-Touch-Mouse-Surface-Edition/productID.286866800)
 
 
 ###Jason's Other Hardware
 
  - Grid it
- - [Microfiber Cloth](http://www.amazon.com/Microfiber-Cleaning-Cloth-Color-1-Count/dp/B00009PSZ2)
+ - [Microfiber Cloth](http://www.amazon.com/Microfiber-Cleaning-Cloth-Color-1-Count/dp/B00009PSZ2/?tag=ytechie-20)
  - Microsoft Arc Touch Mouse
  - Neoprene case
  - MS Band
@@ -96,18 +96,18 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
 ###Jason's Phones
  - iPhone 6 Plus
  - Lumia 635
- - [Moto E (I mistakenly said G on the podcast)](http://www.amazon.com/gp/product/B00K0NRYF6)
+ - [Moto E (I mistakenly said G on the podcast)](http://www.amazon.com/gp/product/B00K0NRYF6/?tag=ytechie-20)
 
 ###Jason's Car Hardware
 
  - [ProClipUSA](http://www.proclipusa.com/)
- - [Anker 9.6A / 48W 4-Port USB Car Charger](http://www.amazon.com/gp/product/B00SSMRB9A)
+ - [Anker 9.6A / 48W 4-Port USB Car Charger](http://www.amazon.com/gp/product/B00SSMRB9A/?tag=ytechie-20)
 
 ###Jason's Other Hardware
 
  - Logitech C920 Webcam
- - [Scansnap Scanner](http://www.amazon.com/Fujitsu-ScanSnap-iX500-Scanner-PA03656-B005/dp/B00ATZ9QMO/)
- - [Anker 25W 5-Port Desktop USB Charger](http://www.amazon.com/gp/product/B00KBMRNQG)
+ - [Scansnap Scanner](http://www.amazon.com/Fujitsu-ScanSnap-iX500-Scanner-PA03656-B005/dp/B00ATZ9QMO/?tag=ytechie-20)
+ - [Anker 25W 5-Port Desktop USB Charger](http://www.amazon.com/gp/product/B00KBMRNQG/?tag=ytechie-20)
  - Headphones
 
 ###Jason's Software
