@@ -3,7 +3,6 @@ layout: post
 title: Hardware and Software We Use
 date: 2015-06-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
-ignored: true
 ---
 
 ###News
@@ -75,12 +74,16 @@ ignored: true
  - [LastPass](https://lastpass.com/)
 
 ###Jason's Rig
- 
- - [http://www.ytechie.com/2013/03/my-ivy-bridge-i7-build/](http://www.ytechie.com/2013/03/my-ivy-bridge-i7-build/)
+
+ - [Detailed Build Information](http://www.ytechie.com/2013/03/my-ivy-bridge-i7-build/)
+ - [Samsung 850 Pro 512GB 2.5-Inch SATA III Internal SSD](http://www.amazon.com/gp/product/B00LF10KTO)
 
 ###Jason's Mobile Rig
 
- - SP3
+- [Surface Pro 3 - i5, 8GB Ram, 256GB](http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600?WT.mc_id=sp3pdp-hero)
+ - [amCase Protective Neoprene with Handle](http://www.amazon.com/gp/product/B00DUN2PBQ)
+ - [Arc Touch Mouse Surface Edition](http://www.microsoftstore.com/store/msusa/en_US/pdp/Arc-Touch-Mouse-Surface-Edition/productID.286866800)
+
 
 ###Jason's Other Hardware
 
@@ -93,18 +96,18 @@ ignored: true
 ###Jason's Phones
  - iPhone 6 Plus
  - Lumia 635
- - Moto G
+ - [Moto E (I mistakenly said G on the podcast)](http://www.amazon.com/gp/product/B00K0NRYF6)
 
 ###Jason's Car Hardware
 
- - ProClipUSA
- - Anker charger
+ - [ProClipUSA](http://www.proclipusa.com/)
+ - [Anker 9.6A / 48W 4-Port USB Car Charger](http://www.amazon.com/gp/product/B00SSMRB9A)
 
 ###Jason's Other Hardware
 
  - Logitech C920 Webcam
- - Scansnap S1500
- - Anker charger
+ - [Scansnap Scanner](http://www.amazon.com/Fujitsu-ScanSnap-iX500-Scanner-PA03656-B005/dp/B00ATZ9QMO/)
+ - [Anker 25W 5-Port Desktop USB Charger](http://www.amazon.com/gp/product/B00KBMRNQG)
  - Headphones
 
 ###Jason's Software
