@@ -87,15 +87,13 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
 
 ###Jason's Other Hardware
 
- - Grid it
+ - [Grid it](https://www.amazon.com/gp/product/B00479FQCM/?tag=ytechie-20)
  - [Microfiber Cloth](http://www.amazon.com/Microfiber-Cleaning-Cloth-Color-1-Count/dp/B00009PSZ2/?tag=ytechie-20)
- - Microsoft Arc Touch Mouse
- - Neoprene case
- - MS Band
+ - [Microsoft Band](http://www.amazon.com/dp/B00P2QKNFO/?tag=ytechie-20)
 
 ###Jason's Phones
- - iPhone 6 Plus
- - Lumia 635
+ - [iPhone 6 Plus](http://www.amazon.com/Apple-iPhone-Plus-Space-Unlocked/dp/B00NQGOODE/?tag=ytechie-20)
+ - [Lumia 635](http://www.amazon.com/AT-Nokia-Lumia-635-Contract/dp/B00LBFFSNM/?tag=ytechie-20)
  - [Moto E (I mistakenly said G on the podcast)](http://www.amazon.com/gp/product/B00K0NRYF6/?tag=ytechie-20)
 
 ###Jason's Car Hardware
@@ -105,10 +103,10 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
 
 ###Jason's Other Hardware
 
- - Logitech C920 Webcam
+ - [Logitech C920 Webcam](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S/?tag=ytechie-20)
  - [Scansnap Scanner](http://www.amazon.com/Fujitsu-ScanSnap-iX500-Scanner-PA03656-B005/dp/B00ATZ9QMO/?tag=ytechie-20)
  - [Anker 25W 5-Port Desktop USB Charger](http://www.amazon.com/gp/product/B00KBMRNQG/?tag=ytechie-20)
- - Headphones
+ - [Audio-Technica ATH-M50x Headphones](http://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86/?tag=ytechie-20)
 
 ###Jason's Software
 
