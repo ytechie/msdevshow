@@ -92,6 +92,16 @@
 			color: $sidebar-header-color;
 			padding: 1.2em 0.5em 0 0.5em;
 		}
+		
+		#sponsor-nav{
+			a{
+				img{
+					position: relative;
+					left: 2px;
+					top: 3px;
+				}
+			}
+		}
 
 		nav {
 			margin-top: 1em;
