@@ -5,7 +5,6 @@ guest: Arun Singh
 date: 2015-07-04
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0062.mp3
 guestImage: arun-singh.jpg
-ignored: true
 ---
 
 ###News
