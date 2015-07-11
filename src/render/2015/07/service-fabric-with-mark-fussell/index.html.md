@@ -4,7 +4,6 @@ guest: Mark Fussell
 date: 2015-07-11
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0063.mp3
 guestImage: mark-fussell.jpg
-ignored: true
 ---
 
 ###News
