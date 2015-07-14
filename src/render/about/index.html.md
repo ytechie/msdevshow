@@ -15,4 +15,8 @@ A fan of technology, he loves learning new and applicable technologies in mobile
 
 ###Jason Young
 
-Jason is too busy making his employer [Microsoft](http://microsoft.com) awesome to write a bio. Until then, just close your eyes and imagine that he's the *Most Interesting Man in the World*. 
+Jason is too busy making his employer [Microsoft](http://microsoft.com) awesome to write a bio. 
+
+![Jason Young](/images/JasonHeadshot.jpg)
+
+Until then, just close your eyes and imagine that he's the *Most Interesting Man in the World*. 
