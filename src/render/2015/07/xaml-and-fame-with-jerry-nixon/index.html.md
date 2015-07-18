@@ -16,7 +16,8 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0064.mp3
  - [VM Depot](https://vmdepot.msopentech.com)
  - [College will soon be a ton cheaper in Washington state. Thank Microsoft.](http://www.washingtonpost.com/blogs/govbeat/wp/2015/07/02/college-will-soon-be-a-ton-cheaper-in-washington-state-thank-microsoft/)
 
-#Jerry Nixon
+###Jerry Nixon
+
 Jerry Nixon is a developer evangelist with Microsoft living in Colorado and author of the Developers Guide to Windows 10 on Microsoft Virtual Academy. 
 
 - [@jerrynixon](https://twitter.com/jerrynixon)
@@ -33,7 +34,7 @@ Jerry Nixon is a developer evangelist with Microsoft living in Colorado and auth
   - [Matrix Transform](https://msdn.microsoft.com/en-us/library/system.windows.media.matrixtransform.aspx)
  - [Windows State Triggers](https://github.com/dotMorten/WindowsStateTriggers)
 
- ###App of the Week
+###App of the Week
 
  - One More Line
   - [Windows Phone](http://windowsphone.com/s?appid=ddf77af0-ba73-453e-b047-146e3e683c07)
