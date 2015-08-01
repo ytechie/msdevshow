@@ -5,7 +5,6 @@ guest: Ginny Caughey
 guestImage: Ginny-Caughey.jpg
 date: 2015-08-01
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0066.mp3
-ignored: true
 ---
 
 ###News
