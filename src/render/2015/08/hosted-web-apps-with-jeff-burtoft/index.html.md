@@ -5,7 +5,6 @@ guest: Jeff Burtoft
 guestImage: jeff-burtoft.jpg
 date: 2015-08-08
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0067.mp3
-ignored: true
 ---
 
 ###News
