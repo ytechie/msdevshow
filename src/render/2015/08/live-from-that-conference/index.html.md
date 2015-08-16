@@ -22,6 +22,8 @@ Also check out the photos of us in action over at [Facebook](https://www.faceboo
  
 ###Ethan Dobbs
 
+ - He's 11, and holds his own at a tech conference! That's Awesome
+
 ###Brandon Martinez
 
  - [brandonmartinez.com](http://www.brandonmartinez.com/)
