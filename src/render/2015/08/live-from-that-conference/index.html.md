@@ -46,7 +46,7 @@ Also check out the photos of us in action over at [Facebook](https://www.faceboo
  - [blog](http://blog.ailon.org/)
  - [adduplex.com](http://adduplex.com/) 
 
-###Tugberk
+###Tugberk Ugurlu
 
  - [tugberkugurlu.com](http://www.tugberkugurlu.com/)
  - [@tourismgeek](https://twitter.com/tourismgeek)
