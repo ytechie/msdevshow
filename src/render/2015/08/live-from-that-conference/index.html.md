@@ -7,6 +7,8 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0068.mp3
 
 We'd really like to extend our deepest thanks to Clark, Greg and *ALL* of the [ThatConference](https://www.thatconference.com/) staff, for providing us with an enhanced recording area. We couldn't get the great interviews for you without their great generosity and friendship, and we look forward to joining them again next year Aug 8, 2016 to Aug 10, 2016.
 
+Also check out the photos of us in action over at [Facebook](https://www.facebook.com/media/set/?set=a.1619309591656159.1073741829.1506993522887767&type=3)! While you're there, you might as well give us a like.
+
 ###"Uncle Bob" Martin
 
  - [cleancoders.com](http://cleancoders.com)
