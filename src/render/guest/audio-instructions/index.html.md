@@ -6,9 +6,11 @@ enablePageComments: false
 
 We want you to sound as amazing as possible. Recording your own audio track will **significantly** increase the audio quality of your episode. It takes only seconds to set up with a free tool called Audacity.
 
+(we also have backups on our end, so no need to stress)
+
 ### Before/During the Show
 
-1. [Download Audacity from here](http://audacity.sourceforge.net/download/). Don't worry, it's free and a small download.
+1. [Download Audacity from here](http://sourceforge.net/projects/audacity/files/latest/download). Don't worry, it's free and a small (24mb) download.
 1. In Audacity, select your microphone, switch to mono, and press the record button.
 
 	![Audacity Setup](audacity-setup.png)
@@ -28,9 +30,7 @@ We want you to sound as amazing as possible. Recording your own audio track will
  
 	![Export Audio Metadata](export-audio-metadata.png)
 
-1. Upload the file to Dropbox, OneDrive, or your file sharing service of choice. The file should be somewhere between 100-200mb for a typical episode.
-1. Send the link to [feedback@msdevshow.com](mailto:feedback@msdevshow.com)
-
+1. [Upload your file here](https://www.dropbox.com/request/CIWOjfTp9acewREsCrBI), or just put it somewhere we can get it.
 
 ### FAQ
 

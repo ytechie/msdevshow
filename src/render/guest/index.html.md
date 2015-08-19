@@ -8,10 +8,14 @@ enablePageComments: false
 
 [How to record your audio during the show](audio-instructions/)
 
+[Please upload your .flac audio file here](https://www.dropbox.com/request/CIWOjfTp9acewREsCrBI)
+
 ###FAQ
 
 **What type of equipment do I need?** If you have a headset, that's perfect. If you have a separate mic, please use headphones to avoid spill from the speakers to the mic.
 
-**How long does it take to record an episode?** We like guests to be part of the whole show. Warming up with the casual news discussion, and then Q&A, and finally the picks of the week and plugs. In total, this typically takes **1.5 hours**.
+**How long does it take to record an episode?** We like guests to be part of the whole show. Warming up with the casual news discussion, and then Q&A, and finally the picks of the week and plugs. In total, this typically takes less than **1.5 hours**.
 
 **How long before my episode goes live?** It could be as quickly as that same day, or 2 weeks out depending on whether we're trying to pre-record episodes for the following weeks.
+
+**What if I need time to answer a question?** During editing, long periods of silence are removed. Take a long as you need, and the listener will still have a great experience.
