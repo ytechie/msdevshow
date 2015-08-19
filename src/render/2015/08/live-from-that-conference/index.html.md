@@ -58,3 +58,9 @@ Also check out the photos of us in action over at [Facebook](https://www.faceboo
 
  - [WebClipse](http://www.genuitec.com/products/webclipse/)
  - [Genuitec](https://www.genuitec.com/)
+ 
+ ###David Giard
+ 
+  - [Technology and Friends](http://technologyandfriends.com/)
+  - [@DavidGiard](https://twitter.com/DavidGiard)
+  - [davidgiard.com](http://www.davidgiard.com/)
