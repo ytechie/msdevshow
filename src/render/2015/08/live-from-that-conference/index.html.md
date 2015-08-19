@@ -61,6 +61,6 @@ Also check out the photos of us in action over at [Facebook](https://www.faceboo
  
  ###David Giard
  
-  - [Technology and Friends](http://technologyandfriends.com/)
-  - [@DavidGiard](https://twitter.com/DavidGiard)
-  - [davidgiard.com](http://www.davidgiard.com/)
+ - [Technology and Friends](http://technologyandfriends.com/)
+ - [@DavidGiard](https://twitter.com/DavidGiard)
+ - [davidgiard.com](http://www.davidgiard.com/)
