@@ -31,6 +31,7 @@ Sara Sexton is a technical evangelist that works for Microsoft. She engages with
  - [Nodeschool.io](http://nodeschool.io/)
  - [Build and run anode.js app on Azure](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-nodejs-develop-deploy-app/)
  - [Node.js Tools for Visual Studio](https://www.visualstudio.com/en-us/features/node-js-vs.aspx)
+ - [socket.io Chat Application](http://socket.io/get-started/chat/)
  
 ###Azure pick of the week
 
