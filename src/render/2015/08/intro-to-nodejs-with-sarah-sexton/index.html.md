@@ -18,7 +18,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0069.mp3
 
 ###Sarah Sexton
 
-Sara Sexton is a technical evangelist that works for Microsoft. She engages with user groups and developers to help them find success building on Microsoft and Windows platforms. Her main technical focus is video games and web development.
+Sarah Sexton is a technical evangelist that works for Microsoft. She engages with user groups and developers to help them find success building on Microsoft and Windows platforms. Her main technical focus is video games and web development.
 
  - [@saelia](https://twitter.com/Saelia)
  - [@SheBuildsGames](https://twitter.com/shebuildsgames)
