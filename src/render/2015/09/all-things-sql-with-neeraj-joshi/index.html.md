@@ -19,7 +19,8 @@ ignored: true
  - Carl and Jason were interviewed at [ThatConference](http://thatconference.com) by [David Giard](http://twitter.com/davidgiard) for the video podcast [Technology and Friends](http://technologyandfriends.com), check them out at Channel9!
   - [Episode 382: Jason Young on IoT, Microsoft Band, and PowerPoint](https://channel9.msdn.com/Blogs/Technology-and-Friends/tf382)
   - [Episode 383: Carl Schweitzer on the Universal App Platform](https://channel9.msdn.com/Blogs/Technology-and-Friends/tf383)
- 
+
+Remember, you too can help decide who we interview! If you have a topic or person you'd like to suggest message, email, or tweet us. To vote on topics in the queue and get them prioritized, use our [Show Topic Voting](http://msdv.sh/showtopicvoting) link!
 
 ###Neeraj Joshi
 
