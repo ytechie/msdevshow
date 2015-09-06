@@ -1,9 +1,9 @@
 ---
 layout: post
-title: All Things SQL
+title: SQL Server and Azure SQL Database with Neeraj Joshi
 guest: Neeraj Joshi
 guestImage: neeraj-joshi.jpg
-date: 2015-09-05
+date: 2015-09-06
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0071.mp3
 ignored: true
 ---
