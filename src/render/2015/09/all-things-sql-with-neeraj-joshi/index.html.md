@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SQL Server and Azure SQL Database with Neeraj Joshi
+title: SQL Server 2016 and Azure SQL Database with Neeraj Joshi
 guest: Neeraj Joshi
 guestImage: neeraj-joshi.jpg
 date: 2015-09-06
