@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ytechie/msdevshow.svg?branch=master)](https://travis-ci.org/ytechie/msdevshow)
+
 # The _MS Dev Show_ Site
 
 [MS Dev Show Podcast](http://msdevshow.com) website source. Our website is automatically updated when this repo changes. Fork this project to make a similar site.
