@@ -16,9 +16,9 @@ The _MS Dev Show_ site utilizes Docpad, a nodejs-based static site generation to
 1. Download and install [nodejs](http://nodejs.org/) (use default options)
 1. In the command prompt/terminal, navigate to your git repository folder
 
-	npm install
-	npm install -g docpad@6
-	docpad run
+        npm install
+        npm install -g docpad@6
+        docpad run
 
 And done! These guidelines should work for both Windows and Mac OS X.
 
