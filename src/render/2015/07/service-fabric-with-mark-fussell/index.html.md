@@ -7,12 +7,12 @@ date: 2015-07-11
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0063.mp3
 ---
 
-###News
+### News
 
  - [Show Topic Voting](http://msdv.sh/showtopicvoting)
 
 
-###Mark Fussell
+### Mark Fussell
 
 Mark is a principal Program Manager at Microsoft that works on the Azure Service Fabric team. He's been working on that team since it was founded 6 years ago. Previously he worked on projects like WCF, Developer Platforms, and Application Platforms.
 

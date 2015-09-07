@@ -7,13 +7,13 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0043.mp3
 guestImage: scott-hanselman.jpg
 ---
 
-###News
+### News
 
  - [Flipboard releases open source code - because the DOM is too slow](https://github.com/flipboard/react-canvas)
  - [The Best New Windows 10 Phone Features in 6 GIFs](http://gizmodo.com/the-best-new-windows-10-phone-features-in-6-gifs-1685750825)
  - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 
-###Scott Hanselman
+### Scott Hanselman
 
  - [@shanselman](https://twitter.com/shanselman)
  - [hanselman.com](http://www.hanselman.com/)
@@ -33,12 +33,12 @@ guestImage: scott-hanselman.jpg
  - [Get Involved in Tech](http://getinvolvedintech.com)
  - [Scott's virtual presence](https://twitter.com/DamianEdwards/status/566327188979339264)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Azure in less than 2 minutes](http://channel9.msdn.com/Blogs/Windows-Azure/Supercharge-your-DB-with-VMs)
  - [Azure.com Get Started](http://azure.microsoft.com/en-us/get-started/)
 
-###Apps of the Week
+### Apps of the Week
 
  - [GPS Calculator PRO](http://www.windowsphone.com/en-us/store/app/gps-calculator-pro/48e2148a-b000-4a3e-9aab-6d5a6f763868)
  - [Windows Insider](http://www.windowsphone.com/s?appid=ed2b1421-6414-4544-bd8d-06d58ee402a5)

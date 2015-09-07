@@ -7,7 +7,7 @@ date: 2015-05-29
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0057.mp3
 ---
 
-###News
+### News
 
  - [Show Topic Voting](http://msdv.sh/showtopicvoting)
  - [Windows Store payout improvements](http://blogs.windows.com/buildingapps/2015/05/29/windows-store-payout-improvements/?utm_content=buffer20ee3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -17,7 +17,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0057.mp3
  - [How your computer boots - Solving the chicken and egg problem](https://technet.microsoft.com/en-us/magazine/2007.11.windowsconfidential.aspx)
  - [A website Coding Itself Live](http://strml.net/)
 
-###Shabnam Erfani
+### Shabnam Erfani
 
 Principal Program Manager on the Astoria project
 
@@ -28,11 +28,11 @@ Principal Program Manager on the Astoria project
 
  - [Sign up for Project Astoria](https://dev.windows.com/en-US/ProjectAPreviewSignup)
 
-###Azure pick of the Week
+### Azure pick of the Week
 
  - [Microsoft Azure Machine Learning Algorithm Cheat Sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
 
-###App of the Week
+### App of the Week
 
  - [Revenue for DevCenter](https://www.windowsphone.com/s?appId=59884ea1-eea4-4262-b6ac-6c9b398a805e)
  - [PocketCasts](http://www.shiftyjelly.com/pocketcasts)
@@ -41,6 +41,6 @@ Principal Program Manager on the Astoria project
   - [iOS](https://itunes.apple.com/au/app/pocket-casts/id414834813?mt=8&uo=4&at=10l4We)
   - [Web Player](https://play.pocketcasts.com/)
 
-###Random Non-Dev Link of the Week
+### Random Non-Dev Link of the Week
 
 -   [Kung Fury](https://www.youtube.com/watch?v=bS5P_LAqiVg)

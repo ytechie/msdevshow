@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0048.mp3
 guestImage: lori-lalonde.jpg
 ---
 
-###News
+### News
 
  - [Replacing Photoshop With NSString](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring/)
  - [Spartan update](http://blogs.msdn.com/b/ie/archive/2015/03/24/updates-from-the-project-spartan-developer-workshop.aspx)
@@ -22,7 +22,7 @@ guestImage: lori-lalonde.jpg
   - [GitHub Examples](https://github.com/Microsoft/Windows-universal-samples)
   - [Channel 9 Videos](https://channel9.msdn.com/Series/Developers-Guide-to-Windows-10-Preview)
 
-###Lori LaLonde
+### Lori LaLonde
 
  - [@loriblalonde](https://twitter.com/loriblalonde)
  - [Blog](http://geekswithblogs.net/lorilalonde/Default.aspx)
@@ -41,11 +41,11 @@ guestImage: lori-lalonde.jpg
   - [For 8-13 year old girls](http://ladieslearningcode.com/program/girls-learning-code/)
   - [For 8-13 year old boys and girls](http://ladieslearningcode.com/program/kids-learning-code/)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Azure App Service](https://weblogs.asp.net/scottgu/announcing-the-new-azure-app-service)
 
-###App of the Week
+### App of the Week
 
  - [Telescope](https://www.windowsphone.com/s?appId=e6df1b0c-6776-4ce0-af99-75a7b5a7daa2)
 

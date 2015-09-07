@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0031.mp3
 guestImage: anthony-russell.jpg
 ---
 
-###News
+### News
 
  - [Developers have until Dec 31 to Developer unlock their 7.x dev phones](http://www.windowscentral.com/microsoft-ends-unlocking-windows-phone-7x-devices-developers-dec-31)
  - [Windows Phone only platform to completely survive Pwn-To-Own](http://www.windowscentral.com/partial-exploit-windows-phone-was-found-part-hps-annual-mobile-pwn2own-event)
@@ -21,7 +21,7 @@ guestImage: anthony-russell.jpg
  - [Code Tells You How, Comments Tell You Why](http://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
  - [Comment Commentary](http://ericlippert.com/2014/09/08/comment-commentary/)
 
-###Anthony Russel 
+### Anthony Russel 
 
  - [http://www.anthonyrussell.info/](http://www.anthonyrussell.info/)
  - [@Anth0nyRussell](https://twitter.com/Anth0nyRussell)
@@ -43,12 +43,12 @@ guestImage: anthony-russell.jpg
  - [Arduino](http://www.arduino.cc/)
  - [SparkFun](https://www.sparkfun.com/categories/103)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - Azure premium storage
   - [Mark Russinovich demo](http://channel9.msdn.com/Events/TechEd/Europe/2014/KEY01)
 
-###Apps of the Week
+### Apps of the Week
 
  - Tweetium
   - [Tweetium Pro](http://tweetiumapp.com/pro)

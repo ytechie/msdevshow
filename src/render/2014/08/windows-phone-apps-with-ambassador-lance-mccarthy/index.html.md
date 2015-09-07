@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0016.mp3
 guestImage: lance-mccarthy.jpg
 ---
 
-###News
+### News
 
  - [Windows Phone 8.1 Update brings Cortana to new markets + new features](http://blogs.windows.com/bloggingwindows/2014/07/30/windows-phone-8-1-update-brings-cortana-to-new-markets-new-features/)
  - [Pastebin of new WP 8.1 Update APIs](http://pastebin.com/QkFjediS)
@@ -19,7 +19,7 @@ guestImage: lance-mccarthy.jpg
  - [ReSharper 9: first look at C\# 6.0 support](http://blog.jetbrains.com/dotnet/2014/07/30/resharper9-first-look-at-csharp6-support/)
  - [The Descent to C](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/?HN_20140803)
 
-###[Lance McCarthy](https://www.linkedin.com/in/lancewmccarthy)
+### [Lance McCarthy](https://www.linkedin.com/in/lancewmccarthy)
 
  - [http://nokiawpdev.wordpress.com/](http://nokiawpdev.wordpress.com/)
  - [@lancewmccarthy](http://twitter.com/lancewmccarthy)
@@ -34,10 +34,10 @@ guestImage: lance-mccarthy.jpg
  - [Developer Ambassadors](https://www.dvlup.com/ambassadors)
  - [App Studio](http://appstudio.windows.com/)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Free eBook: Building Cloud Apps with Microsoft Azure](http://weblogs.asp.net/scottgu/free-ebook-building-cloud-apps-with-microsoft-azure)
 
-###App of the Week
+### App of the Week
 
  - [Stealthy Camera](http://www.windowsphone.com/s?appid=382814e8-7309-49af-b681-fdbc5ddfa4a5)

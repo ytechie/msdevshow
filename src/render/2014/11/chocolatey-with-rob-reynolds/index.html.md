@@ -9,7 +9,7 @@ guestImage: rob-reynolds.jpg
 
 **[Please donate to the Chocolatey Kickstarter!](https://www.kickstarter.com/projects/ferventcoder/chocolatey-the-alternative-windows-store-like-yum)**
 
-###News
+### News
 
  - [Like our page on Facebook!](https://www.facebook.com/msdevshow)
  - [Connect Announcements](http://weblogs.asp.net/scottgu/announcing-open-source-of-net-core-framework-net-core-distribution-for-linux-osx-and-free-visual-studio-community-edition)
@@ -34,7 +34,7 @@ guestImage: rob-reynolds.jpg
  - [Microsoft responds to Windows 10 OneDrive 'selective sync' controversy](http://www.windowscentral.com/microsoft-responds-windows-10-onedrive-selective-sync)
  - [AWS re:Invent Annoucements](http://aws.amazon.com/new/reinvent/?sc_ichannel=ha&sc_ipage=homepage&sc_icountry=en&sc_isegment=nc&sc_iplace=hero1&sc_icampaigntype=event&sc_icampaign=ha_en_reInvent_2014_News&sc_icategory=none&sc_idetail=ha_en_292_1&sc_icontent=ha_292&/)
 
-###Rob Reynolds
+### Rob Reynolds
  -   [@ferventcoder](https://twitter.com/ferventcoder)
  -   [http://ferventcoder.com/](http://ferventcoder.com/)
  -   [Project Roundhouse](https://code.google.com/p/roundhouse/)

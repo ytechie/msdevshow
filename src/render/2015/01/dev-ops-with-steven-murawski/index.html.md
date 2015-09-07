@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0040.mp3
 guestImage: steven-murawski.jpg
 ---
 
-###News
+### News
 
  - [January build now available to the Windows Insider Program](http://blogs.windows.com/bloggingwindows/2015/01/23/january-build-now-available-to-the-windows-insider-program/)
  - Windows
@@ -28,7 +28,7 @@ and
  - [//BUILD](http://www.buildwindows.com/)
   - [Earn a Build ticket from DVLUP](https://www.dvlup.com/Reward/6a7d5d8b-9fdb-4bd6-80e7-f4622de2aae4)
 
-###Steven Murawski
+### Steven Murawski
 
  - [@StevenMurawski](https://twitter.com/StevenMurawski)
  - [stevenmurawski.com](http://stevenmurawski.com/)
@@ -43,7 +43,7 @@ and
  - [Learn Chef.io](http://learn.chef.io/)
  - [PowerShell Summit](http://powershell.org/wp/event/powershell-summit-north-america-2013/)
 
-###App of the Week
+### App of the Week
 
  - [Slashcolor](http://www.windowsphone.com/s?appid=53105eee-3ee9-4f5a-b19a-6251187ddd22)
 

@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0024.mp3
 guestImage: brian-muenzenmeyer.jpg
 ---
 
-###News
+### News
 
  - [What should a smartwatch do?](http://www.engadget.com/discuss/smartwatch-what-should-it-do-beyond-a-pebble-1t0a/)
  - [Microsoft Azure RemoteApp](http://microsoftplatform.blogspot.com/2014/09/microsoft-azure-remoteapp-taking-closer.html)
@@ -15,7 +15,7 @@ guestImage: brian-muenzenmeyer.jpg
  - [Why I Don't Teach SOLID](http://qualityisspeed.blogspot.com/2014/08/why-i-dont-teach-solid.html)
   - [What is SOLID?](http://www.codingblocks.net/podcast/episode-7-solid-as-a-rock/) 
 
-###Brian Muenzenmeyer
+### Brian Muenzenmeyer
 
  - [https://twitter.com/bmuenzenmeyer](https://twitter.com/bmuenzenmeyer)
  - [http://brianmuenzenmeyer.com](http://brianmuenzenmeyer.com)
@@ -36,11 +36,11 @@ guestImage: brian-muenzenmeyer.jpg
  - [YSlow](http://yslow.org/)
  - [Google PageSpeed Insights](http://developers.google.com/speed/pagespeed/insights/)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [My personal Azure FAQ on Azure Networking SLAs, bandwidth, latency, performance, SLB, DNS, DMZ, VNET, IPv6 and much more](http://blogs.msdn.com/b/igorpag/archive/2014/09/28/my-personal-azure-faq-on-azure-networking-slas-bandwidth-latency-performance-slb-dns-dmz-vnet-ipv6-and-much-more.aspx)
 
-###App of the Week
+### App of the Week
 
  - [Run Rabbit Run](http://conversations.nokia.com/2014/09/25/make-fitness-game-run-rabbit-run/)
   - [Store Link](http://www.windowsphone.com/s?appid=d424671c-0aed-4b7a-a05a-23875a8ead3d)

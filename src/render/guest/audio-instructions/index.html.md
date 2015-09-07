@@ -8,14 +8,14 @@ We want you to sound as amazing as possible. Recording your own audio track will
 
 (we also have backups on our end, so no need to stress)
 
-### Before/During the Show
+###  Before/During the Show
 
 1. [Download Audacity from here](http://sourceforge.net/projects/audacity/files/latest/download). Don't worry, it's free and a small (24mb) download.
 1. In Audacity, select your microphone, switch to mono, and press the record button.
 
 	![Audacity Setup](audacity-setup.png)
 
-### After the Show
+###  After the Show
 
 1. Hit the *Stop* button.
 1. File->Export Audio...
@@ -32,6 +32,6 @@ We want you to sound as amazing as possible. Recording your own audio track will
 
 1. [Upload your file here](https://www.dropbox.com/request/CIWOjfTp9acewREsCrBI), or just put it somewhere we can get it.
 
-### FAQ
+###  FAQ
 
 * **What if I'm unsure which microphone is correct?** Do a test recording before the show, and tap on the mic you're using. Listen to the recording. Be sure to discard that track before recording for the show

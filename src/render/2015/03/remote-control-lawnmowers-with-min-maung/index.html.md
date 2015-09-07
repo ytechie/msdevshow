@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0047.mp3
 guestImage: min-maung.jpg
 ---
 
-###News
+### News
 
  - [http://newcodecamp.com/public/schedule](http://newcodecamp.com/public/schedule)
  - [MSBuild on GitHub](https://github.com/Microsoft/msbuild)
@@ -19,18 +19,18 @@ guestImage: min-maung.jpg
  - [Microsoft wants to see speedier updates for Windows 10 phones with 'Project Milkyway'](http://www.windowscentral.com/microsoft-wants-update-windows-10-phones-within-4-6-weeks-release)
  - [Microsoft is Developing a ROM that Converts Android Phones to Windows 10](http://techcrunch.com/2015/03/17/microsoft-android-rom/?ncid=rss)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Azure SQLDB and SQL Server VM - How to make an equal cost comparison](http://blogs.msdn.com/b/igorpag/archive/2015/03/20/azure-sqldb-and-sql-server-vm-how-to-make-an-equal-cost-comparison.aspx)
 
-###Apps of the Week
+### Apps of the Week
 
  - ConcertWall
   - [Windows Phone](http://www.windowsphone.com/s?appid=6337ad32-2d69-4f26-bd98-44f6eaae7708)
  - [Maestro](http://maestroapp.com/)
   - [Windows Phone](http://www.windowsphone.com/s?appId=2e130744-3a86-4c3e-bbf5-aab61556743c)
 
-###Min Maung
+### Min Maung
 
  - [@IAmMinMaung](https://twitter.com/IAmMinMaung)
  - [min.maungs.com](http://min.maungs.com/)

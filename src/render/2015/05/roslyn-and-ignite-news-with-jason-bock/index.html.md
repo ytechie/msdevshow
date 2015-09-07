@@ -7,14 +7,14 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0054.mp3
 guestImage: jason-bock.jpg
 ---
 
-###News
+### News
 
-#### Windows
+### # Windows
 
  - [Windows Server 2016 Technical Preview 2](http://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview)
  - PowerBI is integrated with Cortana
 
-#### Azure
+### # Azure
 
  - [Azure Stack](http://www.microsoft.com/en-us/server-cloud/products/azure-in-your-datacenter/)
   - Use ARM templates on-premises
@@ -41,7 +41,7 @@ guestImage: jason-bock.jpg
  - [Azure DNS](http://azure.microsoft.com/en-us/documentation/services/dns/)
  - Public preview of Advanced Threat Analytics
 
-#### Misc
+### # Misc
 
  - [Office 2016 Public Preview](http://blogs.office.com/2015/05/04/office-2016-public-preview-now-available/)
  - Power BI mobile app
@@ -59,7 +59,7 @@ guestImage: jason-bock.jpg
   - Broadcast to up to 10,000 viewers
   - DVR functionality for conferences
 
-###Jason Bock
+### Jason Bock
 Jason Bock, practice lead for Magenic, Microsoft MVP, author, and speaker.
 
  - [jasonbock.net](http://jasonbock.net)
@@ -84,7 +84,7 @@ Jason Bock, practice lead for Magenic, Microsoft MVP, author, and speaker.
   - [Visualizing Roslyn Syntax Trees](http://blogs.msdn.com/b/csharpfaq/archive/2014/04/17/visualizing-roslyn-syntax-trees.aspx)
   - [C\# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)
 
-###App of the Week
+### App of the Week
 
  - Crossy Road
   - [Download Crossy Road for Windows 8.1](http://apps.microsoft.com/webpdp/app/fbe06181-fa39-4d46-acf9-53d76fe1bf37)

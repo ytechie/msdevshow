@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0045.mp3
 guestImage: lindsey-garrity.jpg
 ---
 
-###News
+### News
 
  - [Why Code Snobs are Invaluable](http://mjswensen.com/blog/2015/01/30/why-code-snobs-are-invaluable/)
  - [Open Source By Default](http://blog.phillipcaudell.com/open-source-by-default/)
@@ -24,7 +24,7 @@ platform](http://dev.windows.com/en-us/develop/Building-universal-Windows-apps)
  - [Spartan Browser](http://blogs.msdn.com/b/ie/archive/2015/02/26/a-break-from-the-past-the-birth-of-microsoft-s-new-web-rendering-engine.aspx)
 
 
-###Lindsey Garrity
+### Lindsey Garrity
 
  - [@garrla21](https://twitter.com/garrla21)
  - [LinkedIn](https://www.linkedin.com/in/lindseygarrity)
@@ -36,13 +36,13 @@ platform](http://dev.windows.com/en-us/develop/Building-universal-Windows-apps)
  - [Buy our new sticker!](https://www.stickermule.com/marketplace/4324-ms-dev-show-pixelated)
   - Be careful about shipping if you're from Canada(or overseas)!
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [DocumentDB moving to general availability](http://azure.microsoft.com/blog/2015/03/05/documentdb-moving-to-general-availability/)
  - [New A10/A11 Azure Compute Sizes](http://azure.microsoft.com/blog/2015/03/05/new-a10a11-azure-compute-sizes/)
   - Same as A8 and A9, but cost less
 
-###App of the Week
+### App of the Week
 
  - LinkedIn
   - [Phone](http://www.windowsphone.com/s?appid=bdc7ae24-9051-474c-a89a-2b18f58d1317)

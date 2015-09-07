@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0036.mp3
 guestImage: josh-holmes.jpg
 ---
 
-###News
+### News
 
  - [Touch/Pointer Test Results](http://patrickhlauke.github.io/touch/tests/results/)
  - [10 Technical Papers Every Programmer Should Read](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
@@ -18,7 +18,7 @@ guestImage: josh-holmes.jpg
  - [DRM'd Cat Litter](https://medium.com/@jorge_lo/the-future-a-cat-litter-and-drm-6dbda26428f8)
  - [Horrible Password Security](http://www.jeremytunnell.com/posts/swab-password-policies-and-two-factor-authentication-a-comedy-of-errors)
 
-###Josh Holmes
+### Josh Holmes
 
  - [@joshholmes](https://twitter.com/joshholmes)
  - [http://www.joshholmes.com/](http://www.joshholmes.com/)
@@ -31,7 +31,7 @@ guestImage: josh-holmes.jpg
  - [Thali Project](http://thaliproject.org/)
  - [Arduino Y'un](http://arduino.cc/en/Main/ArduinoBoardYun)
 
-###IoT Standards
+### IoT Standards
 
  - [Allseen Alliance](https://allseenalliance.org/)
   - [Alljoyn](https://allseenalliance.org/developers/learn/core/system-description)
@@ -39,11 +39,11 @@ guestImage: josh-holmes.jpg
  - [icontrol](http://www.icontrol.com/)
  - [Thread](http://www.threadgroup.org/)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Azure Backup](http://azure.microsoft.com/en-us/services/backup/)
 
-###App of the Week
+### App of the Week
 
  - [Terraria](http://terraria.org/)
   - [Windows Phone](http://www.windowsphone.com/s?appid=75cbb8bb-5f30-4efc-9040-de2ee228c838)

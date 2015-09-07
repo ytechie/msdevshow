@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0021.mp3
 guestImage: ryan-crawcour.jpg
 ---
 
-###News
+### News
 
  - [Coding Blocks](http://www.codingblocks.net/)
   - Are you a developer who likes podcasts? Then you *NEED* to listen to these guys. A regular, in-depth dive into the topic of the week by three veteran developers.  
@@ -19,7 +19,7 @@ guestImage: ryan-crawcour.jpg
 
 Please rate us in iTunes, Stitcher, or wherever you get your podcast. This helps us get more awesome listeners like you.
 
-###Guests
+### Guests
 
  - Ryan CrawCour
   - [https://twitter.com/ryancrawcour](http://twitter.com/ryancrawcour)
@@ -35,12 +35,12 @@ Please rate us in iTunes, Stitcher, or wherever you get your podcast. This helps
  -   [https://news.ycombinator.com/item?id=8209004](https://news.ycombinator.com/item?id=8209004)
  -   [Uservoice on Azure](http://feedback.azure.com/)
 
-###Tip of the Week
+### Tip of the Week
 
  - [Squirrel](https://github.com/Squirrel/Squirrel.Windows.Next)
   - [How to use](https://gist.github.com/paulcbetts/599b435c05bb0e8a4080)
 
-###Promo
+### Promo
  
  - Retweet any one of our apps for a chance at one of two $5 Microsoft gift cards!
 	 - US residents only :'(

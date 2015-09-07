@@ -5,7 +5,7 @@ date: 2015-01-02
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0037.mp3
 ---
 
-###News
+### News
 
  - [My $2,375 Amazon EC2 Mistake](http://www.devfactor.net/2014/12/30/2375-amazon-mistake/)
  - [How to Not Hate JavaScript](http://blog.mitemitreski.com/2014/12/how-to-not-hate-java-script-tips-from.html#.VJrYTAACU)
@@ -26,7 +26,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0037.mp3
 
  - [The Innovators](http://www.amazon.com/dp/147670869X/&tag=ytechie-20) 
 
-###Apps of the Week
+### Apps of the Week
 
  - [Trivia Crack](http://www.triviacrack.com/)
   - [Windows Phone](http://www.windowsphone.com/s?appid=161a7b1f-df94-4331-ab0a-a964a345fb83)

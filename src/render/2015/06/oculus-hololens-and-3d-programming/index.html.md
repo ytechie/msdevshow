@@ -7,7 +7,7 @@ date: 2015-06-05
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0058.mp3
 ---
 
-###News
+### News
 
  - [Azure is adding two new regions in Canada](http://msdv.sh/1K9bokE)
  - [HTTP/2 - Why yesterday's best-practices are HTTP/2 anti-patterns](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
@@ -21,7 +21,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0058.mp3
  - [Visual Studio Code 0.3.0](https://code.visualstudio.com/Updates)
  - [JSON Support in SQL Server](http://www.infoq.com/news/2015/05/SQL-Server-JSON)
 
-###Rene Schulte 
+### Rene Schulte 
 
 René Schulte is an internationally recognized, independent expert and
 was honored for his community work with the [Microsoft MVP](http://mvp.microsoft.com/en-US/findanmvp/Pages/profile.aspx?MVPID=a045a803-b9e7-4bda-8209-648068e8b2ee)
@@ -68,11 +68,11 @@ design, software development, and user experience (UX) agency.
  - [Google Cardboard 3D Virtual Reality Headset](http://www.amazon.com/Cardboard-Smartphones-immersive-experience-Adjustable/dp/B00S6EIIPQ/)
  - [Emotiv Insight](http://emotiv.com/insight.php)
  
-###Azure pick of the week
+### Azure pick of the week
 
  - [Azure Key Vault](https://azure.microsoft.com/en-us/documentation/articles/key-vault-whatis/)
 
-###App of the Week
+### App of the Week
 
  - [Events for Me](http://www.windowsphone.com/s?appid=3369a957-206a-4fd3-bdd4-3910e79553d7)
   - By [Paras Wahedra](https://twitter.com/ParasWadehra)

@@ -5,7 +5,7 @@ date: 2015-04-24
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0052.mp3
 ---
 
-###News
+### News
 
  - [Windows 10 Universal app examples](https://github.com/Microsoft/Windows-universal-samples)
   - [Microsoft makes it easier to make flashlight apps in Windows 10](https://github.com/Microsoft/Windows-universal-samples/tree/master/lamp)
@@ -25,16 +25,16 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0052.mp3
  - [Announcing Azure Service Fabric: Reducing Complexity in a Hyper-scale World](http://azure.microsoft.com/blog/2015/04/20/announcing-azure-service-fabric-reducing-complexity-in-a-hyper-scale-world/)
  - [MS Band Updates](http://lumiaconversations.microsoft.com/2015/04/22/microsoft-health-and-microsoft-band-update/)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Azure architecture guidance from patterns &     practices](https://github.com/mspnp/azure-guidance)
 
-###App of the Week
+### App of the Week
 
  - [Awesome Band Backgrounds](http://www.windowsphone.com/s?appid=4859dfbf-5ddf-4509-969e-0d95fd595a1a)
   - By [Lance McCarthy](http://lancewmccarthy)
 
-###Meet the MS Dev Show!!!
+### Meet the MS Dev Show!!!
 
  - Meet the MS Dev Show at [//Build](http://www.buildwindows.com/) this year!
  - We will be at the Build Blogger Bash and so can you!

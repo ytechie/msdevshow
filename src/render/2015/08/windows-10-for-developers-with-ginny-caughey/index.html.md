@@ -7,7 +7,7 @@ date: 2015-08-01
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0066.mp3
 ---
 
-###News
+### News
 
  - [Windows 10 Launch results in huge traffic](http://blog.streamingmedia.com/2015/07/windows-10-launch-huge-traffic.html)
   - [Even John C. Dvorak likes it!](http://www.pcmag.com/article2/0,2817,2488522,00.asp)
@@ -19,7 +19,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0066.mp3
   - [Do-It-Yourself Kit](http://az648995.vo.msecnd.net/win/2015/07/Windows_Insiders_Ninjacat-DIY.zip) (zip)
  - [The seven rules of a great git commit message](http://chris.beams.io/posts/git-commit/)
 
-###Ginny Caughey
+### Ginny Caughey
 
 Ginny Caughey is a Windows Platform Development MVP, President of Carolina Software, creating enterprise software for the solid waste industry. She builds consumer apps for fun.
 
@@ -31,16 +31,16 @@ Ginny Caughey is a Windows Platform Development MVP, President of Carolina Softw
 -   [MVP Award Program Interviews MVP Ginny Caughey on Windows Phone 7](http://blogs.msdn.com/b/mvpawardprogram/archive/2010/11/09/mvp-award-program-interviews-mvp-ginny-caughey-on-windows-phone-7.aspx)
 -   [Password Padlock](https://www.microsoft.com/en-us/store/apps/password-padlock/9wzdncrfhvqf)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [https://github.com/ytechie/AzureResourceVisualizer](https://github.com/ytechie/AzureResourceVisualizer)
 
-###App of the Week
+### App of the Week
 
  - [Twitter for Windows 10](https://www.microsoft.com/en-us/store/apps/twitter/9wzdncrfj140)
   - [How Twitter designed their new app for Windows 10](https://blog.twitter.com/2015/designing-twitter-for-windows-10)
 
-###Dev Tip of the Random Interval
+### Dev Tip of the Random Interval
 
 [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
 

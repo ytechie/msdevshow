@@ -7,7 +7,7 @@ date: 2015-09-06
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0071.mp3
 ---
 
-###News
+### News
 
  - [JetBrains Toolbox, easier access to your coding tools, more control and flexibility, and a lower entry price](http://blog.jetbrains.com/blog/2015/09/03/introducing-jetbrains-toolbox/)
   - [How JetBrains Lost Years of Customer Loyalty in Just a Few Hours](http://bytecrafter.blogspot.com/2015/09/how-jetbrains-lost-years-of-customer.html)
@@ -21,7 +21,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0071.mp3
 
 Remember, you too can help decide who we interview! If you have a topic or person you'd like to suggest message, email, or tweet us. To vote on topics in the queue and get them prioritized, use our [Show Topic Voting](http://msdv.sh/showtopicvoting) link!
 
-###Neeraj Joshi
+### Neeraj Joshi
 
 Neeraj Joshi is a Principal Program Manager on the DX/TED team at Microsoft. He has been at Microsoft over 14 years, he focuses on all things SQL, and is also a father of 3.
 
@@ -45,10 +45,10 @@ Neeraj Joshi is a Principal Program Manager on the DX/TED team at Microsoft. He 
  - [Stretch Database](https://msdn.microsoft.com/en-us/library/Dn935011.aspx)
  - [SQL Server Backup and Restore with Microsoft Azure Blob Storage Service](https://technet.microsoft.com/en-us/library/JJ919148.aspx)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Boot Diagnostics for Virtual Machines v2](http://azure.microsoft.com/en-us/blog/boot-diagnostics-for-virtual-machines-v2/)
 
-###Dev Tip of the Week
+### Dev Tip of the Week
 
  - [.NET Native – What it means for Universal Windows Platform (UWP) developers](https://blogs.windows.com/buildingapps/2015/08/20/net-native-what-it-means-for-universal-windows-platform-uwp-developers/)

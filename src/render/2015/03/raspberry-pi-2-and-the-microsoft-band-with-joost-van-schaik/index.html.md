@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0046.mp3
 guestImage: joost-van-schaik.jpg
 ---
 
-###News
+### News
 
  - [cppcast.com](http://cppcast.com/)
  - [TypeScript <3 Angular](http://blogs.msdn.com/b/somasegar/archive/2015/03/05/typescript-lt-3-angular.aspx)
@@ -22,7 +22,7 @@ guestImage: joost-van-schaik.jpg
  - [Xamarin Forms 1.4 released](http://forums.xamarin.com/discussion/35451/xamarin-forms-1-4-0-released)
  - [A Word is Worth a Thousand Vectors](http://technology.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors)
 
-###Joost van Schaik
+### Joost van Schaik
 
  - [dotnetbyexample.blogspot.com](http://dotnetbyexample.blogspot.com/)
  - [@localjoost](https://twitter.com/localjoost)
@@ -37,11 +37,11 @@ guestImage: joost-van-schaik.jpg
  - [Xamarin Android Microsoft Band Bindings](https://github.com/mattleibow/Microsoft-Band-SDK-Bindings)
  - [Microsoft Band To Make Its Way To 765 Best Buy Stores](http://www.ubergizmo.com/2015/03/microsoft-band-to-make-its-way-to-765-best-buy-stores/)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Application Insights](http://azure.microsoft.com/en-us/services/application-insights/)
 
-###App of the Week
+### App of the Week
 
  - Fedora Reader by [Joshua Grzybowski](https://twitter.com/sonofnun)
   - [Windows 8.1](http://apps.microsoft.com/windows/app/fedora-reader/3528f572-3c33-494c-a164-2e7c9dd17661)

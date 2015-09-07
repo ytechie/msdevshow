@@ -9,57 +9,57 @@ We'd really like to extend our deepest thanks to Clark, Greg and *ALL* of the [T
 
 Also check out the photos of us in action over at [Facebook](https://www.facebook.com/media/set/?set=a.1619309591656159.1073741829.1506993522887767&type=3)! While you're there, you might as well give us a like.
 
-###"Uncle Bob" Martin
+### "Uncle Bob" Martin
 
  - [cleancoders.com](http://cleancoders.com)
  - [@unclebobmartin](http://twitter.com/unclebobmartin)
 
-###Danny D Warren
+### Danny D Warren
 
  - [@dannydwarren](https://twitter.com/dannydwarren)
  - [GitHub](https://github.com/dannydwarren)
  - [LinkedIn](https://www.linkedin.com/in/dannydwarren)
  
-###Ethan Dobbs
+### Ethan Dobbs
 
  - He's 11, and holds his own at a tech conference! That's Awesome
 
-###Brandon Martinez
+### Brandon Martinez
 
  - [brandonmartinez.com](http://www.brandonmartinez.com/)
  - [martinezmedia.net](http://www.martinezmedia.net/)
  - [@brandonmartinez](https://twitter.com/brandonmartinez)
 
-###Clark Sell
+### Clark Sell
 
  - [ThatConference.com](http://thatconference.com/)
  - [@csell5](https://twitter.com/csell5)
 
-###Keith Casey
+### Keith Casey
 
  - [@caseysoftware](https://twitter.com/caseysoftware)
  - [clarify.io](http://clarify.io/)
  - [Austin API](http://www.meetup.com/Austin-Homegrown-API/)
  - [caseysoftware.com](http://caseysoftware.com/)
 
-###Alan Mendelevich
+### Alan Mendelevich
 
  - [@ailon](https://twitter.com/ailon)
  - [blog](http://blog.ailon.org/)
  - [adduplex.com](http://adduplex.com/) 
 
-###Tugberk Ugurlu
+### Tugberk Ugurlu
 
  - [tugberkugurlu.com](http://www.tugberkugurlu.com/)
  - [@tourismgeek](https://twitter.com/tourismgeek)
  - [GitHub](https://github.com/tugberkugurlu)
 
-###Webclipse
+### Webclipse
 
  - [WebClipse](http://www.genuitec.com/products/webclipse/)
  - [Genuitec](https://www.genuitec.com/)
  
- ###David Giard
+ ### David Giard
  
  - [Technology and Friends](http://technologyandfriends.com/)
  - [@DavidGiard](https://twitter.com/DavidGiard)

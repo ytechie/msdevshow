@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0060.mp3
 guestImage: james-montemagno.jpg
 ---
 
-###News
+### News
 
  - [Internet connectivity in Sub-Saharan Africa](https://angani.co/blog/its-not-how-much-fibre-you-have-its-what-you-do-with-it/)
  - [Google, Microsoft, Mozilla And Others Team Up To Launch WebAssembly, A New Binary Format For The Web](http://techcrunch.com/2015/06/17/google-microsoft-mozilla-and-others-team-up-to-launch-webassembly-a-new-binary-format-for-the-web/)
@@ -18,7 +18,7 @@ guestImage: james-montemagno.jpg
  - [Is Windows 10 Free for Insiders?](http://blogs.windows.com/bloggingwindows/2015/06/19/upcoming-changes-to-windows-10-insider-preview-builds/)
  - [SSD Prices in a Free Fall](http://www.networkcomputing.com/storage/ssd-prices-in-a-freefall/a/d-id/1320958)
 
-###James Montemagno
+### James Montemagno
 
 James Montemagno is a Developer Evangelist at Xamarin and Microsoft MVP.
 He has been a .NET developer for over a decade working in a wide range
@@ -41,11 +41,11 @@ developer on the Xamarin platform for over 4 years.
   - [Starter Edition](http://xamarin.com/starter)
   - [MSDN Benefits](https://xamarin.com/msdn)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Azure Data Lake](http://azure.microsoft.com/en-us/campaigns/data-lake/)
 
-###App of the Week
+### App of the Week
 
  - [Upload to YouTube](https://www.windowsphone.com/s?appid=b82133ab-2fcb-4dda-a626-cb9e091ab23c)
   - By [Brandon](https://twitter.com/bc3tech)

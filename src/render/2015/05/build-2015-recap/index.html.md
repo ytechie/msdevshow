@@ -5,9 +5,9 @@ date: 2015-05-04
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0053.mp3
 ---
 
-###News
+### News
 
-####Windows
+### #Windows
 
  - [UAP -\> UWP Universal Windows Platform](http://blogs.windows.com/buildingapps/2015/04/29/distributing-windows-apps-to-the-world/)
   - [Deep Dive](http://blogs.windows.com/buildingapps/2015/04/30/a-deeper-dive-into-the-universal-windows-platform/)
@@ -50,7 +50,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0053.mp3
   -   [Get started here](http://ms-iot.github.io/content/GetStarted.htm)
   - [Windows 10 "Arduino Certified" components](http://www.zdnet.com/article/windows-10-gets-arduino-certified-with-new-two-open-source-libraries/)
 
-####Azure
+### #Azure
 
  - SDK 2.6
  - Data lake service
@@ -70,7 +70,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0053.mp3
  - More than 500 new features in Azure in the past year
  - Over 50 trillion storage objects
 
-####Visual Studio
+### #Visual Studio
 
  - [Visual Studio Code](http://channel9.msdn.com/Events/Build/2015/3-680)
  - [Free, cross-platform editor](https://www.visualstudio.com/products/code-vs.aspx)
@@ -82,7 +82,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0053.mp3
  - Extensibility model for VSO
  - [GitHub Inside Your Visual Studio](http://haacked.com/archive/2015/04/30/github-in-your-visual-studio/) 
 
-####Misc
+### #Misc
 
  - [Project Spartan is now
 Edge](http://channel9.msdn.com/Events/Build/2015/2-656)
@@ -110,7 +110,7 @@ Edge](http://channel9.msdn.com/Events/Build/2015/2-656)
   - Add-ins run everywhere that office does
  - [Pre-recorded Sessions](http://channel9.msdn.com/Events/Build/2015?sort=sequential&direction=desc&term=&y=Pre-recorded)
 
-###Apps of the Week
+### Apps of the Week
 
  - BUILD 2015 app
   - Easily navigate sessions and get web links to the sessions you want to watch video.

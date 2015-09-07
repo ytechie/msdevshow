@@ -7,14 +7,14 @@ date: 2015-09-01
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0070.mp3
 ---
 
-###News
+### News
 
  - [Polyfill as a service](http://polyfills.io/)
  - [Firefox Will Adopt Chrome Add-Ons Too](https://www.thurrott.com/cloud/5473/firefox-will-adopt-chrome-add-ons-too)
  - [Google OnHub Review — Google’s smart home Trojan horse is a $200 leap of faith](http://arstechnica.com/gadgets/2015/08/google-onhub-review-googles-smart-home-trojan-horse-is-a-200-leap-of-faith/)
  - [Apparent Productivity Fueled By Procrastination](http://wynia.org/Blog/2015/07/apparent-productivity-fueled-by-procrastination)
 
-###Chris Dias
+### Chris Dias
 
 Microsoft Principal Program Manager on the vs code team
 
@@ -22,7 +22,7 @@ Microsoft Principal Program Manager on the vs code team
  - [GitHub](https://github.com/chrisdias)
  - [Channel 9](https://channel9.msdn.com/Events/Speakers/Chris-Dias)
 
-###Erich Gamma
+### Erich Gamma
 Erich is a Microsoft Distinguished Engineer on the vs code team
 
  - [@ErichGamma](https://twitter.com/ErichGamma)
@@ -38,7 +38,7 @@ Erich is a Microsoft Distinguished Engineer on the vs code team
  - [omnisharp.net](http://www.omnisharp.net/)
  - [emmet.io](http://emmet.io/)
 
-###Dev Tips of the Week
+### Dev Tips of the Week
 
  - [Spectrum](https://github.com/nigel-sampson/spectrum)
  - [Install Consolas in VS Code on the Mac](http://blog.ikato.com/post/15675823000/how-to-install-consolas-font-on-mac-os-x)

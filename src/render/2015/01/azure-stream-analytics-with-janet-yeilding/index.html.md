@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0038.mp3
 guestImage: janet-yeilding.jpg
 ---
 
-###News
+### News
 
  - [StackExchange Performance](http://stackexchange.com/performance)
  - [Application Lister](https://github.com/caschw/ApplicationLister)
@@ -18,7 +18,7 @@ guestImage: janet-yeilding.jpg
  - [What's the output? c\#](http://www.volatileread.com/wiki/Index?id=1073)
  - [Windows 10’s new browser will have the most advanced features ever](http://www.theverge.com/2015/1/8/7516489/windows-10-new-browser-spartan-features)
 
-###Janet Yeilding
+### Janet Yeilding
 
  - [@janetyeilding](https://twitter.com/janetyeilding)
  - [Stream Analytics Team Forum](http://blogs.msdn.com/b/streamanalytics/)
@@ -32,11 +32,11 @@ guestImage: janet-yeilding.jpg
   - [Built-in Functions](http://msdn.microsoft.com/en-us/library/azure/dn835030.aspx)
  - [Windowing](http://msdn.microsoft.com/en-us/library/azure/dn835019.aspx)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [eventhubs-js](https://github.com/ytechie/eventhubs-js)
 
-###App of the Week
+### App of the Week
 
  - [VLC](http://www.videolan.org/vlc/)
   - [Windows Phone](http://www.windowsphone.com/s?appid=44fa83f7-a98d-4647-b9d4-c35ed729d0c9)

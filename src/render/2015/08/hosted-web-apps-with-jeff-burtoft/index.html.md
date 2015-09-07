@@ -7,7 +7,7 @@ date: 2015-08-08
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0067.mp3
 ---
 
-###News
+### News
 
  - [23 lessons learned from interviewing the world's top developers](http://usersnap.com/blog/developers-lessons-learned/)
  - [Remote pairing within the Atom text editor](https://github.com/pusher/atom-pair)
@@ -16,7 +16,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0067.mp3
  - [5 Questions to Ask Before Building an App](http://www.inc.com/christina-desmarais/5-questions-to-ask-before-building-an-app.html)
  - [Programming excuses](http://programmingexcuses.com/)
 
-###Jeff Burtoft 
+### Jeff Burtoft 
 
 Jeff Burtoft is a Senior Program Manager on the Windows Developer Platform. He is also a web enthusiast, Texan, father, and husband.
 
@@ -35,14 +35,14 @@ Jeff Burtoft is a Senior Program Manager on the Windows Developer Platform. He i
  - [Web App Template](https://wat.codeplex.com/)
 
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Microsoft takes wraps off preview of its Azure Data Factory service](http://www.zdnet.com/article/microsoft-takes-wraps-off-preview-of-its-azure-data-factory-service/)
 
-###App of the Week
+### App of the Week
 
  - [Character Map by Vertigo](https://www.microsoft.com/en-us/store/apps/character-map-by-vertigo/9wzdncrdmdbg)
 
-###Dev Tip of the Random Interval
+### Dev Tip of the Random Interval
 
  - [Segoe MDL2 Assets Font](https://msdn.microsoft.com/en-us/library/windows/apps/jj841126.aspx)

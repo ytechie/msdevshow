@@ -5,13 +5,13 @@ date: 2015-06-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
 ---
 
-###News
+### News
 
  - [Chicago Build Tour](https://chicago.build15.com/)
  - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
  - [Stack Exchange Developer Desktop Build](http://nickcraver.com/desktop-build/)
 
-###Carl's Rig
+### Carl's Rig
 
  - Intel 2.5" 240GB SATA III Internal Solid State Drive
  - [GIGABYTE GreenMax Plus Power Supply](http://www.newegg.com/Product/Product.aspx?Item=N82E16817233012)
@@ -25,13 +25,13 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
  - [Logitech Illuminated Keyboard K740](http://www.amazon.com/gp/product/B001F51G16?tag=ytechie-20)
  - [3 foot Cord PowerSquid Surge Protector with Power Conditioner and 5 Outlets](http://www.amazon.com/gp/product/B0055YB7IA?tag=ytechie-20)
 
-###Carl's Mobile Rig
+### Carl's Mobile Rig
 
  - [Surface Pro 3 - i5, 8GB Ram, 256GB](http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600?WT.mc_id=sp3pdp-hero)
   - [Inateck Surface Pro 3 Protective Carrying Sleeve Bag Envelope Case](http://www.amazon.com/gp/product/B00P259LFS?tag=ytechie-20)
   - [Arc Touch Mouse Surface Edition](http://www.microsoftstore.com/store/msusa/en_US/pdp/Arc-Touch-Mouse-Surface-Edition/productID.286866800)
 
-###Carl's Other Hardware
+### Carl's Other Hardware
 
  - [PNY 7800mAh 2.4 Amp PowerPack Portable Rechargeable Battery Charger](http://www.amazon.com/gp/product/B00B7UKVHY?tag=ytechie-20)
   - Replace with: [Anker Astro E7 Ultra-High Capacity 25600mAh 3-Port 4A External Portable  Charger](http://www.amazon.com/dp/B00M3073L4/?tag=ytechie-20)
@@ -40,7 +40,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
  - [Get USB cables that fit your need](http://www.amazon.com/gp/product/B00N8VT4FK?tag=ytechie-20)
  - [**Really short** USB cables](http://www.amazon.com/gp/product/B00N8VT4FK?tag=ytechie-20)
 
-###Carl's Phone
+### Carl's Phone
 
  - [HTC One M8 for Windows](http://www.amazon.com/gp/product/B00M7DFJ0O?tag=ytechie-20)
  - [HTC Dot View Case - Orange Popsicle](http://www.amazon.com/gp/product/B00J62637C?tag=ytechie-20)
@@ -48,7 +48,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
  - [FiiO E11K Portable Headphone Amplifier](http://www.amazon.com/gp/product/B00MFMW29I?tag=ytechie-20)
  - [FiiO L16 Professional 3.5mm to 3.5mm Short Cable](http://www.amazon.com/L16-Professional-3-5mm-Short-Cable/dp/B00KL7C10O/?tag=ytechie-20)
 
-###Carl's Software
+### Carl's Software
 
  - [Pandoc](http://pandoc.org/)
  - [Markdown Pad 2](http://markdownpad.com/)
@@ -73,42 +73,42 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
   - [Phone](https://www.windowsphone.com/s?appid=cb040d8c-f740-4393-9f59-431fa920b90a)
  - [LastPass](https://lastpass.com/)
 
-###Jason's Rig
+### Jason's Rig
 
  - [Detailed Build Information](http://www.ytechie.com/2013/03/my-ivy-bridge-i7-build/)
  - [Samsung 850 Pro 512GB 2.5-Inch SATA III Internal SSD](http://www.amazon.com/gp/product/B00LF10KTO/?tag=ytechie-20)
 
-###Jason's Mobile Rig
+### Jason's Mobile Rig
 
 - [Surface Pro 3 - i5, 8GB Ram, 256GB](http://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Pro-3/productID.300190600?WT.mc_id=sp3pdp-hero)
  - [amCase Protective Neoprene with Handle](http://www.amazon.com/gp/product/B00DUN2PBQ/?tag=ytechie-20)
  - [Arc Touch Mouse Surface Edition](http://www.microsoftstore.com/store/msusa/en_US/pdp/Arc-Touch-Mouse-Surface-Edition/productID.286866800)
 
 
-###Jason's Other Hardware
+### Jason's Other Hardware
 
  - [Grid it](https://www.amazon.com/gp/product/B00479FQCM/?tag=ytechie-20)
  - [Microfiber Cloth](http://www.amazon.com/Microfiber-Cleaning-Cloth-Color-1-Count/dp/B00009PSZ2/?tag=ytechie-20)
  - [Microsoft Band](http://www.amazon.com/dp/B00P2QKNFO/?tag=ytechie-20)
 
-###Jason's Phones
+### Jason's Phones
  - [iPhone 6 Plus](http://www.amazon.com/Apple-iPhone-Plus-Space-Unlocked/dp/B00NQGOODE/?tag=ytechie-20)
  - [Lumia 635](http://www.amazon.com/AT-Nokia-Lumia-635-Contract/dp/B00LBFFSNM/?tag=ytechie-20)
  - [Moto E (I mistakenly said G on the podcast)](http://www.amazon.com/gp/product/B00K0NRYF6/?tag=ytechie-20)
 
-###Jason's Car Hardware
+### Jason's Car Hardware
 
  - [ProClipUSA](http://www.proclipusa.com/)
  - [Anker 9.6A / 48W 4-Port USB Car Charger](http://www.amazon.com/gp/product/B00SSMRB9A/?tag=ytechie-20)
 
-###Jason's Other Hardware
+### Jason's Other Hardware
 
  - [Logitech C920 Webcam](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S/?tag=ytechie-20)
  - [Scansnap Scanner](http://www.amazon.com/Fujitsu-ScanSnap-iX500-Scanner-PA03656-B005/dp/B00ATZ9QMO/?tag=ytechie-20)
  - [Anker 25W 5-Port Desktop USB Charger](http://www.amazon.com/gp/product/B00KBMRNQG/?tag=ytechie-20)
  - [Audio-Technica ATH-M50x Headphones](http://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86/?tag=ytechie-20)
 
-###Jason's Software
+### Jason's Software
 
  - Atom.io for markdown
  - Github for Windows
@@ -126,7 +126,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
  - Adobe Creative Cloud
  - Paint.net
 
-###App of the Week
+### App of the Week
  - [4castr](https://www.windowsphone.com/s?appid=bab2bc66-4fe6-43b7-bc63-e14902115875)
   - By [Bailey Stein](https://www.windowsphone.com/s?appid=bab2bc66-4fe6-43b7-bc63-e14902115875)
   -   [baileystein.com](http://www.baileystein.com/)

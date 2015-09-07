@@ -7,7 +7,7 @@ date: 2015-07-24
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0065.mp3
 ---
 
-###News
+### News
 
  - [Palette: Start changing the way you interact with your software](http://palettegear.com)
  - [Writage Markdown plugin for Microsoft Word](http://www.writage.com/?utm_content=buffer4fe8b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -15,7 +15,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0065.mp3
  - [Introducing Open Salaries at Buffer: Our Transparent Formula and All Individual Salaries](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/?utm_content=buffer4d9dd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
  - [Announcing .NET Framework 4.6](http://blogs.msdn.com/b/dotnet/archive/2015/07/20/announcing-net-framework-4-6.aspx)
 
-###Jonathan Turner
+### Jonathan Turner
 
 Jonathan Turner is the program manager for the TypeScript team at
 Microsoft.  He’s been with the team since the early days of TypeScript,
@@ -40,15 +40,15 @@ around releases.
  - [TypeScript Developer Survey Results](http://blogs.msdn.com/b/typescript/archive/2015/02/02/typescript-developer-survey-results.aspx)
  - [Angular 2: Built on TypeScript](http://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Announcing the Azure SDK 2.7 for .NET](http://azure.microsoft.com/blog/2015/07/20/announcing-the-azure-sdk-2-7-for-net/)
 
-###App of the Week
+### App of the Week
 
  - Cortana for Android
   - [Sign up for beta](http://www.surveygizmo.com/s3/2225956/Cortana-companion)
 
-###Dev Tip of the Random Interval
+### Dev Tip of the Random Interval
 
  - [Visual Studio 2015](https://www.visualstudio.com/downloads/download-visual-studio-vs)

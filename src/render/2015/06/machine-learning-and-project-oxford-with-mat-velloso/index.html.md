@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0061.mp3
 guestImage: mat-velloso.jpg
 ---
 
-###News
+### News
 
  - [WebAssembly - Revisited](https://www.w3.org/community/webassembly/)
   - [GitHub](https://github.com/webassembly)
@@ -20,7 +20,7 @@ guestImage: mat-velloso.jpg
  - [34 CSS Puns That’ll Make You Laugh, Even If You Aren’t A Web Designer](http://digitalsynopsis.com/design/34-css-puns-web-design-funny-jokes/)
  - [Windows Phone Mobile Insider Preview Build 10149](http://blogs.windows.com/bloggingwindows/2015/06/25/announcing-windows-10-mobile-insider-preview-build-10149/)
 
-### Mat Velloso
+###  Mat Velloso
 
 A random developer from Microsoft that built a cool viral site.
 
@@ -36,11 +36,11 @@ A random developer from Microsoft that built a cool viral site.
  - [how-old.net](http://how-old.net/#)
  - [projectoxford.ai](http://projectoxford.ai)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [New Azure Billing APIs Available](http://weblogs.asp.net/scottgu/new-azure-billing-apis-available)
 
-###App of the Week
+### App of the Week
 
  - [Microsoft How-Old](https://www.windowsphone.com/s?appid=8f4e7547-7ecb-4736-8306-11b97ba293e1)
 

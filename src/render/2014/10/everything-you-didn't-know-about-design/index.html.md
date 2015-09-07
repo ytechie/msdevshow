@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0026.mp3
 guestImage: rick-barazza.jpg
 ---
 
-###News
+### News
 
  - [New MS Dev Show Website!](http://msdevshow.com)
   - Thanks [Martinez Media](http://www.martinezmedia.net/)!
@@ -22,7 +22,7 @@ guestImage: rick-barazza.jpg
  - [How To Write Unmaintainable Code](https://www.thc.org/root/phun/unmaintain.html)
  - [Angular.js 1.3](http://angularjs.blogspot.com/2014/10/angularjs-130-superluminal-nudge.html)
 
-###Rick Barazza
+### Rick Barazza
 
 -   [http://rbarraza.com/](http://rbarraza.com/)
 -   [@rickbarraza](http://twitter.com/rickbarraza)
@@ -32,12 +32,12 @@ guestImage: rick-barazza.jpg
 
 [Good Burger](http://www.netflix.com/WiMovie/60028097)
 
-###Azure picks of the week
+### Azure picks of the week
 
  - [Azure Fluent Management](http://fluentmanagement.elastacloud.com/)
  - [MS Virtual Machine Converter 3.0](http://blogs.technet.com/b/scvmm/archive/2014/10/13/microsoft-virtual-machine-converter-3-0-is-now-available-for-download.aspx)
 
-###App of the Week
+### App of the Week
 
  - [Krashlander - Ski, Jump, Crash](http://www.windowsphone.com/s?appId=074783bd-21a0-4fa2-b535-9f98a83157ed)
   - [Farseer Games](http://www.farseergames.com/krashlander/)

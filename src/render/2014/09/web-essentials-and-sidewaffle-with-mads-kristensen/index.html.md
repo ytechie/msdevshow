@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0023.mp3
 guestImage: mads-kristensen.jpg
 ---
 
-###News
+### News
 
  - [WinJS Everywhere](http://blogs.windows.com/buildingapps/2014/09/17/winjs-everywhere/)
  - [Optimizing static websites hosted on IIS](http://madskristensen.net/post/optimizing-static-websites-on-iis#comments)
@@ -27,7 +27,7 @@ few more things we haven't mentioned before
   - Nameof operator 
  - [New D-Series Virtual Machine Sizes](http://azure.microsoft.com/blog/2014/09/22/new-d-series-virtual-machine-sizes/)
 
-###Mads Kristensen
+### Mads Kristensen
 
  - [https://twitter.com/mkristensen](https://twitter.com/mkristensen)
  - [http://madskristensen.net/](http://madskristensen.net/)
@@ -40,15 +40,15 @@ few more things we haven't mentioned before
  -   [Task Runner Explorer](http://visualstudiogallery.msdn.microsoft.com/8e1b4368-4afb-467a-bc13-9650572db708)
  - [Add Empty file](http://visualstudiogallery.msdn.microsoft.com/3f820e99-6c0d-41db-aa74-a18d9623b1f3)
     
-###Apps of the Week
+### Apps of the Week
 
  - [OneStart](http://www.windowsphone.com/s?appid=7860ee13-3666-4a15-9464-2a678e2f4f15)
  - [Age of Empires - Castle Siege](http://www.ageofempires.com/castlesiege)
 
-###Dev Tool Of the Week
+### Dev Tool Of the Week
 
  - [Windows Store App Logo Maker](http://www.winbeta.org/news/awesome-tool-easily-creates-multi-sized-logos-your-windows-81-or-windows-phone-app-project)
 
-###Carl
+### Carl
 
  - Carl will be [speaking](http://twincitiescodecamp.com/Speakers/Fall2014#sp5) at the [Twin Cities Code Camp](http://twincitiescodecamp.com/) on Oct 4th about Cortana. 

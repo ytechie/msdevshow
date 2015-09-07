@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0062.mp3
 guestImage: arun-singh.jpg
 ---
 
-###News
+### News
 
  - [MIT creates system that fixes bugs by importing functionality from other programs — without access to source code.](https://newsoffice.mit.edu/2015/automatic-code-bug-repair-0629)
  - [Compiler Errors for Humans](http://elm-lang.org/blog/compiler-errors-for-humans)
@@ -18,11 +18,11 @@ guestImage: arun-singh.jpg
  - [Why We Need WebAssembly: An Interview with Brendan Eich](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
 
 
-###App of the Week
+### App of the Week
 
  - [InstaNote](https://www.windowsphone.com/s?appid=0fe18e4d-38f8-4d4e-8d09-ae349c2fbf9a)
 
-###Arun Singh
+### Arun Singh
 
  - [@aruntalkstech](https://twitter.com/aruntalkstech)
  - [aruntalkstech.com](http://aruntalkstech.com)

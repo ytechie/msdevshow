@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0032.mp3
 guestImage: atley-hunter.jpg
 ---
 
-###News
+### News
 
  - [A Certificate Authority to Encrypt the Entire Web](https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web)
   - [The complete guide to loading a free SSL certificate into an Azure website](http://www.troyhunt.com/2013/09/the-complete-guide-to-loading-free-ssl.html)
@@ -19,7 +19,7 @@ guestImage: atley-hunter.jpg
   - [Google Research](http://googleresearch.blogspot.com/2014/11/a-picture-is-worth-thousand-coherent.html)
   - [Microsoft Reasearch - with Interns](http://blogs.technet.com/b/machinelearning/archive/2014/11/18/rapid-progress-in-automatic-image-captioning.aspx)
 
-###Atley Hunter
+### Atley Hunter
 
  - [@atleyhunter](http://twitter.com/atleyhunter)
  - [http://www.atleyhunter.com/](http://www.atleyhunter.com/)
@@ -30,11 +30,11 @@ guestImage: atley-hunter.jpg
  - [Rate My App](http://developer.nokia.com/community/wiki/Implement_%22Rate_My_App%22_in_under_60_seconds)
   - [Nuget Package](https://www.nuget.org/packages/RateMyApp/1.2.4-alpha)
 
-###Azure pick of the week
+### Azure pick of the week
 
 -   [Azure Stream Analytics](http://azure.microsoft.com/en-us/services/stream-analytics/)
 
-###App of the Week
+### App of the Week
 
  - [Wolfram Alpha](http://www.wolframalpha.com/) 
   -   [Windows Phone](http://www.windowsphone.com/s?appId=e6739e33-651d-41f8-94ee-71f9e693866b)

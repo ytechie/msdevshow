@@ -7,7 +7,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0035.mp3
 guestImage: john-ptacek.jpg
 ---
 
-###News
+### News
 
  - [Chartist.js](http://gionkunz.github.io/chartist-js/)
  - [Big-O cheat sheet](http://bigocheatsheet.com/)
@@ -18,15 +18,15 @@ guestImage: john-ptacek.jpg
  - [The Worst Programming Language Ever](https://skillsmatter.com/skillscasts/6088-the-worst-programming-language-ever)
  - [Wear my 'stache!](http://wearmystache.azurewebsites.net/) - Chrome only
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [WebJobs](http://azure.microsoft.com/en-us/documentation/articles/web-sites-create-web-jobs/)
 
-###App of the Week
+### App of the Week
 
  - [Family Guy: The Quest for Stuff](http://apps.microsoft.com/windows/en-us/app/family-guy-the-quest-for-stuff/67a697d4-777f-4b34-bf75-fd87dbe27324)
 
-###John Ptacek
+### John Ptacek
 
  - [@jptacek](http://twitter.com/jptacek)
  - [www.jptacek.com](http://www.jptacek.com)
