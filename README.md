@@ -13,20 +13,12 @@ The _MS Dev Show_ site utilizes Docpad, a nodejs-based static site generation to
 
 ### Installation
 
-1. Download and install [nodejs](http://nodejs.org/) (use default options) and common packages:
-	1. `npm install -g npm`
-	2. `npm install -g docpad`
-	3. _For the following packages, you'll need to be in the git repository folder_
-	3. `npm install cheerio`
-	4. `npm install moment`
-2. Download and install [Ruby](http://www.rubyinstaller.org/) (Windows: be sure to add Ruby executables to your **PATH**)
-3. Download and install [Sass](http://sass-lang.com/install) and other common gems:
-	1. `gem install sass`
-	2. `gem install bourbon`
-	3. `gem install neat`
-	4. `gem install bitters`
-4. In the command prompt/terminal, navigate to your git repository folder
-5. Run the command `docpad update`
+1. Download and install [nodejs](http://nodejs.org/) (use default options)
+1. In the command prompt/terminal, navigate to your git repository folder
+
+	npm install
+	npm install -g docpad@6
+	docpad run
 
 And done! These guidelines should work for both Windows and Mac OS X.
 
