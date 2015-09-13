@@ -5,7 +5,6 @@ guest: Mike Rohde
 guestImage: mike-rohde.jpg
 date: 2015-09-13
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0072.mp3
-ignored: true
 ---
 
 ### News
