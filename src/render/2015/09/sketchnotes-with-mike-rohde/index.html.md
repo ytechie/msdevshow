@@ -21,7 +21,7 @@ Mike Rohde is a designer, author, and illustrator. He is a full time UX
 designer in Milwaukee, and he's the author of the Sketchnote Handbook and
 the Sketchnote Workbook.
 
-![sketchnote](/images/sketchnote/sketchnote.png)
+![sketchnote](http://msdevshow.com/images/sketchnote/sketchnote.png)
 
  - [@rohdesign](http://www.twitter.com/rohdesign)
  - [rohdesign.com](http://rohdesign.com)
@@ -44,8 +44,7 @@ the Sketchnote Workbook.
 
 ### App of the Week
 
- - [Messaging Skype
-Beta](https://www.microsoft.com/en-us/store/apps/messaging-skype-beta/9wzdncrdtbtq)
+ - [Messaging Skype Beta](https://www.microsoft.com/en-us/store/apps/messaging-skype-beta/9wzdncrdtbtq)
   - For Windows 10 Mobile
 
 ### Dev Tip of the Week
