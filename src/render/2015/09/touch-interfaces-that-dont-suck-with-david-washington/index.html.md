@@ -5,7 +5,6 @@ guest: David Washington
 guestImage: david-washington.jpg
 date: 2015-09-21
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0073.mp3
-ignored: true
 ---
 
 ### News
