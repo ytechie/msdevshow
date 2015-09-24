@@ -35,9 +35,6 @@ Director of Evangelism for central U.S. at Microsoft, and he also calls himself 
 -----------------------------------------
 
  - [Estimation (XKCD)](https://xkcd.com/612/)
-
------------------------------------------
- 
  - They're Made Out of Meat
    - [YouTube](https://www.youtube.com/watch?v=7tScAyNaRdQ)
    - [Story](http://www.terrybisson.com/page6/page6.html)
