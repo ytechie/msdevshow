@@ -30,7 +30,7 @@ Donovan Brown is a senior program manager for DevOps at Microsoft. He has been w
 
 ### Azure pick of the Week
 
- - Visual Studio Online
+ - [Visual Studio Online](https://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)
 
 ### Dev and App Tip of the Week
  - [Notifications Visualizer](https://www.microsoft.com/en-us/store/apps/notifications-visualizer/9nblggh5xsl1?utm_content=buffer60374&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
