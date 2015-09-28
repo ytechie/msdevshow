@@ -9,7 +9,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0074.mp3
 
 ### News
 
- - MS Dev Show Mario Level (coming soon)
+ - MS Dev Show Mario Level - use code DA59-0000-0066-F8B8 - [Thank you Ryan for making this!](https://twitter.com/RyanTheGamer123)
  - [Azure in Plain English](http://www.ytechie.com/2015/09/azure-in-plain-english/)
  - [How to have a 100% code coverage with tests and be sane](https://github.com/konmik/konmik.github.io/wiki/How-to-have-a-100%25-code-coverage-with-tests-and-be-sane)
  - [Volkswagon diesel fraud makes us think about software](http://www.nytimes.com/2015/09/23/nyregion/volkswagens-diesel-fraud-makes-critic-of-secret-code-a-prophet.html?_r=1)
