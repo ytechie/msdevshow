@@ -5,7 +5,6 @@ guest: Matt Hindinger and Andrew Bares
 guestImage: andrew-and-matt.jpg
 date: 2015-10-02
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0075.mp3
-ignored: true
 ---
 
 ### News
