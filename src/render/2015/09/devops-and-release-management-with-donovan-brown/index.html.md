@@ -28,6 +28,7 @@ Donovan Brown is a senior program manager for DevOps at Microsoft. He has been w
  - [Release Management 2015](https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview-rm2015)
  - [IntelliTest](http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/05/intellitest-one-test-to-rule-them-all.aspx)
  - [Release Management came from InRelease](http://blogs.msdn.com/b/bharry/archive/2013/07/10/inrelease-acquisition-is-complete.aspx)
+ - [DevOps Deep Dive / DevOps in action](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M348) Microsoft Ignite New Zealand 2015
 
 ### Azure pick of the Week
 
