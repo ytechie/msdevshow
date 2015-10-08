@@ -33,6 +33,7 @@ the future of live tiles and notifications.
 
 ----------------------------------------------------------------
 
+ - [Notifications Visualizer download](https://www.microsoft.com/en-us/store/apps/notifications-visualizer/9nblggh5xsl1)
  - [Microsoft Tiles and Toasts Blog](http://blogs.msdn.com/b/tiles_and_toasts/)
  - [Build: Tiles, Notifications, and Action Center](https://channel9.msdn.com/Events/Build/2015/2-762)
  - [Notifications Extensions - Win10](https://www.nuget.org/packages/NotificationsExtensions.Win10/)
