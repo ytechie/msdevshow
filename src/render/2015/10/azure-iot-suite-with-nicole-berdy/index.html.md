@@ -12,7 +12,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0076.mp3
  - [Watch](http://www.microsoft.com/october2015event/en-us/live-event) the announcements again
  - Hololens
   - [Development edition](http://www.microsoft.com/microsoft-hololens/en-us/development-edition) apply to get one Q1 2016 for $3k
- - [Sign Up](https://holotechinfo.com/)!
+  - [Sign Up](https://holotechinfo.com/)!
  - [Band v2](http://www.microsoft.com/microsoft-band/en-us/features)
  - [Surface Book](https://www.microsoft.com/surface/en-us/devices/surface-book)
  - [Surface Pro 4](https://www.microsoft.com/surface/en-us/devices/surface-pro-4)
@@ -21,11 +21,11 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0076.mp3
 
 ### Nicole Berdy
 
-Nicole is a Product Manager on the the Azure IoT team, and she also like to participate in [puzzle hunts](https://en.wikipedia.org/wiki/Puzzlehunt).
+Nicole is a Product Manager on the the Azure IoT team, and she also likes to participate in [puzzle hunts](https://en.wikipedia.org/wiki/Puzzlehunt).
  
- - [https://twitter.com/nberdy](https://twitter.com/nberdy)
- - [https://channel9.msdn.com/Events/Speakers/nicole-berdy](https://channel9.msdn.com/Events/Speakers/nicole-berdy)
- - [https://github.com/nberdy](https://github.com/nberdy)
+ - [@nberdy](https://twitter.com/nberdy)
+ - [Channel 9](https://channel9.msdn.com/Events/Speakers/nicole-berdy)
+ - [GitHub](https://github.com/nberdy)
 
 -----------------------------------------------
 
