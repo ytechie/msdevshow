@@ -34,8 +34,8 @@ cacheable: true
 	<nav class="sidebar-nav" id="misc-nav">
 		<h2>Misc</h2>
 		<ul>
-			<li><a href="http://msdevshow.com/about/" title="About us">About us</li>
-			<li><a href="https://trello.com/b/KWmTX2sG/ms-dev-show-potential-topics" title="Vote on show topics at Trello">Show Topic Voting</li>
+			<li><a href="http://msdevshow.com/about/" title="About us">About us</a></li>
+			<li><a href="https://trello.com/b/KWmTX2sG/ms-dev-show-potential-topics" title="Vote on show topics at Trello">Show Topic Voting</a></li>
 		</ul>
 	</nav
     <nav class="sidebar-nav" id="latest-shows-nav">
