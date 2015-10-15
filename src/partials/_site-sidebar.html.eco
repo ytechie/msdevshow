@@ -37,7 +37,7 @@ cacheable: true
 			<li><a href="http://msdevshow.com/about/" title="About us">About us</a></li>
 			<li><a href="https://trello.com/b/KWmTX2sG/ms-dev-show-potential-topics" title="Vote on show topics at Trello">Show Topic Voting</a></li>
 		</ul>
-	</nav
+	</nav>
     <nav class="sidebar-nav" id="latest-shows-nav">
         <h2>Latest Guests</h2>
         <ul>
