@@ -5,7 +5,6 @@ guest: Adam Driscoll
 guestImage: adam-driscoll.jpg
 date: 2015-10-18
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0077.mp3
-ignored: true
 ---
 
 ### News
