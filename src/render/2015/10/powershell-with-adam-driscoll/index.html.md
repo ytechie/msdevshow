@@ -18,7 +18,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0077.mp3
  - [This guy bought 'Google.com' from Google for one minute](http://finance.yahoo.com/news/guy-bought-google-com-google-230510405.html)
  - [The ability to Screen Shot a single DOM element coming to Firefox 41](https://hacks.mozilla.org/2015/09/trainspotting-firefox-41/)
  - [Free Lossless Image Format](http://flif.info/)
- - [Creating C\# classes from JSON (or XML) in Visual Studio 2015](http://visuallylocated.com/post/2015/10/05/Creating-C-classes-from-JSON-(or-XML)-in-Visual-Studio-2015.aspx)
+ - [Creating C\# classes from JSON (or XML) in Visual Studio 2015](http://visuallylocated.com/post/2015/10/05/Creating-C-classes-from-JSON-%28or-XML%29-in-Visual-Studio-2015.aspx)
  
 ### Adam Driscoll 
 
