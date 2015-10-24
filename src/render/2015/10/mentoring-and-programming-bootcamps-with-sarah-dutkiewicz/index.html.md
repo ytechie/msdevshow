@@ -5,7 +5,6 @@ guest: Sarah Dutkiewicz
 guestImage: sarah-dutkiewicz.jpg
 date: 2015-10-24
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0078.mp3
-ignored: true
 ---
 
 ### News
