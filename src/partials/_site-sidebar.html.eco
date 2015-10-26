@@ -36,6 +36,7 @@ cacheable: true
 		<ul>
 			<li><a href="http://msdevshow.com/about/" title="About us">About us</a></li>
 			<li><a href="https://trello.com/b/KWmTX2sG/ms-dev-show-potential-topics" title="Vote on show topics at Trello">Show Topic Voting</a></li>
+			<li><a href="http://www.amazon.com/s/ref=sr_nr_i_0?fst=as%3Aoff&rh=k%3Ams+dev+show%2Ci%3Afashion&keywords=ms+dev+show&ie=UTF8&qid=1445871789" title="MS Dev Show Merchandise on Amazon">Want a MS Dev Show shirt? Buy some!</a></li>
 		</ul>
 	</nav>
     <nav class="sidebar-nav" id="latest-shows-nav">
