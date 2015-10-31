@@ -5,7 +5,6 @@ guest: Miao Jiang
 guestImage: miao-jiang.jpg
 date: 2015-10-31
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0079.mp3
-ignored: true
 ---
 
 ### News
