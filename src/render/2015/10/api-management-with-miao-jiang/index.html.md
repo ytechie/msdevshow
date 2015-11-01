@@ -22,7 +22,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0079.mp3
  
 ### Miao Jiang 
 
-Miao is a Program manager on the API Management team at Microsoft. Before Microsoft he wrote high frequency trading algorithms.
+Miao is a Program Manager on the API Management team at Microsoft. Before Microsoft he wrote high frequency trading algorithms.
 
  - [@miaojiang](https://twitter.com/miaojiang)
  - [LinkedIn](https://www.linkedin.com/in/miaojiang)
