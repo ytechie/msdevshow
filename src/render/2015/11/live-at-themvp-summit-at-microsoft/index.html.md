@@ -44,7 +44,7 @@ Software Architect for Aptera
  - [Canopy repo on GitHub](https://github.com/lefthandedgoat/canopy)
  - [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/5001339)
 
- ### Jason Bock
+### Jason Bock
 
 Practice Lead at Magenic
 
