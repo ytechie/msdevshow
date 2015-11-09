@@ -9,7 +9,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0080.mp3
 
 ### Ben Dewey
 
-Director of Mobile Practice at Tallon
+Director of Mobile Practice at Tallan
 
  - [@BenDewey](https://twitter.com/bendewey)
  - [Bendewey.com](http://www.bendewey.com/)
