@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live at the Microsoft
+title: Live at Microsoft
 guest: the MVP Summit
 guestImage: mvpsummit.jpg
 date: 2015-11-07
