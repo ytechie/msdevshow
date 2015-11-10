@@ -30,7 +30,7 @@ President of Huminitarian Toolbox
 
 Project Manager on the content team at Microsoft
 
- - Twitter: [@denniscode](https://twitter.com/DennisCode)
+ - [@denniscode](https://twitter.com/DennisCode)
  - [dennisdel.com](http://www.dennisdel.com/)
  - [msdn.uservoice.com](http://msdn.uservoice.com)
 
