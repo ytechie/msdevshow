@@ -23,7 +23,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0081.mp3
 David is a software engineer working on developer tools in the Windows PowerShell team at Microsoft.  This week he is here to talk with us about adding advanced PowerShell development support to modern code editors like Visual Studio Code. 
 
  - [@daviwil](https://twitter.com/daviwil)
- - [http://daviwil.com/](http://daviwil.com/)
+ - [daviwil.com](http://daviwil.com/)
  - [GitHub](https://github.com/daviwil)
  - [Announcing PowerShell language support for Visual Studio Code and more!](http://blogs.msdn.com/b/powershell/archive/2015/11/17/announcing-windows-powershell-for-visual-studio-code-and-more.aspx)
 
