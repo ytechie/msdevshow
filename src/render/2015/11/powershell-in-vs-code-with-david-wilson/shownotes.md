@@ -5,7 +5,6 @@ guest: David Wilson
 guestImage: david-wilson.jpg
 date: 2015-11-18
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0081.mp3
-ignored: true
 ---
 
 ### News
