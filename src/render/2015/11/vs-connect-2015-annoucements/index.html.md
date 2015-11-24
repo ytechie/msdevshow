@@ -66,7 +66,6 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0082.mp3
 
 #### Xaml
 
- - Behaviors open sourced
  - WPF is NOT dead!
 
 ### App of the Week
