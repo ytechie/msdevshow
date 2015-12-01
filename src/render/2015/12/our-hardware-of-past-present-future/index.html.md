@@ -73,7 +73,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0083.mp3
   - [Going Big: 40 Glorious inches of 4k with the Philips BDM4065UC](http://weblog.west-wind.com/posts/2015/Nov/23/Going-Big-40-Glorious-inches-of-4k-with-the-Philips-BDM4065UC)
   - Wider Desk
 
- ### App of the Week
+### App of the Week
 
  - [App Comparison](https://play.google.com/store/apps/details?id=com.microsoft.appmatcher)
 
