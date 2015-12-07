@@ -5,7 +5,6 @@ guest: Ali Alvi
 guestImage: ali-alvi.jpg
 date: 2015-12-07
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0084.mp3
-ignored: true
 ---
 
 ### News
