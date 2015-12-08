@@ -7,7 +7,7 @@ title: Podcast Episode Archives
         <% posts = @getCollection('posts').toJSON() %>
         <% for document in posts: %>
         {
-            "date": "<%= document.date %>",
+            "date": "<%= document.date.toISOString() %>",
             "title": "<%= document.title %>",
             "guestImage": "http://msdevshow.com<%= document.url + document.guestImage %>",
             "audioUrl": "<%= document.audioUrl %>",
