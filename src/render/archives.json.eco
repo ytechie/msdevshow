@@ -1,0 +1,17 @@
+---
+title: Podcast Episode Archives
+---
+
+{
+    "episodes": [
+        <% for document in @getCollection('posts').toJSON(): %>
+        {
+            "date": "<%= document.date %>",
+            "title": "<%= document.title %>",
+            "guestImage": "http://msdevshow.com<%= document.url + document.guestImage %>",
+            "audioUrl": "<%= document.audioUrl %>",
+            "guest": "<%= document.guest %>"
+        },
+        <% end %>
+    ]
+}
