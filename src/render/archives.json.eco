@@ -4,14 +4,16 @@ title: Podcast Episode Archives
 
 {
     "episodes": [
-        <% for document in @getCollection('posts').toJSON(): %>
+        <% posts = @getCollection('posts').toJSON() %>
+        <% for document in posts: %>
         {
             "date": "<%= document.date %>",
             "title": "<%= document.title %>",
             "guestImage": "http://msdevshow.com<%= document.url + document.guestImage %>",
             "audioUrl": "<%= document.audioUrl %>",
-            "guest": "<%= document.guest %>"
-        },
+            "guest": "<%= document.guest %>",
+            "link": "http://msdevshow.com<%= document.url %>"
+        }<% if document != posts[posts.length - 1]: %>,<% end %>
         <% end %>
     ]
 }
