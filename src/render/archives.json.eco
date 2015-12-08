@@ -9,7 +9,7 @@ title: Podcast Episode Archives
         {
             "date": "<%= document.date.toISOString() %>",
             "title": "<%= document.title %>",
-            "guestImage": "http://msdevshow.com<%= document.url + document.guestImage %>",
+            <% if document.guestImage: %>"guestImage": "http://msdevshow.com<%= document.url + document.guestImage %>",<% end %>
             "audioUrl": "<%= document.audioUrl %>",
             "guest": "<%= document.guest %>",
             "link": "http://msdevshow.com<%= document.url %>"
