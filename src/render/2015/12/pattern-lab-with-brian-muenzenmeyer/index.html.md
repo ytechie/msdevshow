@@ -11,6 +11,7 @@ ignored: true
 ### News
 
  - We have new theme music thanks to Adhesive Wombat check out the full length version, or the rest of his music at [soundcloud.com/adhesivewombat](https://soundcloud.com/adhesivewombat)
+  - [8 Bit Adventure](https://soundcloud.com/adhesivewombat/adhesivewombat-8-bit-adventure)
  - [Double sided flash](http://msdv.sh/1SI9olv)
  - [TIOBE Index for December 2015 - Language popularity](http://www.tiobe.com/index.php/content/paperinfo/tpci/)
  - [Cortana: Now available where and when you need her, no matter what smartphone you choose](https://blogs.windows.com/windowsexperience/2015/12/09/cortana-now-available-here-and-when-you-need-her-no-matter-what-smartphone-you-choose/)
