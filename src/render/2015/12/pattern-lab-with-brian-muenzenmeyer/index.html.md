@@ -18,7 +18,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0085.mp3
   - [Android](https://play.google.com/store/apps/details?id=com.microsoft.cortana)
  - [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
   - [Carl's favorite HTTP Status Code](http://cube-drone.com/comics/c/rfc-2324)
- - [https://medium.com/@docjamesw/work-hard-youll-get-there-eventually-d4f4fc704820](https://medium.com/@docjamesw/work-hard-youll-get-there-eventually-d4f4fc704820)
+ - [Work Hard You’ll Get There Eventually (Hint: No You Won’t)](https://medium.com/@docjamesw/work-hard-youll-get-there-eventually-d4f4fc704820)
   - "You must always remain valuable no matter what happens to your company"
   - "Careers are no longer something we have; careers are something we must own."
  - [Rise of the machines - Josh Holmes](https://www.youtube.com/watch?v=Ph1eVRdtJZY)
