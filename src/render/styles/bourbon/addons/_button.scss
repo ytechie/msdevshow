@@ -116,13 +116,10 @@
   }
 
   border: 3px solid $border;
-  //border-radius: 3px;
-  //box-shadow: inset 0 1px 0 0 $inset-shadow;
   color: $color;
   display: inline-block;
   font-size: $textsize;
   font-weight: bold;
-  //@include linear-gradient ($base-color, $stop-gradient);
   background: $base-color;
   padding: $padding;
   text-decoration: none;
@@ -140,9 +137,7 @@
       $stop-gradient-hover: grayscale($stop-gradient-hover);
     }
 
-    //box-shadow: inset 0 1px 0 0 $inset-shadow-hover;
     cursor: pointer;
-    //@include linear-gradient ($base-color-hover, $stop-gradient-hover);
     background: $base-color-hover;
   }
 
@@ -157,7 +152,6 @@
     }
 
     border: 3px solid $border-active;
-    //box-shadow: inset 0 0 8px 4px $inset-shadow-active, inset 0 0 8px 4px $inset-shadow-active;
   }
 }
 
