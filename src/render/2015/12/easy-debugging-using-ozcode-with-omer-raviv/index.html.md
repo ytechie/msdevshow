@@ -43,4 +43,4 @@ Omer Raviv - CTO and Co-Founder of OzCode, and an expert in Visual Studio debugg
 
 ### Dev Tip of the Week
 
- - Embed a Live Tile in your Windows 10 app! [http://msdv.sh/1OeNbha](http://msdv.sh/1OeNbha)
+ - [Embed a Live Tile in your Windows 10 app!](http://msdv.sh/1OeNbha)
