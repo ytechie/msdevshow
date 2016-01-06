@@ -29,7 +29,6 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0088.mp3
   - Skype as a 100% integrated solution like iMessage and Facetime
   - Trackpad virtual desktop swipe & trackpad tech
   - Apps!!!!
-
  - Importance of learning new languages
 
 ### Jason's topics
