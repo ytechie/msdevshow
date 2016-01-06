@@ -52,7 +52,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0088.mp3
   - Be objective by using everything
   - Guess what, your hardware isn't important, and your OS isn't either.
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Power Apps](http://PowerApps.com)
   - Build using a windows app
