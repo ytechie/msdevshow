@@ -42,7 +42,7 @@ Developer, serial entrepreneur, Podcaster, doer, and family man.
 
 ### Azure pick of the week
 
--   [Service Fabric Party Clusters](http://tryazureservicefabric.eastus.cloudapp.azure.com/)
+ - [Service Fabric Party Clusters](http://tryazureservicefabric.eastus.cloudapp.azure.com/)
 
 ### Dev Tips of the Week
 
