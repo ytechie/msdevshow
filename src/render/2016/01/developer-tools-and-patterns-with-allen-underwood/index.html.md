@@ -20,11 +20,11 @@ ignored: true
 
 Developer, serial entrepreneur, Podcaster, doer, and family man.
 
--   [@theallenu](https://twitter.com/theallenu)
--   [untetheredincome.com](http://www.untetheredincome.com/)
--   [headphonereviewhq.com](http://www.headphonereviewhq.com/)
--   [codingblocks.net](http://www.codingblocks.net/)
--   Codingblocks.slack.com
+ - [@theallenu](https://twitter.com/theallenu)
+ - [untetheredincome.com](http://www.untetheredincome.com/)
+ - [headphonereviewhq.com](http://www.headphonereviewhq.com/)
+ - [codingblocks.net](http://www.codingblocks.net/)
+ - [Codingblocks Slack](https://codingblocks.slack.com/)
 
 ------------------------------------
 
@@ -32,13 +32,13 @@ Developer, serial entrepreneur, Podcaster, doer, and family man.
  - [Meteor.js](https://www.meteor.com/)
  - [GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
  - [12 Factor Apps in Plain English/](http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/)
- - Webstorm
- - WinMerge
- - Code Academy
- - Log4Stuff
+ - [Webstorm](https://www.jetbrains.com/webstorm/)
+ - [WinMerge](http://winmerge.org/)
+ - [Code Academy](https://www.codecademy.com/)
+ - [Log4Stuff](http://log4stuff.com/)
  - [CodeAcademy](https://www.codecademy.com/): Learn how to code for FREE – Interactively!  HTML, CSS, Javascript, Ruby, Python, PHP and more.  Go there…now…
  - [Netgear R7000 AC1900](http://www.amazon.com/gp/product/B00F0DD0I6/?tag=ytechie-20): Rock solid, great performing wireless router.
-  -   Carl has [NETGEAR Nighthawk Tri-Band Gigabit R8000](http://www.amazon.com/NETGEAR-Nighthawk-Tri-Band-Gigabit-R8000/dp/B00KWHMR6G/)
+  - Carl has the [NETGEAR Nighthawk Tri-Band Gigabit R8000](http://www.amazon.com/NETGEAR-Nighthawk-Tri-Band-Gigabit-R8000/dp/B00KWHMR6G/)
  - [Meteor.js](https://www.meteor.com/): An isomorphic approach to applications.  It’s a full stack javascript application framework – write your Server, Client and Middleware in Javascript.  It’s so quick and easy to get up and running that it’s really not fair to compare it to any other “frameworks” out there.  It’s done incredibly well.
 
 ### Azure pick of the week
@@ -47,7 +47,7 @@ Developer, serial entrepreneur, Podcaster, doer, and family man.
 
 ### Dev Tips of the Week
 
- - Poor Man's t-sql Formatter
+ - Poor Man's T-SQL Formatter
   - [poorsql.com](http://poorsql.com/)
     - Plugin for SSMS 
     - Plugin for Notepad++
