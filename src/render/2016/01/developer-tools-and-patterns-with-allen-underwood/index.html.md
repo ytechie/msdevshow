@@ -5,7 +5,6 @@ guest: Allen Underwood
 guestImage: allen-underwood.jpg
 date: 2016-01-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0089.mp3
-ignored: true
 ---
 
 ### News
