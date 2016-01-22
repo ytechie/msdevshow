@@ -38,7 +38,7 @@ James is a Distinguished Technical Evangelist at Microsoft, a storyteller, and i
  
 ### Azure pick of the week
 
- - [https://azure.microsoft.com/en-us/services/traffic-manager/](https://azure.microsoft.com/en-us/services/traffic-manager/)
+ - [Traffic Manager](https://azure.microsoft.com/en-us/services/traffic-manager/)
 
 ### App of the Week
 
