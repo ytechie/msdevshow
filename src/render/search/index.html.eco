@@ -5,16 +5,18 @@ enablePageComments: false
 sitemap: true
 ---
 
-<script>
-  (function() {
-    var cx = '014740130576751147378:4jny6jvsrsi';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
+<div id="search">
+	<script>
+	(function() {
+		var cx = '014740130576751147378:4jny6jvsrsi';
+		var gcse = document.createElement('script');
+		gcse.type = 'text/javascript';
+		gcse.async = true;
+		gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+			'//cse.google.com/cse.js?cx=' + cx;
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(gcse, s);
+	})();
+	</script>
+	<gcse:search></gcse:search>
+</div>
