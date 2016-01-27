@@ -11,7 +11,7 @@ sitemap: true
 		var cx = '014740130576751147378:4jny6jvsrsi';
 		var gcse = document.createElement('script');
 		gcse.type = 'text/javascript';
-		gcse.async = true;
+		gcse.async = false;
 		gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
 			'//cse.google.com/cse.js?cx=' + cx;
 		var s = document.getElementsByTagName('script')[0];
