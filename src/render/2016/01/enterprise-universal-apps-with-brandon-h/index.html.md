@@ -7,6 +7,8 @@ date: 2016-01-29
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0091.mp3
 ---
 
+There is a little bit of voice overlap around the 5 minute mark when Carl's computer freezes. Carl really needs a new computer that doesn't freeze during the recordings.
+
 ### News
 
  - [When you start talking about numbers as small as 2⁻¹²², you have to start looking more closely at the things you thought were zero](https://blogs.msdn.microsoft.com/oldnewthing/20160114-00/?p=92851)
