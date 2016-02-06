@@ -5,7 +5,6 @@ guest: Mat Velloso
 guestImage: mat-velloso.jpg
 date: 2016-02-06
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0092.mp3
-ignored: true
 ---
 
 ### News
