@@ -5,7 +5,6 @@ guest: Matt Long
 guestImage: matt-long.jpg
 date: 2016-03-19
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0097.mp3
-ignored: true
 ---
 
 ### News
