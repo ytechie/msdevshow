@@ -13,7 +13,7 @@ ignored: true
  - [Stack Overflow Developer Survey Results](http://stackoverflow.com/research/developer-survey-2016)
  - [Microsoft Edge extensions now available to preview](https://blogs.windows.com/msedgedev/2016/03/17/preview-extensions/)
  - [Java Developers Are The Saddest And C++ Programmers Are The Oldest](http://fossbytes.com/swift-programmers-beard-java-saddest-cpp-oldest-developer-survey/)
-  - ![language](language.jpg)
+  - ![language](language.gif)
 
 ### Bruno Terkaly
 
