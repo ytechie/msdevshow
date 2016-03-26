@@ -5,7 +5,6 @@ guest: Aaron Williams and Bruno Terkaly
 guestImage: aaron-and-bruno.jpg
 date: 2016-03-26
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0098.mp3
-ignored: true
 ---
 
 ### News
