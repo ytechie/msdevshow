@@ -32,12 +32,12 @@ Gary works in the oil and gas industry in Scotland, is a father and an open sour
  - [gep13.co.uk/blog](http://www.gep13.co.uk/blog/)
  - [GitHub](https://github.com/gep13)
 
-###CakeBuild
+### CakeBuild
 
  - [cakebuild.net](http://cakebuild.net/)
  - [GitHub](https://github.com/cake-build)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [Application Insights Analytics](http://bit.ly/1ShkQmn)
 
