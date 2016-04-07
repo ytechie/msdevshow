@@ -119,6 +119,6 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0100.mp3
  - [Calendar integration](http://www.theverge.com/2016/3/30/11331174/windows-10-cortana-desktop-update)
  - Side loading of add-ins
 
-###SQL Server
+### SQL Server
 
  - 2016 RC1 available
