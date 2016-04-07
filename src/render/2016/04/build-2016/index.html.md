@@ -91,25 +91,27 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0100.mp3
  - [AzureFunctions](https://azure.microsoft.com/en-us/services/functions/)
  - Visual Studio 2017 preview  
  - [Service fabric GA](https://azure.microsoft.com/en-us/blog/azure-service-fabric-is-ga/)
- - Linux support 
+  - Linux support 
  - [IoT starter kits for sale](https://azure.microsoft.com/en-us/develop/iot/starter-kits/)
  - [Document DB](https://azure.microsoft.com/en-us/blog/documentdb-goes-planet-scale-with-global-databases-new-pricing-and-more-developer-choices/)
- - Global databases 
- - Decouple size and perf 
- - Use any standard  MongoDB drivers 
+  - Global databases 
+  - Decouple size and perf 
+  - Use any standard  MongoDB drivers 
  - [PowerBI Embedded](https://powerbi.microsoft.com/en-us/blog/embed-the-wow-of-power-bi-in-your-applications-with-microsoft-power-bi-embedded/)
- - Integrate PowerBI in your applications 
- - Public preview starts today 
- - Free until May 1st 
+  - Integrate PowerBI in your applications 
+  - Public preview starts today 
+  - Free until May 1st 
  - [Parse server available](https://azure.microsoft.com/en-us/blog/announcing-the-publication-of-parse-server-with-azure-managed-services/)
  - DV2 instance sizes
- - [20 cores, 140GB RAM, 1TB SSD, 8 NICs, 40 disks](https://azure.microsoft.com/en-us/updates/announcing-new-dv2-series-virtual-machine-size/)
+  - [20 cores, 140GB RAM, 1TB SSD, 8 NICs, 40 disks](https://azure.microsoft.com/en-us/updates/announcing-new-dv2-series-virtual-machine-size/)
  - [Azure Batch for Linux Preview](https://azure.microsoft.com/en-us/blog/announcing-support-of-linux-vm-on-azure-batch-service/)
  - [Storage encryption preview](https://azure.microsoft.com/en-us/blog/build-2016-azure-storage-announcements/)
  - [Storage roadmap announcements](https://azure.microsoft.com/en-us/blog/build-2016-azure-storage-announcements/)
  - [Azure SDK 2.9](https://azure.microsoft.com/en-us/blog/announcing-visual-studio-azure-tools-and-sdk-2-9/)
  - [ARM Template debugging](https://azure.microsoft.com/en-us/blog/debugging-arm-template-deployments/)
- - [Office 365](http://dev.office.com/blogs/build2016release)
+ 
+### [Office 365](http://dev.office.com/blogs/build2016release)
+ 
  - Latest tools available today
  - Ribbon extensibility
  - GA Office 365 group connectors
