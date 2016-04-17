@@ -6,6 +6,7 @@ guestImage: donovan-brown.jpg
 date: 2016-04-15
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_00101.mp3
 ---
+
 ### News
 
  - [Cleartext text editor](https://github.com/mortenjust/cleartext-mac/blob/master/README.md)
