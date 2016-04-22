@@ -33,9 +33,9 @@ Chris Anderson, is a Program Manager on the Azure App Service team working on Az
 
 ------------------------------ 
 
- - [https://azure.microsoft.com/en-us/services/functions/](https://azure.microsoft.com/en-us/services/functions/)
- - [https://azure.microsoft.com/en-us/documentation/services/functions/](https://azure.microsoft.com/en-us/documentation/services/functions/)   
- - [https://serverlesscode.com/](https://serverlesscode.com/)
+ - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+ - [More Azure Functions Documentation](https://azure.microsoft.com/en-us/documentation/services/functions/)   
+ - [serverlesscode.com](https://serverlesscode.com/)
 
 ### Dev Tip of the Week
  - [Learn the Shortcut - VS Extension](https://visualstudiogallery.msdn.microsoft.com/29f07f2c-68aa-47fa-b1c3-48065209b110)
