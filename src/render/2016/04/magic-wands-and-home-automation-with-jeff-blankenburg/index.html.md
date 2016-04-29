@@ -5,7 +5,6 @@ guest: Jeff Blankenburg
 guestImage: jeff-blankenburg.jpg
 date: 2016-04-30
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0103.mp3
-ignored: true
 ---
 
 ### News
