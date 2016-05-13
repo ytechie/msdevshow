@@ -5,7 +5,6 @@ guest: Paul Betts
 guestImage: paul-betts.jpg
 date: 2016-05-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0105.mp3
-ignored: true
 ---
 
 ### News
