@@ -30,8 +30,7 @@ Matt Hidinger is a Program Manager on the Windows Notifications team
 ----------------------------------------- 
  
  - [Ch9](https://channel9.msdn.com/Events/Speakers/matt-hidinger)
- - [Notification Futures: Action Center in the Cloud and the Windows Notification
-    Platform](https://channel9.msdn.com/Events/Build/2016/B871)
+ - [Notification Futures: Action Center in the Cloud and the Windows Notification Platform](https://channel9.msdn.com/Events/Build/2016/B871)
  - [What’s New for Tiles and Toast Notifications](https://channel9.msdn.com/Events/Build/2016/B803)
  - [Notification Extensions](https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/08/20/introducing-notificationsextensions-for-windows-10/)
 
