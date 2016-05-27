@@ -34,3 +34,7 @@ Matt Hidinger is a Program Manager on the Windows Notifications team
     Platform](https://channel9.msdn.com/Events/Build/2016/B871)
  - [What’s New for Tiles and Toast Notifications](https://channel9.msdn.com/Events/Build/2016/B803)
  - [Notification Extensions](https://blogs.msdn.microsoft.com/tiles_and_toasts/2015/08/20/introducing-notificationsextensions-for-windows-10/)
+
+### Something of the Week
+
+Darn it! ....Ummm... It's Jason's fault... since he's moving. Yeah! Carl wasn't lazy/busy at all!
