@@ -13,7 +13,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0107.mp3
  - [Goodbye project.json](http://xoofx.com/blog/2016/05/11/goodbye-project-json/)
  - [Introducing unlimited private repositories](https://github.com/blog/2164-introducing-unlimited-private-repositories)
  - [Nest opens the networking code for its smart home devices](http://www.engadget.com/2016/05/11/nest-openthread/)
-  - [Kwickset Kevo](http://www.kwikset.com/kevo/default.aspx#.Vz9HZpErKUk)
+  - [Kwikset Kevo](http://www.kwikset.com/kevo/default.aspx#.Vz9HZpErKUk)
   - ![Drill](drill.jpg)
  - [StackOverKill Language Ranking](http://www.stackoverkill.com/ranking/)
  - [10 great ways to impress a software engineer on their first day](http://www.sleepeasysoftware.com/10-great-ways-to-impress-a-software-engineer-on-their-first-day/)
