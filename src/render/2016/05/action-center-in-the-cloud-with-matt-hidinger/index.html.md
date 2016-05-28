@@ -5,7 +5,6 @@ guest: Matt Hidinger
 guestImage: matt-hidinger.jpg
 date: 2016-05-28
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0107.mp3
-ignored: true
 ---
 
 ### News
