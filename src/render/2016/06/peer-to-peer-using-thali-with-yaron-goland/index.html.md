@@ -5,7 +5,6 @@ guest: Yaron Goland
 guestImage: yaron-goland.jpg
 date: 2016-06-12
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0109.mp3
-ignored: true
 ---
 
 ### News
