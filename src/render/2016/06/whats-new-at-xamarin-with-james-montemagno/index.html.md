@@ -27,7 +27,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0110.mp3
 James Montemagno is a Developer Evangelist at Xamarin and newly minted Microsoft employee. He has been a .NET developer for over a decade working in a wide range of industries and before joining Xamarin was a professional mobile developer on the Xamarin platform for over 4 years.
 
  - [@JamesMontemagno](http://twitter.com/JamesMontemagno)
- - [http://motzcod.es](http://motzcod.es)
+ - [motzcod.es](http://motzcod.es)
  - [GitHub](https://github.com/jamesmontemagno)
  
 ------------------------------------------
