@@ -20,6 +20,9 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0111.mp3
 Josh Caplan Sr is a Program Manager on the Power BI team focusing on developer experience.
 
  - [@joshcaplan1984](https://twitter.com/joshcaplan1984)
+
+---------------------------------
+
  - [Power BI](https://powerbi.microsoft.com/en-us/)
  - [Data sources in Power BI Desktop](https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-data-sources/)
  - [User Voice](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/6802457-uservoice)
@@ -29,7 +32,7 @@ Josh Caplan Sr is a Program Manager on the Power BI team focusing on developer e
  - [Power BI custom visuals](https://app.powerbi.com/visuals/)
  - [Power BI Publish to Web](https://sqldusty.com/2016/02/05/power-bi-publish-to-web-for-anonymous-access-is-here/)
 
-###Azure pick of the week
+### Azure pick of the week
 
  - [AzureIotSuite.com](https://www.azureiotsuite.com/)
 
