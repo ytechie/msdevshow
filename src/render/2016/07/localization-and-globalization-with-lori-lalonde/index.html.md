@@ -45,3 +45,4 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0114.mp3
  - [ResX Manager](https://visualstudiogallery.msdn.microsoft.com/3b64e04c-e8de-4b97-8358-06c73a97cc68)
  - [Multilingual app toolkit](https://developer.microsoft.com/en-us/windows/develop/multilingual-app-toolkit)
  - [What's Wrong With Turkey?](https://blog.codinghorror.com/whats-wrong-with-turkey/)
+ - [Cross Platform Localization Strategies](http://www.slideshare.net/LoriLalonde/cross-platform-localization-strategies-56225783)
