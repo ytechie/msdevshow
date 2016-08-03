@@ -53,7 +53,7 @@ guestImage: rob-reynolds.jpg
   - [OneGet is a package management aggregator](https://github.com/OneGet/oneget/issues/77)
 
 
- #App of the Week
+### App of the Week
 
  -   [ScreenToGif](https://screentogif.codeplex.com/)
   - `choco install screentogif`
