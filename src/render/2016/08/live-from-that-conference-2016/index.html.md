@@ -19,8 +19,8 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0117.mp3
 
  Jes talked to us about Extended Events, and how you should be using them instead of SQL Profiler
 
-  - [@grrl_geek](https://twitter.com/grrl_geek)
-  - [Blog](http://blogs.lessthandot.com/index.php/author/grrlgeek/)
+ - [@grrl_geek](https://twitter.com/grrl_geek)
+ - [Blog](http://blogs.lessthandot.com/index.php/author/grrlgeek/)
   
 ### Raj Krishnan
 
@@ -37,8 +37,8 @@ Lisa is a Microsoft Community Manager and Central Region MVP Lead. We discuss wh
 
  Keith gave the Day 3 Keynote at ThatConference. So of course, we talk to him about it on Day 2! We discuss why we should all be writing less code and the latest in those trying to get our personal information for malicious reasons.
 
-  - [@caseysoftware](https://twitter.com/caseysoftware)
-  - [caseysoftware.com](http://caseysoftware.com/)
+ - [@caseysoftware](https://twitter.com/caseysoftware)
+ - [caseysoftware.com](http://caseysoftware.com/)
 
 ### John Ptacek
 
