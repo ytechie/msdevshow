@@ -16,7 +16,7 @@ Angela is a Microsoft MVP in ALM and gave an amazing talk on SAFe. We talked abo
 
 ### Jerry Nixon
 
-Once again we talk to Jerry Nixon, this time about Inclusive Design. And jerry gets sidetracked handing out swag to people passing by.
+Once again we talk to Jerry Nixon, this time about Inclusive Design. And Jerry gets sidetracked handing out swag to people passing by.
 
  - [@jerrynixon](https://twitter.com/jerrynixon)
  - [blog.jerrynixon.com](http://blog.jerrynixon.com/)
