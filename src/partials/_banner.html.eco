@@ -19,7 +19,7 @@ cacheable: false
                 <aside>
                     <div class="post-date"><%=  @moment(@document.date).format('MMM Do, YYYY') %></div>
                 </aside>
-                <%- @partial('_podcast-player', { audioUrl: @document.audioUrl }) %>
+                <%- @partial('_podcast-player', { audioUrl: @document.audioUrl, ch9Url: @document.ch9Url }) %>
             <% end %>
         </div>
     </section>
