@@ -47,12 +47,21 @@
                     width: 95%;
                 }
             }
+            .audio-stream{
+                @include button(simple, $base-button-background-color);
+                float: right;
+                @include media($mobile) {
+                    display: none;
+                }
+                margin-left: 4px;
+            }
             .audio-download {
                 @include button(simple, $alternative-button-background-color);
                 float: right;
                 @include media($mobile) {
                     display: none;
                 }
+                margin-left: 4px;
             }
             @include media($mobile) {
                 @include span-columns(1);
