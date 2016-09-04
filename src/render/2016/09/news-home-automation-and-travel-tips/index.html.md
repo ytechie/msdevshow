@@ -36,7 +36,7 @@ ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-120-News-Home-Automati
 
  - [Findtime](findtime.microsoft.com)
  
-### Dev Tip of the Week
+### Dev Tips of the Week
 
  - [Using Feature Queries in CSS](https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/)
  - [Console Ouptut: My New Debugging and Testing tool for Windows](https://blogs.msdn.microsoft.com/synergist/2016/08/20/console-ouptut-my-new-debugging-and-testing-tool-for-windows/)
