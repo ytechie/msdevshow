@@ -18,5 +18,5 @@ cacheable: false
 
 <a href="<%= @audioUrl %>" class="audio-download" download="download">Download MP3</a>
 <% if @ch9Url: %>
-<a href="<%= @audioUrl %>" class="audio-stream">Stream MP3</a>
+    <a href="<%= @audioUrl %>" class="audio-stream">Stream MP3</a>
 <% end %>
