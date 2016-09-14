@@ -5,6 +5,7 @@ guest: Bill Bain
 guestImage: bill-bain.jpg
 date: 2016-09-10
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0121.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/In-Memory-Computing-with-Bill-Bain
 ---
 
 ### News
