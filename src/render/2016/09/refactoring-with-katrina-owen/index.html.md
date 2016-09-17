@@ -17,6 +17,12 @@ ignored: true
  - [Switching Costs in Software Development](http://blog.professorbeekums.com/2016/09/switching-costs-in-software-development.html)
  - [ASUS ZenScreen MB16AC portable monitor- 15.6" FHD (1920x1080), USB Type-C, IPS](https://www.asus.com/Monitors/MB16AC/)
 
+---------------------------------------------
+
+ - [WASD Keyboards Mechanical Switch sampler kit](http://www.wasdkeyboards.com/index.php/products/sampler-kit/wasd-6-key-cherry-mx-switch-tester.html)
+ - [Carl's new Keyboard - Corsair K65](http://www.corsair.com/en-us/k65-lux-rgb-compact-mechanical-gaming-keyboard-cherry-mx-red-na)
+  - [Amazon](https://www.amazon.com/Corsair-K65-RGB-Keyboard-Cherry/dp/B00P7Y4618)
+
 ### Katrina Owen
 
 Katrina Owen - Ruby and Go developer, amazing speaker, GitHubber, molecular biologist, and therapeutic refactorer.
