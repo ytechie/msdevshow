@@ -5,6 +5,7 @@ guest: Katrina Owen
 guestImage: katrina-owen.jpg
 date: 2016-09-17
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0122.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-122-Refactoring-with-Katrina-Owen
 ---
 
 ### News
