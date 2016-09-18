@@ -22,6 +22,8 @@ ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-122-Refactoring-with-K
  - [WASD Keyboards Mechanical Switch sampler kit](http://www.wasdkeyboards.com/index.php/products/sampler-kit/wasd-6-key-cherry-mx-switch-tester.html)
  - [Carl's new Keyboard - Corsair K65](http://www.corsair.com/en-us/k65-lux-rgb-compact-mechanical-gaming-keyboard-cherry-mx-red-na)
   - [Amazon](https://www.amazon.com/Corsair-K65-RGB-Keyboard-Cherry/dp/B00P7Y4618)
+  - [O-Ring Switch Dampers](http://www.wasdkeyboards.com/index.php/products/keyboard-accessories/cherry-mx-rubber-o-ring-switch-dampeners-125pcs.html)
+    - Carl got the red ones
 
 ### Katrina Owen
 
