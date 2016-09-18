@@ -4,7 +4,11 @@ cacheable: false
 <div id="site-banner-container">
     <section id="site-banner" class="banner<% if @document.guestImage: %> guest<% end %>">
         <% if @document.guestImage: %> 
-        <div class="banner-media">
+        <% if @document.ch9Url: %>
+            <div class="banner-media">
+        <% else: %>
+            <div class="banner-media banner-media-with-video">
+        <% end %>
             <a href="<%= @document.url %>"><img src="<%= @document.url + @document.guestImage %>" alt="Latest Guest" title="<%= @document.title %>" /></a>
         </div>
         <% end %>

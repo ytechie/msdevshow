@@ -28,6 +28,9 @@
                 @include span-columns(1);
             }
         }
+        .banner-media-with-video{
+            margin-top: 200px;
+        }
         .banner-copy {
             @include span-columns(12);
             padding-top: 1.5em;
