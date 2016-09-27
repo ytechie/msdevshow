@@ -13,6 +13,7 @@
 		<meta property="og:description" content="The MS Dev Show is THE podcast for Microsoft developers covering news and topics such as Azure (cloud), Windows, and cross-platform development using MS tools" />
 		<meta property="og:image" content="http://msdevshow.com/images/logo-pixel-large.png">
 		<meta http-equiv="content-language" content="en-us">
+        <meta name="506936f9a549430ad4e293373e10900366a0ce09" content="e05c300cefd81e2c7fdc00e72aebd55b64cacaaa" />
         <meta name="application-name" content="MS Dev Show"/>
         <meta name="twitter:site" content="@msdevshow" />
 		<meta name="twitter:card" content="summary" />
