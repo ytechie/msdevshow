@@ -16,6 +16,8 @@ Yes! We're throwing a huge shindig at [Boardwalk in the Microsoft Commons](https
 
 There is ***no need to RSVP***, we're not making you sign up or anything else. There is no charge to enter. We want you to be there, and we want to make this as easy on you as possible. 
 
+You will not go hungry or thirsty, the staff is prepared to feed a horde! ***We're not*** buying drinks, but we're also not making a dime off of this event. So bring your monetary units of choice, convert them to US dollars, and enjoy dinner and beverages with us.
+
 #### WHEN?
 
 Be there between 6 and 10pm on Saturday Nov 5th.
