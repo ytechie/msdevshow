@@ -8,7 +8,7 @@ enablePageComments: false
 
 #### WHO?
 
-You! MVPs! Microsoft Employees! Tech Enthusiasts! And anyone else you feel like inviting. We will be recording an episode of the [MS Dev Show](http:// msdevshow.com) with [James Whittacker](https://news.microsoft.com/stories/people/james-whittaker.html). We've even confirmed that [Dona Sarkar](https://news.microsoft.com/stories/people/dona-sarkar.html) will be there representing all of the Windows Insiders. There are a ton more cool people that have been invited too, so show up, who knows who you'll bump in to!
+You! MVPs! Microsoft Employees! Tech Enthusiasts! And anyone else you feel like inviting. We will be recording an episode of the [MS Dev Show](http:// msdevshow.com) with [James Whittacker](https://news.microsoft.com/stories/people/james-whittaker.html). We've even confirmed that [Dona Sarkar](https://news.microsoft.com/stories/people/dona-sarkar.html) will be there representing all of the Windows Insiders. There are a ton more cool people that have been invited too, so show up. Who knows who you'll bump in to!
 
 #### WHAT?
 
