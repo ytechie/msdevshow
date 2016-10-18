@@ -24,7 +24,7 @@ Be there between 6 and 10pm on Saturday Nov 5th.
 
 #### WHERE?
 
-We will be meeting at the [Boardwalk Restaurant in the Microsoft Commons](https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.6444963,-122.1389577,17z/data=!4m8!1m2!2m1!1s%09+boardwalk+15251+NE+40th+St,+%23B98+Redmond,+Washington+98052!3m4!1s0x0:0x27c3343b0b6b0f42!8m2!3d47.6445161!4d-122.1368122). They have plenty of room for tons of people, so share the word!
+We will be meeting at the [Boardwalk Restaurant in the Microsoft Commons](https://www.google.com/maps/place/Boardwalk+by+Maria+Hines/@47.6440536,-122.1381852,20z/data=!4m12!1m6!3m5!1s0x0:0x27c3343b0b6b0f42!2sMicrosoft+-+The+Commons!8m2!3d47.6445161!4d-122.1368122!3m4!1s0x0:0x8715af0123d18289!8m2!3d47.644096!4d-122.1378361). They have plenty of room for tons of people, so share the word!
 
 #### WHY?
 
