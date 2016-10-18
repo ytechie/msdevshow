@@ -36,4 +36,5 @@ Why not? We'll be there anyways, and want to meet you, our listeners! So bring y
 
 These kind of events are fun, but to have a *LOT* of fun, we need sponsors. Please thank folks from the kind companies below.
 
-*[Concurrency](http://www.concurrency.com/)* - Concurrency is an award-winning IT consulting agency that envisions, architects, and integrates across all Microsoft enterprise platforms to bring business value to our customers. Clients choose us for our team approach, top talent, and business value. [Join](http://www.concurrency.com/why-concurrency/careers) our team!
+*[Concurrency](http://www.concurrency.com/)* - is a professional services firm helping organizations throughout the Midwest realize Digital Transformation to achieve business results. 
+Concurrency is a multiple-time Microsoft Partner of the Year winner and has been named to both Redmond Channel Partner’s list of “Microsoft’s Top 200 U.S. Partners” and CRN’s “2016 CRN Solution Provider 500” list.  Clients choose us for our team approach, top talent, and business value. [Join](http://www.concurrency.com/why-concurrency/careers) our team!
