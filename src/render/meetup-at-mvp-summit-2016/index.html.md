@@ -34,4 +34,4 @@ Why not? We'll be there anyways, and want to meet you, our listeners! So bring y
 
 These kind of events are fun, but to have a *LOT* of fun, we need sponsors. Please thank folks from the kind companies below.
 
-*[Concurrency](http://www.concurrency.com/)* - Concurrency is an award-winning IT consulting agency that envisions, architects, and integrates across all Microsoft enterprise platforms to bring business value to our customers. Clients choose us for our team approach, top talent, and business value. [Join](http://www.concurrency.com/why-concurrency/careers) out team!
+*[Concurrency](http://www.concurrency.com/)* - Concurrency is an award-winning IT consulting agency that envisions, architects, and integrates across all Microsoft enterprise platforms to bring business value to our customers. Clients choose us for our team approach, top talent, and business value. [Join](http://www.concurrency.com/why-concurrency/careers) our team!
