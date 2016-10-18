@@ -12,7 +12,7 @@ You! MVPs! Microsoft Employees! Tech Enthusiasts! And anyone else you feel like 
 
 ### WHAT?
 
-Yes! We're throwing a huge shindig at [Boardwalk in the Microsoft Commons](https://www.google.com/maps/place/Boardwalk+by+Maria+Hines/@47.6440536,-122.1381852,20z/data=!4m12!1m6!3m5!1s0x0:0x27c3343b0b6b0f42!2sMicrosoft+-+The+Commons!8m2!3d47.6445161!4d-122.1368122!3m4!1s0x0:0x8715af0123d18289!8m2!3d47.644096!4d-122.1378361). We love mingling with our guests and can't wait to meet you. Oh yeah, there will be a band too.
+Yes! We're throwing a huge shindig at [Boardwalk in the Microsoft Commons](https://www.google.com/maps/place/Boardwalk+by+Maria+Hines/@47.6440536,-122.1381852,20z/data=!4m12!1m6!3m5!1s0x0:0x27c3343b0b6b0f42!2sMicrosoft+-+The+Commons!8m2!3d47.6445161!4d-122.1368122!3m4!1s0x0:0x8715af0123d18289!8m2!3d47.644096!4d-122.1378361). We love mingling with our listeners and can't wait to meet you. Oh yeah, there will be a band too.
 
 ### WHEN?
 
