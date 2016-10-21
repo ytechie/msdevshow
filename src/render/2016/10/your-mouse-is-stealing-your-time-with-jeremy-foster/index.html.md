@@ -7,6 +7,8 @@ date: 2016-10-21
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0125.mp3
 ---
 
+Join us for the [MS Dev Show Meetup at the MVP Summit](http://msdevshow.com/meetup-at-mvp-summit-2016/)!
+
 ### News
 
  - [Windows 10 will soon run Edge in a virtual machine to keep you safe](http://arstechnica.com/information-technology/2016/09/windows-10-will-soon-run-edge-in-a-virtual-machine-to-keep-you-safe/)
