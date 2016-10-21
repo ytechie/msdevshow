@@ -5,7 +5,6 @@ guest: Jeremy Foster
 guestImage: jeremy-foster.jpg
 date: 2016-10-21
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0125.mp3
-ignored: true
 ---
 
 ### News
