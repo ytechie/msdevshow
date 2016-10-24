@@ -11,5 +11,5 @@ $smallGutter: $gutter / 2;
 $desktop: new-breakpoint(min-width 1025px);
 $non-desktop: new-breakpoint(max-width 1024px);
 $tablet: new-breakpoint(min-width 569px max-width 1024px);
-$mobile: new-breakpoint(min-width 320px max-width 568px 1);
+$mobile: new-breakpoint(min-width 320px max-width 568px);
 $non-mobile: new-breakpoint(min-width 569px);
