@@ -32,6 +32,14 @@ Why not? We'll be there anyways, and want to meet you, our listeners! So bring y
 
 -----------------------------
 
+#### Live Music!
+
+Get ready for _**Hush**_!
+
+Logan & Shea, both 19, met at the Roberts Music Institute in Bellevue, WA. While fronting separate bands, they discovered their mutual admiration for Led Zeppelin & began playing guitar/mandolin duets as an opening act for their respective bands. Going to California and That’s the Way are still part of their set. This led to a collaboration that will take you through the years from the 60s and 70s with bands like the Doors, Pink Floyd and the Rolling Stones through the Nirvana years all the way to the present w/ covers of Cage The Elephant, The Black Keys & Jack White. Prepare to see two young guitar players who will mesmerize you with their string work and blow you away with their vocal harmonies.
+
+-----------------------------
+
 ##### Sponsors
 
 These kind of events are fun, but to have a *LOT* of fun, we need sponsors. Please thank folks from the kind companies below.
