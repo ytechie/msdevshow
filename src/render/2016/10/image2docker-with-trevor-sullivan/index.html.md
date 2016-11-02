@@ -5,6 +5,7 @@ guest: Trevor Sullivan
 guestImage: trevor-sullivan.jpg
 date: 2016-10-25
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0126.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-126-Image2Docker-with-Trevor-Sullivan
 ---
 
 Join us for the [MS Dev Show Meetup at the MVPSummit](http://msdevshow.com/meetup-at-mvp-summit-2016/)!

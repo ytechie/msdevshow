@@ -5,6 +5,7 @@ guest: Jeremy Foster
 guestImage: jeremy-foster.jpg
 date: 2016-10-21
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0125.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-125-Your-Mouse-Is-Stealing-Your-Time-with-Jeremy-Foster
 ---
 
 Join us for the [MS Dev Show Meetup at the MVP Summit](http://msdevshow.com/meetup-at-mvp-summit-2016/)!
