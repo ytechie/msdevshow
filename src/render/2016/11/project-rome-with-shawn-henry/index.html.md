@@ -5,7 +5,6 @@ guest: Shawn Henry
 guestImage: shawn-henry.jpg
 date: 2016-11-8
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0128.mp3
-ignored: true
 ---
 
 ### News
