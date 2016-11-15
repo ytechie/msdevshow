@@ -5,6 +5,7 @@ guest: James Whittaker and Dona Sarkar
 guestImage: james-and-dona.jpg
 date: 2016-11-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0129.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-129-Data--the-Augmented-Self-with-James-Whittaker--Dona-Sarkar
 ---
 
 A very special live episode of the MS Dev Show with James Whittaker and Dona Sarkar, talking about data and more. I do want to warn you, there is some swearing in this episode, so please be conscious of that. Special thanks to [Laura Butler](https://news.microsoft.com/stories/people/laura-butler.html) for bringing her amazing cookies. Also special thanks to [Concurrency](http://concurrency.com) for helping sponsor the event.
