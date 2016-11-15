@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data & the Future
+title: Data & the Augmented Self
 guest: James Whittaker and Dona Sarkar
 guestImage: james-and-dona.jpg
 date: 2016-11-14
