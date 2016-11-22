@@ -50,4 +50,4 @@ Sarah is a Technical Evangelist working for Microsoft. She engages with user gro
  - [Disable screen flipping Key Combo](http://superuser.com/questions/592684/disable-screen-orientation-hot-keys-in-windows-8-ctrl-alt-arrow)
    - Use MultiLine key combo in VS Code (ctrl+alt+\[up|down\])
  - [35000mAh 5-Ports Portable Charger External Battery Charge](https://www.amazon.com/Lizone%C2%AE-35000mAh-Portable-External-Microsoft/dp/B015VDLWTI)
- - [Forcing a System Crash from the Keyboard](https://msdn.microsoft.com/en-us/library/windows/hardware/ff545499(v=vs.85).aspx)
+ - [Forcing a System Crash from the Keyboard](https://msdn.microsoft.com/en-us/library/windows/hardware/ff545499.aspx)
