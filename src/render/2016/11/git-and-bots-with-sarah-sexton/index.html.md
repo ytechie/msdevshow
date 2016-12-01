@@ -30,7 +30,7 @@ Sarah is a Technical Evangelist working for Microsoft. She engages with user gro
 
 ----------------------------------------------------
  - [How to Git It](http://jlord.us/git-it/)
- - [Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+ - [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
  - [Whoops! I'm in trouble!](http://ohshitgit.com/)
  - [Microsoft Bot Framework](https://dev.botframework.com/)
 
