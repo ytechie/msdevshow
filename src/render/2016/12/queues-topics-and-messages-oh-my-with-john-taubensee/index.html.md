@@ -10,7 +10,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0131.mp3
 ### News
 
  - [Nike's self-lacing shoes can be yours for just $720](http://usat.ly/2fTWO7f)
-   - [With \$720 Self-Tying Sneaker, Nike Loosens Ties to Retailers](http://www.wsj.com/articles/nike-trots-out-exclusives-to-sell-more-direct-1480597202)
+   - [With $720 Self-Tying Sneaker, Nike Loosens Ties to Retailers](http://www.wsj.com/articles/nike-trots-out-exclusives-to-sell-more-direct-1480597202)
    - Buy through Nike + App and NYC Store 
  - [A 4-bit Calculator made in cardboard and marble](https://lapinozz.github.io/learning/2016/11/19/calculator-with-caordboard-and-marbles.html)
    - [Marble adding machine](https://www.youtube.com/watch?v=GcDshWmhF4A)
