@@ -59,7 +59,7 @@ John Taubensee is a Microsoft Program Manager on the Hyper-scale Compute team. H
  - [Single Page source of all Azure Services](http://azureplatform.azurewebsites.net/en-us/)
    - Thanks [Kenny Young](https://twitter.com/KennyYoungTech/status/798983352569184256)
 
-### Dev Tip of the Week
+### Dev Tips of the Week
 
  - [Fix a slow to open Downloads Folder in Windows.](http://www.intowindows.com/fix-downloads-folder-opens-slowly-in-windows-10)
  - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer)
