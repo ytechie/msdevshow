@@ -5,7 +5,6 @@ guest: James Clarke
 guestImage: james-clarke.jpg
 date: 2016-12-13
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0132.mp3
-ignored: true
 ---
 
 ### News
