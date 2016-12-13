@@ -5,6 +5,7 @@ guest: John Taubensee
 guestImage: john-taubensee.jpg
 date: 2016-12-4
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0131.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-131-Event-Hubs-Service-Bus--More-with-John-Taubensee
 ---
 
 ### News
