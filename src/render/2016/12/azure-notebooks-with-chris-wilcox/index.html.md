@@ -37,7 +37,7 @@ This week we have Chris Wilcox. He is a developer on Azure Notebooks. His team a
 
 -----------------------------------------------------
  
--   ![Glass Ninja Cat](ninjacat.jpg){width="480" height="360"}
+-   ![Glass Ninja Cat](ninjacat.jpg)
 
 ### Dev Tip of the Week
 
