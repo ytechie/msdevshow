@@ -13,7 +13,7 @@ cacheable: true
     </nav>
     <nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsor</h2>
-			<a href="http://msdv.sh/2hLrs57" title="Aspose">
+			<a href="http://www.aspose.com/" title="Aspose">
 				<img src="/images/sidebar-ad.jpg" title="Aspose" />
 			</a>
     </nav>
