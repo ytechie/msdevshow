@@ -20,7 +20,7 @@ Nick is a Software Developer and Systems Administrator for Stack Exchange. In ad
 
  - [nickcraver.com](https://nickcraver.com)
  - [@Nick\_Craver](https://twitter.com/Nick_Craver)
- - [StrackOverflow](http://stackoverflow.com/users/13249/nick-craver)
+ - [StackOverflow](http://stackoverflow.com/users/13249/nick-craver)
  - [GitHub](https://github.com/NickCraver)
  - [Nick's Blog RSS](https://nickcraver.com/blog/feed.xml)
 
