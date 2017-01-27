@@ -19,7 +19,7 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0137.mp3
  
 ### Oren Novotny
 
-Oren is a Microsoft and Xamarin MVP and a Principal Architect at the consulting company, Blue Metal. He has many years experience in creating .Net applications and adviceses many internal Microsoft teams on developer experiences.
+Oren is a Microsoft and Xamarin MVP and a Principal Architect at the consulting company, Blue Metal. He has many years experience in creating .Net applications and advises many internal Microsoft teams on developer experiences.
 
  - [@onovotny](https://twitter.com/onovotny)
  - [oren.codes](https://oren.codes/)
