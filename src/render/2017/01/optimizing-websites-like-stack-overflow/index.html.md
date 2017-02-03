@@ -5,6 +5,7 @@ guest: Nick Craver
 guestImage: nick-craver.jpg
 date: 2017-01-09
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0136.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-136-Running-Websites-at-Scale-with-Nick-Craver
 ---
 
 ### News

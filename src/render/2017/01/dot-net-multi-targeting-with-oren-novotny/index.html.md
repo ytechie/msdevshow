@@ -5,6 +5,7 @@ guest: Oren Novotny
 guestImage: oren-novotny.jpg
 date: 2017-01-27
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0137.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-137-NET-Multi-targeting-with-Oren-Novotny
 --- 
 
 ### News
