@@ -5,6 +5,7 @@ guest: Giorgio Sardo
 guestImage: giorgio-sardo.jpg
 date: 2017-02-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0139.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Windows-Developer-Day-Recap-with-Giorgio-Sardo
 --- 
 
 ### Giorgio Sardo

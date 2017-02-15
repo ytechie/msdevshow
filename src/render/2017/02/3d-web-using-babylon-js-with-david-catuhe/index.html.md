@@ -5,6 +5,7 @@ guest: David Catuhe
 guestImage: david-catuhe.jpg
 date: 2017-02-04
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0138.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-138-3D-Web-Using-Babylon-JS-with-David-Catuhe
 --- 
 
 ### News
