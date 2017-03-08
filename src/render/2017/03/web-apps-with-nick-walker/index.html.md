@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Web Apps
+title: Azure App Service Killer Features
 guest: Nick Walker
 guestImage: nick-walker.jpg
 date: 2017-03-09
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0141.mp3
-ignored: true
 ---
 
 ### News
@@ -22,7 +21,7 @@ ignored: true
 
  - [@nickwalkmsft](https://twitter.com/nickwalkmsft)
  - [TechNet](https://social.technet.microsoft.com/profile/nick%20walker/)
- - [GitHUb](https://github.com/nickwalkmsft)
+ - [GitHub](https://github.com/nickwalkmsft)
 
 ----------------------------------------------------
 
@@ -40,7 +39,7 @@ ignored: true
  - [Announcing Azure App Service MySQL in-app (preview)](https://azure.microsoft.com/en-us/blog/mysql-in-app-preview-app-service/)
  - [SSH for Azure App Services for Linux](https://feedback.azure.com/forums/169385-web-apps-formerly-websites/suggestions/17473870-ssh-for-azure-app-services-for-linux)
 
-### Azure pick of the week
+### Azure Pick of the Week
 
  - [Azure Stack TP3 Delivers Hybrid Application Innovation and Introduces Pay-as-you-Use Pricing Model](https://azure.microsoft.com/en-us/blog/hybrid-application-innovation-with-azure-and-azure-stack/)
 
