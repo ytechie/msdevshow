@@ -5,6 +5,7 @@ guest: Bill Berry
 guestImage: bill-berry.jpg
 date: 2017-02-28
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0140.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-140-Broadway-Tech--IoT-with-Bill-Berry
 --- 
 
 ### News

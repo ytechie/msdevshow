@@ -5,6 +5,7 @@ guest: Nick Walker
 guestImage: nick-walker.jpg
 date: 2017-03-09
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0141.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-141-Azure-App-Service-Killer-Features-with-Nick-Walker
 ---
 
 ### News
