@@ -5,7 +5,6 @@ guest: Amanda Silver
 guestImage: amanda-silver.jpg
 date: 2017-03-19
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0143.mp3
-ignored: true
 --- 
 
 ### News
