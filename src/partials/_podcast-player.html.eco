@@ -5,7 +5,7 @@ cacheable: false
 <% if @ch9Url: %>
     <p>
         <iframe src="<%= @ch9Url %>/player"
-            width="640" height="360" allowFullScreen frameBorder="0">
+            width="640" height="360" allowFullScreen frameBorder="0" class="ch9Player">
         </iframe> 
     </p>
 <% else: %>
