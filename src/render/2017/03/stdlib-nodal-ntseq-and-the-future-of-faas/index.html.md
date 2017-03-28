@@ -5,7 +5,6 @@ guest: Keith Horwood
 guestImage: keith-horwood.jpg
 date: 2017-03-28
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0144.mp3
-ignored: true
 --- 
 
 ### News
