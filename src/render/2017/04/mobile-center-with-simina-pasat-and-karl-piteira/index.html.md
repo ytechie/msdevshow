@@ -5,7 +5,6 @@ guest: Simina Pasat and Karl Piteira
 guestImage: simina-and-karl.jpg
 date: 2017-04-11
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0146.mp3
-ignored: true
 --- 
  
 ### News
