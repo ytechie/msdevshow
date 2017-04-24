@@ -18,8 +18,11 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0147.mp3
 
 ### Jason R. Shaver
 
+Jason R. Shaver is the program manager for the Azure Command-Line tools. He joined Microsoft in 2011 after falling in love with using XAML for Line-of-Business apps, but now he's walking in with a MacBook looking to help get folks started in the cloud, regardless of their computer brand.  
+
  - [LinkedIn](https://www.linkedin.com/in/jason-r-shaver-5b9a753/)
  - [GitHub](https://github.com/JasonRShaver)
+ - [@AzureCli](https://twitter.com/azurecli)
 
 -----------------------------------------------
 
