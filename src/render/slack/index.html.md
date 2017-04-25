@@ -27,5 +27,5 @@ Signup for our super-mega-awesome Slack at [slack.msdevshow.com](http://slack.ms
 ### Enforcement
 
  - Understand that speech and actions have consequences, and unacceptable behavior will not be tolerated.
- - If you are the subject of, or witness to any violations of this Code of Conduct, please contact Carl or Jason in Slack, on twitter or email [feedback@msdevshow.com](mailto:feedback@msdevshow.com).
+ - If you are the subject of, or witness to any violations of this Code of Conduct, please contact Carl or Jason in Slack, on Twitter, or email [feedback@msdevshow.com](mailto:feedback@msdevshow.com).
  - If violations occur, we will take any action they deem appropriate for the infraction, up to and including expulsion.
