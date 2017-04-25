@@ -4,7 +4,8 @@ title: Slack Code of Conduct
 enablePageComments: false 
 ---
 
-We would prefer not to have this, everyone should try to get along. 
+Signup for our super-mega-awesome Slack at [slack.msdevshow.com](http://slack.msdevshow.com/)
+
 
 ### Expected Behavior
 
@@ -13,6 +14,7 @@ We would prefer not to have this, everyone should try to get along.
  - Be considerate. 
  - Be respectful. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. 
 
+
 ### Not Tolerated
 
  - Violent threats or language directed against another person.
@@ -20,6 +22,7 @@ We would prefer not to have this, everyone should try to get along.
  - Posting inappropriate material or using inappropriate language.
  - Personal insults.
  - Unwelcome sexual attention.
+
 
 ### Enforcement
 
