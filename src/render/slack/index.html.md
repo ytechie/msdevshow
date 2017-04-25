@@ -14,6 +14,7 @@ Signup for our super-mega-awesome Slack at [slack.msdevshow.com](http://slack.ms
  - Be considerate. 
  - Be respectful. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. 
 
+---------------------------------------
 
 ### Not Tolerated
 
@@ -23,6 +24,7 @@ Signup for our super-mega-awesome Slack at [slack.msdevshow.com](http://slack.ms
  - Personal insults.
  - Unwelcome sexual attention.
 
+---------------------------------------
 
 ### Enforcement
 
