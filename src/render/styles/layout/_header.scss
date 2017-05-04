@@ -37,6 +37,8 @@
                 @include span-columns(1);
                 @include shift(0);
                 @include omega();
+                float: none;
+                width: unset;
             }
         }
     }

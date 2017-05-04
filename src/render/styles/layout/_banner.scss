@@ -26,6 +26,9 @@
             }
             @include media($mobile) {
                 @include span-columns(1);
+                // Override for mobile.
+                float: none;
+                width: unset;
             }
         }
         .banner-media-with-video{
@@ -68,6 +71,9 @@
             }
             @include media($mobile) {
                 @include span-columns(1);
+                // Override for mobile.
+                float: none;
+                width: unset;
             }
         }
 
@@ -77,6 +83,9 @@
 
                 @include media($mobile) {
                     @include span-columns(1);
+                    // Override for mobile.
+                    float: none;
+                    width: unset;
                 }
             }
             iframe.ch9Player{
