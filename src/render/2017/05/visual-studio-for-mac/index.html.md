@@ -13,7 +13,7 @@ This episode continues our special Build 2017 series.
 
 Joe is one of the Xamarin co-founders and is a Pricipal Director Project Manager for Xamarin and Visual Studio for Mac
 
- - [@joesephhill](https://twitter.com/josephhill)
+ - [@josephhill](https://twitter.com/josephhill)
  - [beyondfocus.com](http://www.beyondfocus.com/)
  - [LinkedIn](https://www.linkedin.com/in/hilljoseph)
 
