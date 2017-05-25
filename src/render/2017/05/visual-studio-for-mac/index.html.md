@@ -5,11 +5,12 @@ guest: Joeseph Hill
 guestImage: joeseph-hill.jpg
 date: 2017-05-24
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0151.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-151-Visual-Studio-for-Mac-with-Joseph-Hill
 --- 
 
 This episode continues our special Build 2017 series.
 
-### Joeseph Hill 
+### Joseph Hill 
 
 Joe is one of the Xamarin co-founders and is a Pricipal Director Project Manager for Xamarin and Visual Studio for Mac
 
