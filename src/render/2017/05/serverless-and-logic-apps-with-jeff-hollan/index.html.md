@@ -5,6 +5,7 @@ guest: Jeff Hollan
 guestImage: jeff-hollan.jpg
 date: 2017-05-27
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0152.mp3
+ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-152-Serverless--Logic-Apps-with-Jeff-Hollan
 --- 
 
 ### Build 2017
