@@ -12,9 +12,12 @@ cacheable: true
     	</ul>
     </nav>
     <nav class="sidebar-nav" id="sponsor-nav">
-    	<h2>Sponsor</h2>
+    	<h2>Sponsors</h2>
 			<a href="http://www.aspose.com/" title="Aspose">
 				<img src="/images/sidebar-ad.jpg" title="Aspose" />
+			</a>
+			<a href="https://raygun.com/?utm_source=msdevshow" title="Raygun">
+				<img src="/images/sidebar-ad2.jpg" title="Raygun" />
 			</a>
     </nav>
     <nav class="sidebar-nav" id="share-nav">
