@@ -27,3 +27,4 @@ And done! These guidelines should work for both Windows and Mac OS X.
 1. From the command prompt/terminal, navigate to your git repository folder
 2. Run the command `docpad run`, this will start a local server and begin rendering your files
 3. Open your favorite web browser and navigate to [http://localhost:9778/](http://localhost:9778/)
+
