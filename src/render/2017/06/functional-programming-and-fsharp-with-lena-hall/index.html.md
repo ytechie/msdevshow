@@ -36,7 +36,7 @@ Lena Hall is a Senior Engineer in Microsoft Research writing in F# every day. Sh
 -   [fsharpforfunandprofit.com](https://fsharpforfunandprofit.com/)
 -   [tryfsharp.org](http://www.tryfsharp.org/)
 -   [F\# Slack](http://fsharp.org/guides/slack/)
--   [F\# On Twitter](https://twitter.com/search?q=%23fsharp)
+-   [F Sharp On Twitter](https://twitter.com/search?q=%23fsharp)
 -   IDE
     -   [ionide.io](http://ionide.io/)
         -   [GitHub](https://github.com/ionide)
