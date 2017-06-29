@@ -30,7 +30,7 @@ Lena Hall is a Senior Engineer in Microsoft Research writing in F# every day. Sh
  - [Blog](https://lenadroid.github.io/posts.html)
  - [LinkedIn](https://www.linkedin.com/in/alenadzenisenka)
 
-### F#
+### F# #
 
 -   [fsharp.org](http://fsharp.org/)
 -   [fsharpforfunandprofit.com](https://fsharpforfunandprofit.com/)
