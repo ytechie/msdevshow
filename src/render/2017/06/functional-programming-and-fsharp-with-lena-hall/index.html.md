@@ -6,6 +6,7 @@ guestImage:  lena-hall.jpg
 date: 2017-06-28
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0158.mp3
 --- 
+
 ### News
 
  - [Is the keyboard faster than the mouse?](https://danluu.com/keyboard-v-mouse/)
