@@ -33,6 +33,16 @@ Rimma is a GPM in Azure Cosmos DB. Previously an architect in Azure Cosmos DB an
  - [Cosmos DB and Blob (Hot/Cool) Storage](https://blogs.msdn.microsoft.com/azuregov/2017/05/11/announcing-cosmosdb-and-blob-hotcool-storage/)
  - [Tunable data consistency levels in Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
  - [Cosmos DB Local Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
+ - Cosmos DB [video](https://youtu.be/aAy635iBB50)
+ - A [technical overview](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/) of Cosmos DB.
+ - Cosmos DB [flyer](cosmos_db_2-page_flyer.pdf)
+ - [Interview](https://www.youtube.com/watch?v=L_PPKyAsR3w&t=181s) with Leslie Lamport describing Cosmos DB and application of TLA+ for precisely specifying the consistency models 
+ - How Cosmos DB is [globally distribute](https://docs.microsoft.com/en-us/azure/cosmos-db/distribute-data-globally) data across all regions
+ - [Comprehensive SLAs page ](https://azure.microsoft.com/en-us/support/legal/sla/cosmos-db/v1_0/)
+ - [Cosmos DB Announcement](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-microsofts-globally-distributed-multi-model-database-service/)
+ - [RU/minute](https://azure.microsoft.com/en-us/blog/azurecosmosdb-introducing-per-minute-provisioning-lower-your-cost-increase-your-performance/) announcement and [documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/request-units-per-minute)
+
+
 
 ### Dev Tips of the Week
 
