@@ -32,5 +32,5 @@ us a pull request. We adore it when guests help clear out the cobwebs.
 
 Standards: HTML, CSS, JS, Markdown
 Components: DocPad, SASS, Bourbon, Bitters, Node
-Software: VS Code, OneNote
+Software: VS Code, OneNote, Pandoc
 Source: https://github.com/ytechie/msdevshow/
