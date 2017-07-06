@@ -1,34 +1,38 @@
 
-  __  __   ___     ___    ___  __   __    ___   _  _    ___   __      __
- |  \/  | / __|   |   \  | __| \ \ / /   / __| | || |  / _ \  \ \    / /
- | |\/| | \__ \   | |) | | _|   \ V /    \__ \ | __ | | (_) |  \ \/\/ / 
- |_|  |_| |___/   |___/  |___|   \_/     |___/ |_||_|  \___/    \_/\_/  
+ __  __ ___   ___  _____   __  ___ _  _  _____      __
+|  \/  / __| |   \| __\ \ / / / __| || |/ _ \ \    / /
+| |\/| \__ \ | |) | _| \ V /  \__ \ __ | (_) \ \/\/ / 
+|_|  |_|___/ |___/|___| \_/   |___/_||_|\___/ \_/\_/  
 
                                                                         
-========================================================================
-/*                                TEAM                                */
-========================================================================
+======================================================
+/*                       TEAM                       */
+======================================================
 
-The MS Dev Show is lovingly crafted for you each week by Carl Schweitzer 
-(@carlschweitzer) and Jason Young (@ytechie) directly out of their home 
-offices in Wisconsin and Washington respectively. 
+The MS Dev Show is lovingly crafted for you each week 
+by Carl Schweitzer (@carlschweitzer) and Jason Young 
+(@ytechie) directly out of their home offices in 
+Wisconsin and Washington respectively. 
 
-========================================================================
-/*                               THANKS                               */
-========================================================================
+======================================================
+/*                      THANKS                      */
+======================================================
 
-The bespoke website was expertly crafted by Brandon Martinez
-(@brandonmartinez) from Martinez Media (http://www.martinezmedia.net/), 
-great people over there. And finally our killer theme song comes 
-courtesy of Adhesive Wombat, check out his other creative endevours at 
+The bespoke website was expertly crafted by Brandon 
+Martinez (@brandonmartinez) from Martinez Media 
+(http://www.martinezmedia.net/), great people over 
+there. And finally our killer theme song comes 
+courtesy of Adhesive Wombat, check out his other 
+creative endevours at 
 https://soundcloud.com/adhesivewombat
 
-========================================================================
-/*                                SITE                                */
-========================================================================
+======================================================
+/*                       SITE                       */
+======================================================
 
-We love our website. If you find anything amiss or unkempt, please send
-us a pull request. We adore it when guests help clear out the cobwebs.
+We love our website. If you find anything amiss or 
+unkempt, please send us a pull request. We adore it 
+when guests help us clear out the cobwebs.
 
 Standards: HTML, CSS, JS, Markdown
 Components: DocPad, SASS, Bourbon, Bitters, Node
