@@ -7,7 +7,7 @@ date: 2017-07-09
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0160.mp3
 --- 
 
--   ![Danny Warren @dannydwarren half a minute ago via Twitter for Android @msdevshow @carlschweitzer I just met one of your fans in the wild! He recognized the hat! Y'all are making a difference! Keep it up!!!](msds-hat.jpg)
+![Danny Warren @dannydwarren half a minute ago via Twitter for Android @msdevshow @carlschweitzer I just met one of your fans in the wild! He recognized the hat! Y'all are making a difference! Keep it up!!!](msds-hat.jpg)
 
 ### News
 
@@ -16,10 +16,6 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0160.mp3
  - [Why Reddit chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript)
  - [If authors of computer programming books wrote arithmetic books](http://i.imgur.com/FmBl0HS.png)
    - ![If authors of computer programming books wrote arithmetic books](math.png)
-  
-### Dev Tip of the Week
-
- - [Database Project in VS](https://weblogs.asp.net/gunnarpeipman/using-visual-studio-database-projects-in-real-life)
 
 ### JD Trask
 
@@ -35,4 +31,8 @@ audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0160.mp3
    - [Reddit Discussion](https://www.reddit.com/r/programming/comments/5yag7h/raygun_increases_throughput_by_2000_percent_over/)
    - [Hacker News Discussion](https://news.ycombinator.com/item?id=14416867)
 - [Kestral HTTP Server](https://github.com/aspnet/KestrelHttpServer)
-   - [Introduction to Kestrel web server implementation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel)
+   - [Introduction to Kestrel web server implementation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel) 
+
+### Dev Tip of the Week
+
+ - [Database Project in VS](https://weblogs.asp.net/gunnarpeipman/using-visual-studio-database-projects-in-real-life)
