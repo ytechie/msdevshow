@@ -5,7 +5,6 @@ guest:  Josh Doody
 guestImage:  josh-doody.jpg
 date: 2017-07-21
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0161.mp3
-ignored: true
 --- 
 
 ### News
