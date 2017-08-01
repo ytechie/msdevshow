@@ -33,10 +33,6 @@ Troy Hunt is a Microsoft Regional Director and independent security researcher.
         -   [Latest pastes](https://haveibeenpwned.com/Pastes/Latest)
     -   [API](https://haveibeenpwned.com/API/v2)
 
-### Timezone Pick of the Week
-
- - [Time Zone Converter – Time Difference Calculator](https://www.timeanddate.com/worldclock/converter.html?iso=20170724T220000&p1=1244&p2=1490&p3=831)
-
 ----------------------------------------------------------------------
 
  - [Why ‘WannaCry’ Malware Caused Chaos for National Health Service in U.K.](http://www.nbcnews.com/news/world/why-wannacry-malware-caused-chaos-national-health-service-u-k-n760126)
@@ -60,3 +56,7 @@ Troy Hunt is a Microsoft Regional Director and independent security researcher.
  - [Hack Yourself First](http://hackyourselffirst.troyhunt.com/)
 
 ![Facebook console](facebookconsole.png)
+
+### Timezone Pick of the Week
+
+ - [Time Zone Converter – Time Difference Calculator](https://www.timeanddate.com/worldclock/converter.html?iso=20170724T220000&p1=1244&p2=1490&p3=831)
