@@ -7,9 +7,6 @@ date: 2017-07-31
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0163.mp3
 --- 
  
-
-
-
 ### News
 
  - [Who Uses AWS, Who Uses Azure?](https://stackoverflow.blog/2017/07/21/trends-cloud-computing-uses-aws-uses-azure/)
