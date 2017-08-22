@@ -5,7 +5,7 @@ date: 2017-08-20
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0165.mp3
 --- 
 
-We're really excited to be at [ThatConference](https://www.thatconference.com/) for the **third** year in a row! Check out all the awesome speaker interviews we did this year.
+We're really excited to be at [ThatConference](https://www.thatconference.com/) for the **third** year in a row! Check out the second batch of awesome speaker interviews we did this year.
 
 ### Keith Casey
 
