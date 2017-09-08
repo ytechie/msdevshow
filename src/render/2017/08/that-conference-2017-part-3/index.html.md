@@ -32,9 +32,9 @@ John is *THAT* JS Dude. You know the one.
 
 ### Dustin Ewers
 
-![Dusting Ewers](dustin.jpg)
+![Dustin Ewers](dustin.jpg)
 
-Dusting is a web developer at Centare.
+Dustin is a web developer at Centare.
 
  - [@DustinJEwers](https://twitter.com/DustinJEwers)
  - [Github](https://github.com/DustinEwers)
