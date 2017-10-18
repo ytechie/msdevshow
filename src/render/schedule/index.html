@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.13/moment-timezone-with-data.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://unpkg.com/vue"></script>
+    </head>
+    <body>
+ 
+
+        <div id="app">
+            Your current timezone: {{ timeZone }}
+        
+            <ul>
+                <li v-for="slot in slots">
+                    {{ slot.text }}
+                </li>
+            </ul>
+        </div>
+
+        <script>
+                var settings = {
+                    "async": true,
+                    "crossDomain": true,
+                    "url": "https://msdevshowschedule.azurewebsites.net/api/list?code=7wOJga4dj2dEJk3hYGornLx5KGTW4RUeiaLp4WQDm9oJH1XLWqGVvg==",
+                    "method": "GET",
+                    "headers": {
+                        "cache-control": "no-cache"
+                    }
+                }
+    
+                var app = new Vue({
+                    el: '#app',
+                    data: {
+                        timeZone: '',
+                        slots: [{text:'Loading...'}]
+                    }
+                });
+
+                app.timeZone = moment.tz.guess();
+
+                $.ajax(settings).done(function (response) {
+                    var appointments = JSON.parse(response);
+
+                    app.slots.pop();
+    
+                    appointments.forEach(function(appt) {
+                        let start = moment(appt.start);
+                        let end = moment(appt.end);
+    
+                        //console.log(start.utc().format('MMMM Do YYYY, h:mm:ss a'));
+                        //console.log(end.utc().format('h:mm:ss'));
+
+                        let newSlot = {
+                            text: start.utc().format('MMMM Do YYYY, h:mm:ss a') + ' to ' + end.utc().format('h:mm:ss'),
+                        };
+                        
+                        app.slots.push(newSlot);
+                        console.log('Pushed ' + newSlot);
+                    }); 
+                });
+                //console.log('Your current timezone: ' + moment.tz.guess());
+
+    
+
+    
+                
+            </script>
+    </body>
+</html>
