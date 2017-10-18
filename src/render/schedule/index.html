@@ -52,7 +52,7 @@
                         //console.log(end.utc().format('h:mm:ss'));
 
                         let newSlot = {
-                            text: start.utc().format('MMMM Do YYYY, h:mm:ss a') + ' to ' + end.utc().format('h:mm:ss'),
+                            text: start.local().format('MMMM Do YYYY, h:mm:ss a') + ' to ' + end.local().format('h:mm:ss'),
                         };
                         
                         app.slots.push(newSlot);
