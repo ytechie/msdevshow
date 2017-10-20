@@ -1,21 +1,26 @@
-<html>
-    <head>
+---
+layout: page
+skipCleanUrls: true
+sitemap: false
+---
+<h2>Available Schedule Slots</h2>
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.13/moment-timezone-with-data.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://unpkg.com/vue"></script>
-    </head>
-    <body>
- 
 
         <div id="app">
-            Your current timezone: {{ timeZone }}
+            <p>Your current timezone: <b>{{ timeZone }}</b></p>
+
+            <p>Please pick a slot from one of the available choices below, and email us which one works best for you.</p>
         
-            <ul>
-                <li v-for="slot in slots">
-                    {{ slot.text }}
-                </li>
-            </ul>
+            <p>
+                <ul>
+                    <li v-for="slot in slots">
+                        <b>{{ slot.text }}</b>
+                    </li>
+                </ul>
         </div>
 
         <script>
@@ -33,7 +38,7 @@
                     el: '#app',
                     data: {
                         timeZone: '',
-                        slots: [{text:'Loading...'}]
+                        slots: [{text:'Loading options... please be patient...'}]
                     }
                 });
 
@@ -47,9 +52,6 @@
                     appointments.forEach(function(appt) {
                         let start = moment(appt.start);
                         let end = moment(appt.end);
-    
-                        //console.log(start.utc().format('MMMM Do YYYY, h:mm:ss a'));
-                        //console.log(end.utc().format('h:mm:ss'));
 
                         let newSlot = {
                             text: start.local().format('MMMM Do YYYY, h:mm:ss a') + ' to ' + end.local().format('h:mm:ss'),
@@ -58,13 +60,5 @@
                         app.slots.push(newSlot);
                         console.log('Pushed ' + newSlot);
                     }); 
-                });
-                //console.log('Your current timezone: ' + moment.tz.guess());
-
-    
-
-    
-                
+                });  
             </script>
-    </body>
-</html>
