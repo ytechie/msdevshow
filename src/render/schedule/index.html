@@ -24,16 +24,6 @@ sitemap: false
         </div>
 
         <script>
-                var settings = {
-                    "async": true,
-                    "crossDomain": true,
-                    "url": "https://msdevshowschedule.azurewebsites.net/api/list?code=7wOJga4dj2dEJk3hYGornLx5KGTW4RUeiaLp4WQDm9oJH1XLWqGVvg==",
-                    "method": "GET",
-                    "headers": {
-                        "cache-control": "no-cache"
-                    }
-                }
-    
                 var app = new Vue({
                     el: '#app',
                     data: {
@@ -44,21 +34,43 @@ sitemap: false
 
                 app.timeZone = moment.tz.guess();
 
-                $.ajax(settings).done(function (response) {
-                    var appointments = JSON.parse(response);
+                loadSlots();
+                var retryDelay = 0;
 
-                    app.slots.pop();
-    
-                    appointments.forEach(function(appt) {
-                        let start = moment(appt.start);
-                        let end = moment(appt.end);
+                function loadSlots() {
+                    var settings = {
+                        "async": true,
+                        "crossDomain": true,
+                        "url": "https://msdevshowschedule.azurewebsites.net/api/list?code=7wOJga4dj2dEJk3hYGornLx5KGTW4RUeiaLp4WQDm9oJH1XLWqGVvg==",
+                        "method": "GET",
+                        "headers": {
+                            "cache-control": "no-cache"
+                        }
+                    }
 
-                        let newSlot = {
-                            text: start.local().format('MMMM Do YYYY, h:mm:ss a') + ' to ' + end.local().format('h:mm:ss'),
-                        };
-                        
-                        app.slots.push(newSlot);
-                        console.log('Pushed ' + newSlot);
-                    }); 
-                });  
+                    $.ajax(settings).done(function (response) {
+                        var appointments = JSON.parse(response);
+
+                        app.slots.pop();
+        
+                        appointments.forEach(function(appt) {
+                            let start = moment(appt.start);
+                            let end = moment(appt.end);
+
+                            let newSlot = {
+                                text: start.local().format('MMMM Do YYYY, h:mm:ss a') + ' to ' + end.local().format('h:mm:ss'),
+                            };
+                            
+                            app.slots.push(newSlot);
+                            console.log('Pushed ' + newSlot);
+                        }); 
+                    }).fail(function(err) {
+                        console.log('Error loading slots ' + err);
+                        setTimeout(loadSlots, retryDelay);
+                        if(retryDelay < 10000) {
+                            retryDelay += 2000;
+                            console.log('New retry delay: ' + retryDelay);
+                        }
+                    });
+                }
             </script>
