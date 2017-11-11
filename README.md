@@ -11,6 +11,13 @@ Subscribe to the show using our [RSS Feed](http://msdevshow.libsyn.com/rss), or 
 ## Getting Started with Docpad
 The _MS Dev Show_ site utilizes Docpad, a nodejs-based static site generation tool, to build its website and resources. Follow the installation steps below to run a local copy of the site.
 
+### Running with Docker
+
+If you just want to run a local copy of the site using Docker, simply run:
+`docker run -i -d -P ytechie/msdevshow`
+
+VSTS 
+
 ### Installation
 
 1. Download and install [nodejs](http://nodejs.org/) (use default options)
