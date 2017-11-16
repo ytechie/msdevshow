@@ -41,10 +41,3 @@ Jennifer is a Principal Software Development Engineer in  Microsoft’s Commerci
 ### Azure pick of the week
 
  - [Use Azure DNS to provide custom domain settings for an Azure service](https://docs.microsoft.com/en-us/azure/dns/dns-custom-domain)
-
-
-
-
-
-
-> <http://msdevshow.com/2017/11/machine-learning-and-lie-detection-with-jennifer-marsman/>
