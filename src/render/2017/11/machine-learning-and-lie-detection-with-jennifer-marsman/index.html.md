@@ -7,7 +7,7 @@ date: 2017-11-14
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0173.mp3
 --- 
 
-> News
+### News
 
  - [Microsoft integrates LinkedIn with Word to help you write a resume](https://www.theverge.com/2017/11/8/16622718/microsoft-word-linkedin-integration-resume-assistant-feature)
  - [Does the brain interact with programming languages like it does with natural languages?](https://www.reddit.com/r/askscience/comments/7bmjs6/does_the_brain_interact_with_programming/)
