@@ -4,7 +4,7 @@ title: Azure XPlat CLI 2.0
 guest: Jason R. Shaver
 guestImage: jason-shaver.jpg
 date: 2017-04-21
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0147.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0147.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Azure-x-plat-CLI-20-with-Jason-R-Shaver
 --- 
 

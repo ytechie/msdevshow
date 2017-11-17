@@ -4,7 +4,7 @@ title: Live at Microsoft
 guest: the MVP Summit
 guestImage: mvpsummit.jpg
 date: 2015-11-07
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0080.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0080.mp3
 ---
 
 ### Ben Dewey

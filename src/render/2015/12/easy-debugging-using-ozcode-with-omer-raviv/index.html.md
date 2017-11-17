@@ -4,7 +4,7 @@ title: Easy Debugging using OzCode
 guest: Omer Raviv
 guestImage: omer-raviv.jpg
 date: 2015-12-27
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0087.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0087.mp3
 ---
 
 ### News

@@ -4,7 +4,7 @@ title: MS Band SDK
 guest: Ali Alvi
 guestImage: ali-alvi.jpg
 date: 2015-12-07
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0084.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0084.mp3
 ---
 
 ### News

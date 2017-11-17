@@ -4,7 +4,7 @@ title: Responsive Design
 guest: Karen McGrane
 guestImage: karen-mcgrane.jpg
 date: 2015-12-20
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0086.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0086.mp3
 ---
 
 ### News

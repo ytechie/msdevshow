@@ -3,7 +3,7 @@ layout: post
 title: How to Get Your Boss to Pay for Azure
 guest: Kenny Young
 date: 2014-10-27
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0028.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0028.mp3
 guestImage: kenny-young.jpg
 ---
 

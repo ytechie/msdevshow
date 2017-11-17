@@ -4,7 +4,7 @@ title: Enterprise Universal Apps
 guest: Brandon H
 guestImage: brandon-h.jpg
 date: 2016-01-29
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0091.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0091.mp3
 ---
 
 There is a little bit of voice overlap around the 5 minute mark when Carl's computer freezes. Carl really needs a new computer that doesn't freeze during the recordings.

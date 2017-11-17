@@ -4,7 +4,7 @@ title: Azure Notebooks
 guest: Chris Wilcox
 guestImage: chris-wilcox.jpg
 date: 2016-12-20
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0133.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0133.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-133-Azure-Notebooks-with-Chris-Wilcox
 ---
 

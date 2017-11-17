@@ -4,7 +4,7 @@ title: CakeBuild
 guest: Mattias Karlsson and Gary Ewan Park
 guestImage: mattias-and-gary.jpg
 date: 2016-04-02
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0099.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0099.mp3
 ---
 
 ### News

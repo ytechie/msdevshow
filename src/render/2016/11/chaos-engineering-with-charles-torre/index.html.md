@@ -4,7 +4,7 @@ title: Chaos Engineering
 guest: Charles Torre
 guestImage: charles-torre.jpg
 date: 2016-11-1
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0127.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0127.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-127-Chaos-Engineering-with-Charles-Torre
 ---
  

@@ -4,7 +4,7 @@ title: C# Language and Future
 guest: Mads Torgersen
 guestImage: mads-torgersen.jpg
 date: 2016-03-05
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0095.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0095.mp3
 ---
 
 ### News

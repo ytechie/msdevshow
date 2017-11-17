@@ -3,7 +3,7 @@ layout: post
 title:  Chocolatey
 guest: Rob Reynolds
 date: 2014-11-14
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0030.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0030.mp3
 guestImage: rob-reynolds.jpg
 ---
 

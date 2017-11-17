@@ -4,7 +4,7 @@ title: A UWP Visual Studio Shell Experiment
 guest: Thomas Claudius Huber
 guestImage: thomas-huber.jpg
 date: 2017-03-14
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0142.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0142.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-142-A-UWP-Visual-Studio-Shell-Experiment-by-Thomas-Claudius-Huber
 ---
 

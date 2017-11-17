@@ -4,7 +4,7 @@ title: Rub a Little Devops on it
 guest: Donovan Brown
 guestImage: donovan-brown.jpg
 date: 2016-04-15
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0101.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0101.mp3
 ---
 
 ### News

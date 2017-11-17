@@ -4,7 +4,7 @@ title: What's new at Xamarin
 guest: James Montemagno
 guestImage: james-montemagno.jpg
 date: 2016-06-21
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0110.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0110.mp3
 ---
 
 ### News

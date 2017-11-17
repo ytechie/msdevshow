@@ -3,7 +3,7 @@ layout: post
 title: Enterprise Store Apps
 guest: Greg Levenhagen
 date: 2014-06-13
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0009.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0009.mp3
 guestImage: greg-levenhagen.jpg
 ---
 

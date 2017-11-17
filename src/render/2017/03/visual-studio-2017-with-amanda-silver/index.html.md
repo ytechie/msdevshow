@@ -4,7 +4,7 @@ title: Visual Studio 2017
 guest: Amanda Silver
 guestImage: amanda-silver.jpg
 date: 2017-03-19
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0143.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0143.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-143-Visual-Studio-2017-with-Amanda-Silver
 --- 
 

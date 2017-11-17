@@ -3,7 +3,7 @@ layout: post
 title: DocumentDB
 guest: Ryan and Shireesh
 date: 2014-09-05
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0021.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0021.mp3
 guestImage: ryan-crawcour.jpg
 ---
 

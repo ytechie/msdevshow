@@ -4,7 +4,7 @@ title: Intro to Node.js
 guest: Sarah Sexton
 guestImage: sarah-sexton.jpg
 date: 2015-08-22
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0069.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0069.mp3
 ---
 
 ### News

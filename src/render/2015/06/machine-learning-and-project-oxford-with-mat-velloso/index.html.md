@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning and Project Oxford
 guest: Mat Velloso
 date: 2015-06-28
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0061.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0061.mp3
 guestImage: mat-velloso.jpg
 ---
 

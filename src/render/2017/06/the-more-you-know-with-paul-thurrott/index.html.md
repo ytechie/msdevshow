@@ -4,7 +4,7 @@ title: The More You Know
 guest: Paul Thurrott
 guestImage: paul-thurrott.jpg
 date: 2017-06-03
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0155.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0155.mp3
 --- 
 
 ### News

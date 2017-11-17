@@ -2,7 +2,7 @@
 layout: post
 title: WTH is IoT?
 date: 2014-06-21
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0010.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0010.mp3
 ---
 
 **Sorry in advance for the poor audio quality from Jason. It sounded fine in production but Skype mangled it.**

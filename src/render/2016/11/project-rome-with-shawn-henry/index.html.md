@@ -4,7 +4,7 @@ title: Project Rome
 guest: Shawn Henry
 guestImage: shawn-henry.jpg
 date: 2016-11-8
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0128.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0128.mp3
 ---
 
 ### News

@@ -2,7 +2,7 @@
 layout: post
 title: Working from Home
 date: 2016-02-12
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0093.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0093.mp3
 ---
 
 ### News

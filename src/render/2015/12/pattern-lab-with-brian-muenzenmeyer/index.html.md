@@ -4,7 +4,7 @@ title: Pattern Lab
 guest: Brian Muenzenmeyer
 guestImage: brian-muenzenmeyer.jpg
 date: 2015-12-13
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0085.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0085.mp3
 ---
 
 ### News

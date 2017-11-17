@@ -4,7 +4,7 @@ title: Animations at Work
 guest:  Rachel Nabors
 guestImage: rachel-nabors.jpg
 date: 2017-10-17
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0170.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0170.mp3
 --- 
 
 ### News

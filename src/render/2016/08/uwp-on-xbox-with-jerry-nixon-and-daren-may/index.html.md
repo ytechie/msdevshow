@@ -4,7 +4,7 @@ title: UWP on XBox
 guest: Darren May and Jerry Nixon
 guestImage: daren-and-jerry.jpg
 date: 2016-08-27
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0119.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0119.mp3
 ---
 
  ### News

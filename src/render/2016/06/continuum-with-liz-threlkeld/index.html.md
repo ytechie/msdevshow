@@ -4,7 +4,7 @@ title: Continuum
 guest: Liz Threlkeld
 guestImage: liz-threlkeld.jpg
 date: 2016-06-08
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0108.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0108.mp3
 ---
 
 ### News

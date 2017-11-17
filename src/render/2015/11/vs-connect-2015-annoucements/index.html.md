@@ -4,7 +4,7 @@ title: VS Connect 2015
 guest: Brandon Martinez
 guestImage: brandon-martinez.jpg
 date: 2015-11-22
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0082.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0082.mp3
 ---
 
 ### News

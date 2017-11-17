@@ -4,7 +4,7 @@ title: Oculus, Hololens, and 3D Programming
 guest: Rene Schulte
 guestImage: rene-schulte.jpg
 date: 2015-06-05
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0058.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0058.mp3
 ---
 
 ### News

@@ -4,7 +4,7 @@ title: Touch Interfaces That Don't Suck
 guest: David Washington
 guestImage: david-washington.jpg
 date: 2015-09-21
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0073.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0073.mp3
 ---
 
 ### News

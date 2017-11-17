@@ -2,7 +2,7 @@
 layout: post
 title: TechEd 2014
 date: 2014-05-19
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0005.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0005.mp3
 ---
 
 Remember that if you're in the US, retweet an [@msdevshow](https://twitter.com/msdevshow) tweet, and email us at feedback@msdevshow.com to get free MS Dev Show Stickers!

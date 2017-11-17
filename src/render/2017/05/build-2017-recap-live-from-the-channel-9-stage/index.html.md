@@ -2,7 +2,7 @@
 layout: post
 title: Build 2017 Recap from the Channel 9 Stage!
 date: 2017-05-20
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0150.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0150.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-150-Build-2017-Recap-Live-from-the-Channel-9-Stage
 --- 
 
