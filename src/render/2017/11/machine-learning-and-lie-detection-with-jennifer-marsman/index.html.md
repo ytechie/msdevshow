@@ -11,9 +11,9 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0173.mp3
 
  - [Microsoft integrates LinkedIn with Word to help you write a resume](https://www.theverge.com/2017/11/8/16622718/microsoft-word-linkedin-integration-resume-assistant-feature)
  - [Does the brain interact with programming languages like it does with natural languages?](https://www.reddit.com/r/askscience/comments/7bmjs6/does_the_brain_interact_with_programming/)
-    - [Adjective ordering](http://dictionary.cambridge.org/grammar/british-grammar/about-adjectives-and-adverbs/adjectives-order)
+    - [Adjective ordering](https://dictionary.cambridge.org/grammar/british-grammar/about-adjectives-and-adverbs/adjectives-order)
  - [Running Node.js on WSL from Visual Studio Code](https://blogs.msdn.microsoft.com/commandline/2017/10/27/running-node-js-on-wsl-from-visual-studio-code/?utm_source=Direct)
- - [Chaos Engineering Book](http://tinyurl.com/ChaosEngineering)
+ - [Chaos Engineering Book](https://tinyurl.com/ChaosEngineering)
 
 ### Jennifer Marsman
 
