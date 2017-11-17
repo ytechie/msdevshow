@@ -8,4 +8,3 @@ COPY nginx.conf /etc/nginx
 RUN echo "`date -u`" > /usr/share/nginx/html/when.txt
 
 EXPOSE 80
-EXPOSE 443
