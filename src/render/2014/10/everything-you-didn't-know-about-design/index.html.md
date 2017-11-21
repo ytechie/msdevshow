@@ -3,7 +3,7 @@ layout: post
 title: Everything You Didn't Know about Design
 guest: Rick Barazza
 date: 2014-10-14
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0026.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0026.mp3
 guestImage: rick-barazza.jpg
 ---
 

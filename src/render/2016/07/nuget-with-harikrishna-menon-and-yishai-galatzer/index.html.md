@@ -4,7 +4,7 @@ title: Nuget
 guest: Harikrishna Menon & Yishai Galatzer
 guestImage: hari-and-yishai.jpg
 date: 2016-07-14
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0113.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0113.mp3
 ---
 
 ### News

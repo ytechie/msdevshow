@@ -4,7 +4,7 @@ title: Azure Functions
 guest: Chris Anderson
 guestImage: chris-anderson.jpg
 date: 2016-04-23
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0102.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0102.mp3
 ---
 
 ### News

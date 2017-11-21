@@ -4,7 +4,7 @@ title: Razor Pages
 guest:  Ryan Nowak
 guestImage: placeholder.png
 date: 2017-10-24
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0171.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0171.mp3
 --- 
 
 ### News

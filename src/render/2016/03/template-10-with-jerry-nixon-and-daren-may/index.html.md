@@ -4,7 +4,7 @@ title: Template 10
 guest: Daren May and Jerry Nixon
 guestImage: daren-and-jerry.jpg
 date: 2016-03-12
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0096.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0096.mp3
 ---
 
 ### News

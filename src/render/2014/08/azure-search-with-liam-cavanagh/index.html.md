@@ -3,7 +3,7 @@ layout: post
 title:	Azure Search
 guest: Liam Cavanagh
 date: 2014-08-26
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0019.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0019.mp3
 guestImage: liam-cavanagh.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Dev Ops
 guest: Steven Murawski
 date: 2015-01-23
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0040.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0040.mp3
 guestImage: steven-murawski.jpg
 ---
 

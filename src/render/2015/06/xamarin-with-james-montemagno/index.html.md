@@ -3,7 +3,7 @@ layout: post
 title: 	Xamarin
 guest: James Montemagno
 date: 2015-06-23
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0060.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0060.mp3
 guestImage: james-montemagno.jpg
 ---
 

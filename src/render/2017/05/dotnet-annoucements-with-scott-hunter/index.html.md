@@ -4,7 +4,7 @@ title: .NET Announcements
 guest: Scott Hunter
 guestImage: scott-hunter.jpg
 date: 2017-05-17
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0149.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0149.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-149-NET-Announcements-with-Scott-Hunter
 --- 
 

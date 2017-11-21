@@ -3,7 +3,7 @@ layout: post
 title: Select * from Awesome
 guest: Jes Borland
 date: 2014-11-03
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0029.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0029.mp3
 guestImage: jes-borland.jpg
 ---
 

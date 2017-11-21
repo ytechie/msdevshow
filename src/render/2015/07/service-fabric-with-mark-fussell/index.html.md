@@ -4,7 +4,7 @@ title: Service Fabric
 guest: Mark Fussell
 guestImage: mark-fussell.jpg
 date: 2015-07-11
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0063.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0063.mp3
 ---
 
 ### News

@@ -4,7 +4,7 @@ title: Technically Wrong
 guest:  Sara Wachter-Boettcher
 guestImage: sara-wachter-boettcher.jpg
 date: 2017-11-6
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0172.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0172.mp3
 --- 
 
 ### News

@@ -4,7 +4,7 @@ title: Software Quality and Performance
 guest:  JD Trask
 guestImage:  jd-trask.jpg
 date: 2017-07-09
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0160.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0160.mp3
 --- 
 
 ![Danny Warren @dannydwarren half a minute ago via Twitter for Android @msdevshow @carlschweitzer I just met one of your fans in the wild! He recognized the hat! Y'all are making a difference! Keep it up!!!](msds-hat.jpg)

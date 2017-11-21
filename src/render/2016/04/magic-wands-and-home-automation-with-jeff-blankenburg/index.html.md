@@ -4,7 +4,7 @@ title: Magic Wands and Home Automation
 guest: Jeff Blankenburg
 guestImage: jeff-blankenburg.jpg
 date: 2016-04-30
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0103.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0103.mp3
 ---
 
 ### News

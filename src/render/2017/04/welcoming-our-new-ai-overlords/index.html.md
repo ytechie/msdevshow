@@ -4,7 +4,7 @@ title: Welcoming our new AI Overlords
 guest: David Crook
 guestImage: david-crook.jpg
 date: 2017-04-04
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0145.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0145.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-145-Welcoming-our-new-AI-Overlords-with-David-Crook
 --- 
 

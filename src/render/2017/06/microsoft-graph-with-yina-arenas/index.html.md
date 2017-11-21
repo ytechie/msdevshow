@@ -4,7 +4,7 @@ title: Microsoft Graph
 guest:  Yina Arenas
 guestImage:  yina-arenas.jpg
 date: 2017-06-17
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0157.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0157.mp3
 --- 
 
 ### News

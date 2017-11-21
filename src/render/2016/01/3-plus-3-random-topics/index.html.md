@@ -2,7 +2,7 @@
 layout: post
 title: 3 + 3 Random Topics
 date: 2016-01-06
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0088.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0088.mp3
 ---
  
 ### News

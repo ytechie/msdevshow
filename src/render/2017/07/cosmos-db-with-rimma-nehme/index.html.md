@@ -4,7 +4,7 @@ title: Cosmos DB
 guest:  Rimma Nehme
 guestImage:  rimma-nehme.jpg
 date: 2017-07-01
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0159.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0159.mp3
 --- 
 
 ### News

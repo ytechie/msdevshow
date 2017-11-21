@@ -4,7 +4,7 @@ title: ThatConference 2016
 guest: a Plethora of Guests - pt. 2
 guestImage: thatConference.jpg
 date: 2016-08-18
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0118.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0118.mp3
 ---
 
 ### Angela Dugan

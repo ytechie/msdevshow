@@ -4,7 +4,7 @@ title: Windows Template Studio
 guest: Clint Rutkas and Michael Crump
 guestImage: clint-and-michael.jpg
 date: 2017-05-31
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0154.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0154.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-154-Windows-Template-Studio-with-Clint-Rutkas-and-Michael-Crump
 --- 
 

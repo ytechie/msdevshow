@@ -4,7 +4,7 @@ title: Peer to Peer using Thali
 guest: Yaron Goland
 guestImage: yaron-goland.jpg
 date: 2016-06-12
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0109.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0109.mp3
 ---
 
 ### News

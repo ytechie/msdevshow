@@ -4,7 +4,7 @@ title: Continuous
 guest: Frank A. Krueger
 guestImage: frank-krueger.jpg
 date: 2016-08-06
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0116.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0116.mp3
 ---
 
 ### News

@@ -4,7 +4,7 @@ title: DevOps and Release Management
 guest: Donovan Brown
 guestImage: donovan-brown.jpg
 date: 2015-09-26
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0074.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0074.mp3
 ---
 
 ### News

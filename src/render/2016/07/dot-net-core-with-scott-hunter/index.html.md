@@ -4,7 +4,7 @@ title: .Net Core
 guest: Scott Hunter
 guestImage: scott-hunter.jpg
 date: 2016-07-30
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0115.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0115.mp3
 ---
 
 ### News

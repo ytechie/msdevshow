@@ -3,7 +3,7 @@ layout: post
 title: Websites Kudu and WebJobs
 guest: David Ebbo
 date: 2015-01-30
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0041.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0041.mp3
 guestImage: david-ebbo.jpg
 ---
 

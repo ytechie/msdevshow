@@ -4,7 +4,7 @@ title: UWP Community Toolkit
 guest: David Catuhe
 guestImage: david-catuhe.jpg
 date: 2016-09-23
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0123.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0123.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-123-UWP-Community-Toolkit-with-David-Catuhe
 ---
 

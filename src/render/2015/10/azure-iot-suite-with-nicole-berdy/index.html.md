@@ -4,7 +4,7 @@ title: Azure IoT Suite
 guest: Nicole Berdy
 guestImage: nicole-berdy.jpg
 date: 2015-10-12
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0076.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0076.mp3
 ---
 
 ### News

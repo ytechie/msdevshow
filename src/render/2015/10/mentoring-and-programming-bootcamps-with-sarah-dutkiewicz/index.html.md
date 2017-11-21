@@ -4,7 +4,7 @@ title: Mentoring and Programming Bootcamps
 guest: Sarah Dutkiewicz
 guestImage: sarah-dutkiewicz.jpg
 date: 2015-10-24
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0078.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0078.mp3
 ---
 
 ### News
