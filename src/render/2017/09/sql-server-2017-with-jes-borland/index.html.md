@@ -4,7 +4,7 @@ layout: post
 title: Sql Server 2017
 guest:  Jes Borland
 guestImage: jes-borland.jpg
-date: 2017-09-05
+date: 2017-09-20
 audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0168.mp3
 --- 
 
