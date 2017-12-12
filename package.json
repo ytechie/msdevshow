@@ -14,7 +14,6 @@
     "docpad": "~6.79.4",
     "docpad-plugin-cleanurls": "~2.10.0",
     "docpad-plugin-coffeescript": "~2.6.0",
-    "docpad-plugin-dateurls": "https://github.com/ervwalter/docpad-plugin-dateurls/tarball/compiled",
     "docpad-plugin-eco": "~2.2.1",
     "docpad-plugin-marked": "~2.4.0",
     "docpad-plugin-nodesass": "~2.8.2",
