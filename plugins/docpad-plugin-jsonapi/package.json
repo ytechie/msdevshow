@@ -1,0 +1,11 @@
+{
+  "name": "docpad-plugin-jsonapi",
+  "version": "2.0.0",
+  "main": "source/jsonapi.plugin.js",
+  "keywords": [
+    "docpad-plugin"
+  ],
+  "private": true,
+  "dependencies": {
+  }
+}
