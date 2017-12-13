@@ -4,7 +4,7 @@ module.exports = function (BasePlugin) {
   return BasePlugin.extend({
       name: 'jsonapi',
       writeAfter: function(opts, next) {
-        console.log('hellooooooo!');
+        console.log('Starting JSON API Generation');
         
         var collection, templateData;
         
@@ -18,14 +18,12 @@ module.exports = function (BasePlugin) {
           if(attributes.layout && attributes.layout === 'post') {
             //console.log(attributes);
             var outName = model.attributes.outPath;
-            if(outName.indexOf('.html') > -1) {
-              var jsonName = model.attributes.outPath.replace('/index.html', '.json');
- 
-              fs.writeFile(jsonName, JSON.stringify(attributes), function (err) {
-                if (err) return console.log(err);
-                console.log('Wrote ' + jsonName);
-              });
-            }
+            var jsonName = model.attributes.outPath.replace('/index.html', '.json');
+
+            fs.writeFile(jsonName, JSON.stringify(attributes), function (err) {
+              if (err) return console.log(err);
+              console.log('Wrote API File ' + jsonName);
+            });
           }
         });
 
