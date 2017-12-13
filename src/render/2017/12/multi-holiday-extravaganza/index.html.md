@@ -1,9 +1,9 @@
 ---
 layout: post
+episodeNumber: 175
 title: Multi-Holiday Extravaganza
 date: 2017-12-12
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0175.mp3
-ignored: true
 --- 
 
 ### News
