@@ -14,13 +14,17 @@ module.exports = function (BasePlugin) {
         //console.log(collection.models[0].meta.attributes);
 
         collection.models.forEach(function(model, cbEach) {
-          var attributes = model.meta.attributes;
-          if(attributes.layout && attributes.layout === 'post') {
-            //console.log(attributes);
+          var json = model.meta.attributes;
+          if(json.layout && json.layout === 'post') {
+            //console.log(json);
             var outName = model.attributes.outPath;
             var jsonName = model.attributes.outPath.replace('/index.html', '.json');
 
-            fs.writeFile(jsonName, JSON.stringify(attributes), function (err) {
+            json.computedProperties = {
+              markdown: model.attributes.content
+            }
+
+            fs.writeFile(jsonName, JSON.stringify(json), function (err) {
               if (err) return console.log(err);
               console.log('Wrote API File ' + jsonName);
             });
