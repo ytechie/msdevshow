@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 38
 title: Azure Stream Analytics
 guest: Janet Yeilding
 date: 2015-01-09

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 22
 title: Azure Mobile Services
 guest: Brandon Martinez
 date: 2014-09-15

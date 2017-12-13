@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 26
 title: Everything You Didn't Know about Design
 guest: Rick Barazza
 date: 2014-10-14

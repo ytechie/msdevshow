@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 113
 title: Nuget
 guest: Harikrishna Menon & Yishai Galatzer
 guestImage: hari-and-yishai.jpg

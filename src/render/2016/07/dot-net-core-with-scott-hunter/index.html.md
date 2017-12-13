@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 115
 title: .Net Core
 guest: Scott Hunter
 guestImage: scott-hunter.jpg

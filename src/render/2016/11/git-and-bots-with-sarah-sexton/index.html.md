@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 130
 title: Git and Bots
 guest: Sarah Sexton
 guestImage: sarah-sexton.jpg

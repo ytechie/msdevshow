@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 25
 title: The Web is Awesome
 guest: Jeremy Foster
 date: 2014-10-06

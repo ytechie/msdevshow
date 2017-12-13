@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 173
 title: Machine Learning
 guest:  Jennifer Marsman
 guestImage: jennifer-marsman.jpg

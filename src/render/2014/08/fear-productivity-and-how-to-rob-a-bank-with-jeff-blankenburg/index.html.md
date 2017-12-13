@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 18
 title:	Fear, Productivity, and How to Rob a Bank
 guest: Jeff Blankenburg
 date: 2014-08-15

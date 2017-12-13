@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 116
 title: Continuous
 guest: Frank A. Krueger
 guestImage: frank-krueger.jpg

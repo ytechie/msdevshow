@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 56
 title: Project Centennial (Win32 in appx)
 guest: John Sheehan
 guestImage: john-sheehan.jpg

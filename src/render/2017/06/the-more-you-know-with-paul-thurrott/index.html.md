@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 155
 title: The More You Know
 guest: Paul Thurrott
 guestImage: paul-thurrott.jpg

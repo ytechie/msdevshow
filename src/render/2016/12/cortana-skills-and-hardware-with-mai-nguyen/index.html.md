@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 135
 title: Cortana Skills Kit
 guest: Mai Nguyen
 guestImage: mai-nguyen.jpg

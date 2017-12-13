@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 146
 title: Mobile Center
 guest: Simina Pasat and Karl Piteira
 guestImage: simina-and-karl.jpg

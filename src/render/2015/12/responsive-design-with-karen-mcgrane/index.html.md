@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 86
 title: Responsive Design
 guest: Karen McGrane
 guestImage: karen-mcgrane.jpg

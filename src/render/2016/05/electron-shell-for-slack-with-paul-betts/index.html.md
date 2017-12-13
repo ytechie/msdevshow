@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 105
 title: Electron Shell for Slack
 guest: Paul Betts
 guestImage: paul-betts.jpg

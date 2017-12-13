@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 84
 title: MS Band SDK
 guest: Ali Alvi
 guestImage: ali-alvi.jpg

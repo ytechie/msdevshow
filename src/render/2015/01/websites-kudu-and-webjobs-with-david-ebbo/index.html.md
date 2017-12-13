@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 41
 title: Websites Kudu and WebJobs
 guest: David Ebbo
 date: 2015-01-30

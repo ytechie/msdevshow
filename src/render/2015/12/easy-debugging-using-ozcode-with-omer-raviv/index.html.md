@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 87
 title: Easy Debugging using OzCode
 guest: Omer Raviv
 guestImage: omer-raviv.jpg

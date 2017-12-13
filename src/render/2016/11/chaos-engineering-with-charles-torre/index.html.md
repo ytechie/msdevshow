@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 127
 title: Chaos Engineering
 guest: Charles Torre
 guestImage: charles-torre.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 108
 title: Continuum
 guest: Liz Threlkeld
 guestImage: liz-threlkeld.jpg

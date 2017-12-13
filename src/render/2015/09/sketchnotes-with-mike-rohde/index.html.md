@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 72
 title: SketchNotes
 guest: Mike Rohde
 guestImage: mike-rohde.jpg

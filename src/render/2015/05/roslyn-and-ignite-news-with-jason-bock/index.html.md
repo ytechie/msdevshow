@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 54
 title: 	Roslyn & Ignite News
 guest: Jason Bock
 date: 2015-05-08

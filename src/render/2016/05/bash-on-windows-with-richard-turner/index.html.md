@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 106
 title: BASH on Windows
 guest: Richard Turner
 guestImage: richard-turner.jpg

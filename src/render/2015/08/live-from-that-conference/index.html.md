@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 68
 title: Live from That Conference
 date: 2015-08-14
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0068.mp3

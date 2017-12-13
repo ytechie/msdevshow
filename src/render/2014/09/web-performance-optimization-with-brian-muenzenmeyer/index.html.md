@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 24
 title: Web Performance Optimization
 guest: Brian Muenzenmeyer
 date: 2014-09-28

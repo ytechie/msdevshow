@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 61
 title: Machine Learning and Project Oxford
 guest: Mat Velloso
 date: 2015-06-28

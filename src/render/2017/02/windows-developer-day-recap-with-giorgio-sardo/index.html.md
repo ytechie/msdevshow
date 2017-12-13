@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 139
 title: Windows Developer Day Recap
 guest: Giorgio Sardo
 guestImage: giorgio-sardo.jpg

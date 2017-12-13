@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 143
 title: Visual Studio 2017
 guest: Amanda Silver
 guestImage: amanda-silver.jpg

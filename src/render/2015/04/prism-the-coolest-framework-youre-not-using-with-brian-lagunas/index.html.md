@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 51
 title: Prism the Coolest Framework You're Not Using
 guest: Brian Lagunas
 date: 2015-04-17

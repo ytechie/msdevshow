@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 69
 title: Intro to Node.js
 guest: Sarah Sexton
 guestImage: sarah-sexton.jpg

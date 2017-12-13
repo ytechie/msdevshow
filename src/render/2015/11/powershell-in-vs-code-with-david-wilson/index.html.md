@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 81
 title: Powershell in VS Code
 guest: David Wilson
 guestImage: david-wilson.jpg

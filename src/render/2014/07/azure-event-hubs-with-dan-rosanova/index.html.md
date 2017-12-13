@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 15
 title: Azure Event Hubs
 guest: Dan Rosanova
 date: 2014-07-28

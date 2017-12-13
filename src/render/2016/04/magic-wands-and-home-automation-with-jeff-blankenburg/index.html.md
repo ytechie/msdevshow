@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 103
 title: Magic Wands and Home Automation
 guest: Jeff Blankenburg
 guestImage: jeff-blankenburg.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 34
 title:  Real Developer Potpourri 
 guest: Trish Curry
 date: 2014-12-12

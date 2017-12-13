@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 4
 title: Mobile Development
 guest: Jeff Weber
 date: 2014-05-09

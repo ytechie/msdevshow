@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 120
 title: News, Home Automation, and Travel Tips
 date: 2016-09-04
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0120.mp3

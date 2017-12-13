@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 27
 title: Getting Rich with Ads
 guest: Robert Irving and Simon Jackson
 date: 2014-10-20

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 132
 title: Composition: The Windows Visual Layer
 guest: James Clarke
 guestImage: james-clarke.jpg

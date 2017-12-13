@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 158
 title: Functional Programming and F#
 guest:  Lena Hall
 guestImage:  lena-hall.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 144
 title: stdlib, Nodal, NtSeq, and the Future of FaaS
 guest: Keith Horwood
 guestImage: keith-horwood.jpg

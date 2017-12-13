@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 32
 title:  App Design for Monetization
 guest: Atley Hunter
 date: 2014-11-28

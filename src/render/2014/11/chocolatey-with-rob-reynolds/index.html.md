@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 30
 title:  Chocolatey
 guest: Rob Reynolds
 date: 2014-11-14

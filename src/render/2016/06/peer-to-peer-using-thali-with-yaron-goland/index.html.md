@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 109
 title: Peer to Peer using Thali
 guest: Yaron Goland
 guestImage: yaron-goland.jpg

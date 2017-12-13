@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 147
 title: Azure XPlat CLI 2.0
 guest: Jason R. Shaver
 guestImage: jason-shaver.jpg

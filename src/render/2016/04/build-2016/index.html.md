@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 100
 title: //Build/ 2016
 date: 2016-04-07
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0100.mp3

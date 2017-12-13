@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 104
 title: Prefix and Stackify
 guest: Matt Watson
 guestImage: matt-watson.jpg

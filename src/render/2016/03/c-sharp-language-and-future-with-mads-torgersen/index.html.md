@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 95
 title: C# Language and Future
 guest: Mads Torgersen
 guestImage: mads-torgersen.jpg

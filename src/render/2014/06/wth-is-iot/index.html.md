@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 10
 title: WTH is IoT?
 date: 2014-06-21
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0010.mp3

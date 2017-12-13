@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 111
 title: Power BI
 guest: Josh Caplan
 guestImage: josh-caplan.jpg

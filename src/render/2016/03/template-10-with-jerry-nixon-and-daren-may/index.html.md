@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 96
 title: Template 10
 guest: Daren May and Jerry Nixon
 guestImage: daren-and-jerry.jpg

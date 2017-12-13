@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 94
 title: Azure Data Lake
 guest: Matt Winkler
 guestImage: matt-winkler.jpg

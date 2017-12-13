@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 145
 title: Welcoming our new AI Overlords
 guest: David Crook
 guestImage: david-crook.jpg

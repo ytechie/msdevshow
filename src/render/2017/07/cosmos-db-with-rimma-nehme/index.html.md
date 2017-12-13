@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 159
 title: Cosmos DB
 guest:  Rimma Nehme
 guestImage:  rimma-nehme.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 11
 title: Azure
 guest: Eric D. Boyd
 date: 2014-06-27

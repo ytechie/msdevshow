@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 19
 title:	Azure Search
 guest: Liam Cavanagh
 date: 2014-08-26

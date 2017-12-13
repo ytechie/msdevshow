@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 55
 title: Azure vs AWS
 guest: Kevin Wittkopf
 guestImage: kevin-wittkopf.jpg

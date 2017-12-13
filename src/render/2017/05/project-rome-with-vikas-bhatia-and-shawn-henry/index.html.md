@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 153
 title: Project Rome
 guest: Vikas Bhatia and Shawn Henry
 guestImage: vikas-and-shawn.jpg

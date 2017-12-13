@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 149
 title: .NET Announcements
 guest: Scott Hunter
 guestImage: scott-hunter.jpg

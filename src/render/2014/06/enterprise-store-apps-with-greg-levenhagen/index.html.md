@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 9
 title: Enterprise Store Apps
 guest: Greg Levenhagen
 date: 2014-06-13

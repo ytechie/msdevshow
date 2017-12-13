@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 80
 title: Live at Microsoft
 guest: the MVP Summit
 guestImage: mvpsummit.jpg

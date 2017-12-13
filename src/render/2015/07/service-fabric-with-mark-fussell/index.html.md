@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 63
 title: Service Fabric
 guest: Mark Fussell
 guestImage: mark-fussell.jpg

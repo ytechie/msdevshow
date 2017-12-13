@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 50
 title: 	Node Tools for Visual Studio
 guest: Sara Itani
 date: 2015-04-10

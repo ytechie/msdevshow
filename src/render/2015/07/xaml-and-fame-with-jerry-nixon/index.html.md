@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 64
 title: XAML, Fame, and Hamburgers 
 guest: Jerry Nixon
 guestImage: jerry-nixon.jpg

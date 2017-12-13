@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 77
 title: PowerShell
 guest: Adam Driscoll
 guestImage: adam-driscoll.jpg

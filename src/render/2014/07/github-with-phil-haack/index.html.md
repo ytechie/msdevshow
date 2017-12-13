@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 12
 title: GitHub
 guest: Phil Haack
 date: 2014-07-04

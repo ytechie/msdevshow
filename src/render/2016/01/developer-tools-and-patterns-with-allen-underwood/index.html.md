@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 89
 title: Developer Tools and Patterns
 guest: Allen Underwood
 guestImage: allen-underwood.jpg

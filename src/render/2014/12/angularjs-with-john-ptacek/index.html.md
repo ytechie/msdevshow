@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 35
 title:  AngularJS
 guest: John Ptacek
 date: 2014-12-19

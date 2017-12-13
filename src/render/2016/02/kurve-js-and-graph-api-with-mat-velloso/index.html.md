@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 92
 title: Kurve.JS and Graph API
 guest: Mat Velloso
 guestImage: mat-velloso.jpg

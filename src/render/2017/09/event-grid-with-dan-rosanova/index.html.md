@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 167
 title: Event Grid
 guest:  Dan Rosanova
 guestImage:  dan-rosanova.jpg

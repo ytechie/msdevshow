@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 6
 title: Top 10 Windows App Mistakes
 guest: Jason Short
 date: 2014-05-24

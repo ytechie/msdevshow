@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 142
 title: A UWP Visual Studio Shell Experiment
 guest: Thomas Claudius Huber
 guestImage: thomas-huber.jpg

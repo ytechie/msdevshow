@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 40
 title: Dev Ops
 guest: Steven Murawski
 date: 2015-01-23

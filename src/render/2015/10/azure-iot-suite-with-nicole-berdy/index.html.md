@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 76
 title: Azure IoT Suite
 guest: Nicole Berdy
 guestImage: nicole-berdy.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 48
 title: Cross Platform Voice and Women in Tech
 guest: Lori LaLonde
 date: 2015-03-27

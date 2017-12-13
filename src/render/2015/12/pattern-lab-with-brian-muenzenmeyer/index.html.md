@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 85
 title: Pattern Lab
 guest: Brian Muenzenmeyer
 guestImage: brian-muenzenmeyer.jpg

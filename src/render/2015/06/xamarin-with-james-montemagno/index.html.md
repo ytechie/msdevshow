@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 60
 title: 	Xamarin
 guest: James Montemagno
 date: 2015-06-23

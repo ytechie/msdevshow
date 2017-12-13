@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 112
 title: Microsoft Bot Framework
 guest: Dan Driscoll
 guestImage: dan-driscoll.jpg

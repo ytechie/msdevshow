@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 28
 title: How to Get Your Boss to Pay for Azure
 guest: Kenny Young
 date: 2014-10-27

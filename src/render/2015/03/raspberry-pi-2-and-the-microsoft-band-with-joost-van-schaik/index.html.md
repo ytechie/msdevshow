@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 46
 title: Raspberry PI 2 and the Microsoft Band 
 guest: Joost van Schaik
 date: 2015-03-13

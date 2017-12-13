@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 151
 title: Visual Studio for Mac
 guest: Joeseph Hill
 guestImage: joeseph-hill.jpg

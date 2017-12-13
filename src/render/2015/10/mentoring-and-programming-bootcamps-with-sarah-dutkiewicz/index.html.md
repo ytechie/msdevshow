@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 78
 title: Mentoring and Programming Bootcamps
 guest: Sarah Dutkiewicz
 guestImage: sarah-dutkiewicz.jpg

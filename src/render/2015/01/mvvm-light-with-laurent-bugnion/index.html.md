@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 39
 title: MVVM Light
 guest: Laurent Bugnion
 date: 2015-01-16

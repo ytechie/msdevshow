@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 166
 title: That Conference 2017 Part 3
 date: 2017-08-27
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0166.mp3

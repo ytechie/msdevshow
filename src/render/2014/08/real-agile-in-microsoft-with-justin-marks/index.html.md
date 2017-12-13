@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 20
 title:	Real Agile in Microsoft
 guest: Justin Marks
 date: 2014-08-29

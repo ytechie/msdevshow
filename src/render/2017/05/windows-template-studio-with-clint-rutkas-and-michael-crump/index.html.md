@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 154
 title: Windows Template Studio
 guest: Clint Rutkas and Michael Crump
 guestImage: clint-and-michael.jpg

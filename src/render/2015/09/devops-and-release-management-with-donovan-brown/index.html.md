@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 74
 title: DevOps and Release Management
 guest: Donovan Brown
 guestImage: donovan-brown.jpg

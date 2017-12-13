@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 71
 title: SQL Server 2016 and Azure SQL Database
 guest: Neeraj Joshi
 guestImage: neeraj-joshi.jpg

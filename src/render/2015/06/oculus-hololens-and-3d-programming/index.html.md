@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 58
 title: Oculus, Hololens, and 3D Programming
 guest: Rene Schulte
 guestImage: rene-schulte.jpg

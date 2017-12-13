@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 98
 title: Mesosphere, Docker, & Containers
 guest: Aaron Williams and Bruno Terkaly
 guestImage: aaron-and-bruno.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 45
 title: Get Your Dream Job
 guest: Lindsey Garrity
 date: 2015-03-06

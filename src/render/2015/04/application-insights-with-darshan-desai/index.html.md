@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 49
 title: Application Insights
 guest: Darshan Desai
 date: 2015-04-03

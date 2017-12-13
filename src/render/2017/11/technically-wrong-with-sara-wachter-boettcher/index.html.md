@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 172
 title: Technically Wrong
 guest:  Sara Wachter-Boettcher
 guestImage: sara-wachter-boettcher.jpg

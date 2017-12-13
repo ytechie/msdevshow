@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 82
 title: VS Connect 2015
 guest: Brandon Martinez
 guestImage: brandon-martinez.jpg

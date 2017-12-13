@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 43
 title: ASP.NET 5 and More
 guest: Scott Hanselman
 date: 2015-02-16

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 133
 title: Azure Notebooks
 guest: Chris Wilcox
 guestImage: chris-wilcox.jpg

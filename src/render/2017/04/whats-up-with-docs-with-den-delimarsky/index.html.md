@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 148
 title: What's up with Docs
 guest: Den Delimarsky
 guestImage: den-delimarsky.jpg

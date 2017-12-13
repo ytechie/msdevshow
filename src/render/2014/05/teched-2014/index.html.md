@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 5
 title: TechEd 2014
 date: 2014-05-19
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0005.mp3

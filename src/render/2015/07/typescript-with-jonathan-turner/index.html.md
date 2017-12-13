@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 65
 title: Typescript 
 guest: Jonathan Turner
 guestImage: jonathan-turner.jpg

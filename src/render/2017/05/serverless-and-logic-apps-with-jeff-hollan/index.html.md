@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 152
 title: Serverless
 guest: Jeff Hollan
 guestImage: jeff-hollan.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 3
 title: April 25th, 2014
 date: 2014-04-25
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3

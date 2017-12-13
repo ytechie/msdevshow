@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 29
 title: Select * from Awesome
 guest: Jes Borland
 date: 2014-11-03

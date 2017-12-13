@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 73
 title: Touch Interfaces That Don't Suck
 guest: David Washington
 guestImage: david-washington.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 174
 title: Connect() and Mile of Music
 guest:  Jared Kuehn
 guestImage: jared-kuehn.jpg

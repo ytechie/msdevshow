@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 23
 title: Web Essentials and SideWaffle
 guest: Mads Kristensen
 date: 2014-09-22

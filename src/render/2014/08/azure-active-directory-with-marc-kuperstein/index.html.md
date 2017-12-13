@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 17
 title:	Azure Active Directory
 guest: Marc Kuperstein
 date: 2014-08-08

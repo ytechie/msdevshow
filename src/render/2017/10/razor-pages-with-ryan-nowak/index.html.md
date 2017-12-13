@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 171
 title: Razor Pages
 guest:  Ryan Nowak
 guestImage: placeholder.png

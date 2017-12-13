@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 97
 title: The Pegasus Mission
 guest: Matt Long
 guestImage: matt-long.jpg

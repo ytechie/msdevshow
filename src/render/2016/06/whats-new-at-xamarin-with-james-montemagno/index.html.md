@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 110
 title: What's new at Xamarin
 guest: James Montemagno
 guestImage: james-montemagno.jpg

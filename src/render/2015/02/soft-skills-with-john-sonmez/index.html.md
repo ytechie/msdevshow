@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 44
 title: Soft Skills
 guest: John Sonmez
 date: 2015-02-23

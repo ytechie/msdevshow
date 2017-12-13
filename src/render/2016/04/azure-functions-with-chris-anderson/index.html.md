@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 102
 title: Azure Functions
 guest: Chris Anderson
 guestImage: chris-anderson.jpg

@@ -6,7 +6,7 @@ enablePageComments: false
 
 ### Carl Schweitzer
 
-Carl Schweitzer is a software engineering consultant with [Concurrency Inc.](http://www.concurrency.com/) in Wisconsin. He has a diversified experience in a wide array of technologies utilizing the Microsoft development platforms. He has a passion for mobile development and enjoys teaching and speaking on Windows Phone and other client topics.
+Carl Schweitzer is a software engineer for Microsoft in Wisconsin. He has a diversified experience in a wide array of technologies utilizing the Microsoft development platforms. He has a passion for mobile development and enjoys teaching and speaking on Windows Client, IoT, and other client topics.
 
 ![Carl Schweitzer](/images/CarlHeadshot.jpg)
 

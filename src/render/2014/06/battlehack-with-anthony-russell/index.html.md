@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 8
 title: BattleHack!
 guest: Anthony Russell
 date: 2014-06-08

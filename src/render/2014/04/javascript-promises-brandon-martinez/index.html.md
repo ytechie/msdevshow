@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 2
 title: JavaScript Promises
 guest: Brandon Martinez
 date: 2014-04-18

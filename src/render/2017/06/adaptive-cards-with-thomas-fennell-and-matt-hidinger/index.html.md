@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 156
 title: Adaptive Cards
 guest: Thomas Fennnel and Matt Hidinger
 guestImage: thomas-and-matt.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 114
 title: Localization and Globalization
 guest: Lori Lalonde
 guestImage: lori-lalonde.jpg

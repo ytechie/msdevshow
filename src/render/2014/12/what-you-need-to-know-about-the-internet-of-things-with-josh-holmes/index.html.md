@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 36
 title: What You Need to Know about the Internet of Things
 guest: Josh Holmes
 date: 2014-12-26

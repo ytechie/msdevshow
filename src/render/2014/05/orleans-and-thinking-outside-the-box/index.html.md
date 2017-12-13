@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 7
 title: Orleans & Thinking Outside the Box
 date: 2014-05-30
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0007.mp3

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 70
 title: Visual Studio Code
 guest: Chris Dias and Erich Gamma
 guestImage: chris-and-erich.jpg

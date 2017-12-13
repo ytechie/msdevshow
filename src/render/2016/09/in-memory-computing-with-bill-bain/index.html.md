@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 121
 title: In-Memory Computing
 guest: Bill Bain
 guestImage: bill-bain.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 42
 title: Raygun
 guest: John-Daniel Trask
 date: 2015-02-09

@@ -1,5 +1,6 @@
 ---
 layout: post
+episodeNumber: 161
 title: Resumes, Interviews, and Negotiation
 guest:  Josh Doody
 guestImage:  josh-doody.jpg
