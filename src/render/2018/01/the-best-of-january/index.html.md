@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 178
 title: The Best of January
 date: 2018-01-25
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0178.mp3
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow0178.mp3
 --- 
 
 ### News
