@@ -29,4 +29,4 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0179.mp3
 
 ### Azure Pick of the Week
 
- - [Event Grid has gone GA](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-event-grid/)](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-event-grid/)
+ - [Event Grid has gone GA](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-event-grid/)
