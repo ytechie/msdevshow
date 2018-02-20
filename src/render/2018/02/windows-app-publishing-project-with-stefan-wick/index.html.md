@@ -2,8 +2,8 @@
 layout: post
 episodeNumber: 181
 title: Desktop Bridge and the App Packaging Project
-guest:  Stefen Wick
-guestImage: stefen-wick.jpg
+guest:  Stefan Wick
+guestImage: stefan-wick.jpg
 date: 2018-02-19
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0181.mp3
 --- 
@@ -15,7 +15,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0181.mp3
  - [Key iPhone Source Code Gets Posted Online in 'Biggest Leak in History'](https://motherboard.vice.com/en_us/article/a34g9j/iphone-source-code-iboot-ios-leak)
     - [The leaked Apple source code mixes tabs and spaces.](https://twitter.com/StackSmashing/status/961658232841400320)
 
-### Stefen Wick
+### Stefan Wick
 
  - [@StefanWickDev](https://twitter.com/StefanWickDev)
 
