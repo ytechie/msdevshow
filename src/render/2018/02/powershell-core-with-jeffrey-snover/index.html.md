@@ -10,6 +10,9 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0182.mp3
 
 ### Jeffery Snover
 
+This week we have Jeffrey Snover, a Technical Fellow at Microsoft. He invented PowerShell, was one of only 3 Chief Architects for Windows Server, and is currently leading the Azure Infrastructure and Management team where he focuses on Azure Stack.
+
+
  - [@jsnover](https://twitter.com/jsnover)
  - [LinkedIn](https://www.linkedin.com/in/jeffreysnover/)
  - [Wikipedia](https://en.wikipedia.org/wiki/Jeffrey_Snover)
