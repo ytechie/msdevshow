@@ -13,9 +13,6 @@ cacheable: true
     </nav>
     <nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsors</h2>
-			<a href="http://www.aspose.com/" title="Aspose">
-				<img src="/images/sidebar1.jpg" title="Aspose" />
-			</a>
 			<a href="https://raygun.com/lp/ms-dev-show" title="Raygun">
 				<img src="/images/sidebar2.jpg" title="Raygun" />
 			</a>
