@@ -1,0 +1,43 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: msdevshow-loadbalancer
+spec:
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80
+  type: LoadBalancer
+  selector:
+    app: msdevshow
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: msdevshow
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      k8s-app: msdevshow
+      app: msdevshow
+  template:
+    metadata:
+      labels:
+        k8s-app: msdevshow
+        app: msdevshow
+      name: msdevshow
+    spec:
+      containers:
+      - image: ytechie/msdevshow
+        imagePullPolicy: Always
+        name: msdevshow
+        resources: {}
+        securityContext:
+          privileged: false
+        terminationMessagePolicy: File
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
