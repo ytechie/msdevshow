@@ -16,6 +16,10 @@ The _MS Dev Show_ site utilizes Docpad, a nodejs-based static site generation to
 If you just want to run a local copy of the site using Docker, simply run:
 `docker run -i -d -P ytechie/msdevshow`
 
+## Deploying to Kubernetes
+
+kubectl apply -f https://raw.githubusercontent.com/ytechie/msdevshow/master/msdevshow-k8s.yaml
+
 ### Installation
 
 1. Download and install [nodejs](http://nodejs.org/) (use default options)
@@ -32,4 +36,3 @@ And done! These guidelines should work for both Windows and Mac OS X.
 1. From the command prompt/terminal, navigate to your git repository folder
 2. Run the command `docpad run`, this will start a local server and begin rendering your files
 3. Open your favorite web browser and navigate to [http://localhost:9778/](http://localhost:9778/)
-
