@@ -28,7 +28,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0183.mp3
  - [Upgrading AngularJS Blog ](https://medium.com/@upgradingajs)
  - [Upgrading from AngularJS -- Docs](https://angular.io/guide/upgrade)
  - [SurviveJS Webpack Guide ](https://survivejs.com/webpack/)
- - [https://github.com/urish/ng-lift ](http://ng-lift)
+ - [ng-lift](https://github.com/urish/ng-lift)
  - [Which one is better: React + Redux vs Angular 2?](https://www.quora.com/Which-one-is-better-React-+-Redux-vs-Angular-2/answer/Jeff-Whelpley)
 
 ### Azure Pick of the Week
