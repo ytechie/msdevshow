@@ -14,7 +14,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0185.mp3
 
 ### Tejbir Sodhan
 
-Colin Birge and Tejbir Sodan both work on the Education Engineering team in the Vancouver office in Canada.
+Colin Birge and Tejbir Sodhan both work on the Education Engineering team in the Vancouver office in Canada.
 
  - [LinkedIn](https://www.linkedin.com/in/tejbirsodhan/)
 
