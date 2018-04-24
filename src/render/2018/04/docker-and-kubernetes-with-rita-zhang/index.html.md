@@ -27,12 +27,6 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0186.mp3
  - [Wordpress AI Image tagger ](https://youtu.be/Dv_qJhn8KM4)
     - [@MrAhmadAwais](https://twitter.com/MrAhmadAwais/status/984564955176493057)
 
-### Dev Tip of the Week
-
- - [.NET Core Source Browser ](https://source.dot.net/)
-    - [Int32](https://source.dot.net/#System.Private.CoreLib/shared/System/Int32.cs,225942ed7b7a3252)
-    - [Crypto](https://source.dot.net/#System.Security.Cryptography.ProtectedData/System/Security/Cryptography/ProtectedData.cs)
-
 ### Rita Zhang
 
  - [@ritazzhang](https://twitter.com/ritazzhang)
@@ -54,3 +48,9 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0186.mp3
  - [kubernetes.io](https://kubernetes.io)
     - [Extend the Kubernetes API with Custom Resource Definitions](https://kubernetes.io/docs/tasks/access-kubernetes-api/extend-api-custom-resource-definitions/)
  - [Why Kubernetes is Abbreviated k8s](https://medium.com/@rothgar/why-kubernetes-is-abbreviated-k8s-905289405a3c)
+
+### Dev Tip of the Week
+
+ - [.NET Core Source Browser ](https://source.dot.net/)
+    - [Int32](https://source.dot.net/#System.Private.CoreLib/shared/System/Int32.cs,225942ed7b7a3252)
+    - [Crypto](https://source.dot.net/#System.Security.Cryptography.ProtectedData/System/Security/Cryptography/ProtectedData.cs)
