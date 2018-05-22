@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNumber: 187
-title: Practical Software Unti Testing
+title: Practical Software Unit Testing
 guest:  John Callaway and Clayton Hunt
 guestImage: john-and-clayton.jpg
 date: 2018-05-06
