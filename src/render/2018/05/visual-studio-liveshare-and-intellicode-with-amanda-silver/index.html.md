@@ -20,10 +20,10 @@ Amanda Silver is the Director of Program Management for Visual Studio, VS Code, 
 
 ------------------------------------------------
 
-[VS Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
-[Visual Studio Live Share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
-[VS Code Live Share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+ - [VS Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
+ - [Visual Studio Live Share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
+ - [VS Code Live Share extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ------------------------------
 
-[IntelliCode FAQ](https://docs.microsoft.com/en-us/visualstudio/ide/not-in-toc/intellicode-faq)
+ - [IntelliCode FAQ](https://docs.microsoft.com/en-us/visualstudio/ide/not-in-toc/intellicode-faq)
