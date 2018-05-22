@@ -27,5 +27,3 @@ Scott Hunter is the Director of Program Management for the .NET platform
 ------------------------------------------------
 
  - [.NET Core 3 and Support for Windows Desktop Applications](https://blogs.msdn.microsoft.com/dotnet/2018/05/07/net-core-3-and-support-for-windows-desktop-applications/)
-
-> <http://msdevshow.com/2018/05/net-core-3-past-and-future-with-scott-hunter-and-mike-harsh/>
