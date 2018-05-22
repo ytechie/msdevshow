@@ -4,7 +4,7 @@ episodeNumber: 190
 title: LiveShare & IntelliCode
 guest: Amanda Silver
 guestImage: amanda-silver.jpg
-date: 2018-05-141
+date: 2018-05-14
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0190.mp3
 --- 
 
