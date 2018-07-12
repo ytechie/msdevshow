@@ -6,7 +6,6 @@ guest: John Vintzel
 guestImage: john-vintzel.jpg
 date: 2018-07-11
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0197.mp3
-ignored: true
 --- 
 
 ### News
