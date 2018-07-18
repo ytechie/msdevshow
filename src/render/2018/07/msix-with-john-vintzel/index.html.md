@@ -28,6 +28,7 @@ John Vintzel is a Program Manager Lead in the Developer Platform division. His 
  - [MSIX Tech Community](https://aka.ms/msixcommunity)
  - [Microsoft announces new “MSIX” app packaging format](https://mspoweruser.com/microsoft-announces-new-msix-app-packaging-format/)
  - [MSIX on GitHub](https://github.com/Microsoft/msix-packaging)
+ - [Package Support Framework](https://github.com/Microsoft/MSIX-PackageSupportFramework/)
 
 ### Azure Pick of the Week
 
