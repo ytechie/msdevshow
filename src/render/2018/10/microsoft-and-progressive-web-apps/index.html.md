@@ -4,7 +4,7 @@ episodeNumber: 203
 title: Microsoft and Progressive Web Apps
 guest: Josh Holmes
 guestImage:  josh-holmes.jpg
-date: 2017-10-17
+date: 2018-10-17
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0203.mp3
 --- 
 
