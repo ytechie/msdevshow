@@ -11,7 +11,7 @@
   "dependencies": {
     "cheerio": "^0.12.4",
     "coffee-script": "~1.6.3",
-    "docpad": "^6.82.5",
+    "docpad": "~6.79.4",
     "docpad-plugin-cleanurls": "~2.10.0",
     "docpad-plugin-coffeescript": "~2.6.0",
     "docpad-plugin-eco": "~2.2.1",
