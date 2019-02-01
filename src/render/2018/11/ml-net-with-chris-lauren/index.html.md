@@ -4,7 +4,7 @@ episodeNumber: 206
 title: ML.NET
 guest: Chris Lauren
 guestImage: chris-lauren.jpg
-date: 2019-11-02
+date: 2018-11-02
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0206.mp3
 --- 
 
