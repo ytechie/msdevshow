@@ -1,48 +1,52 @@
 ---
 layout: post
-episodeNumber: 206
-title: ML.NET
-guest: Chris Lauren
-guestImage: chris-lauren.jpg
-date: 2018-11-02
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0206.mp3
+episodeNumber: 210
+title: Hacking your Car
+date: 2019-02-04
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0210.mp3
 --- 
 
 ### News
 
- - [When AI Misjudgment Is Not an Accident -- Intentional bias is another way artificial intelligence could hurt us](https://blogs.scientificamerican.com/observations/when-ai-misjudgment-is-not-an-accident/)
- - [How machine learning systems sometimes suprise us](https://techcrunch.com/2018/11/13/how-machine-learning-systems-sometimes-surprise-us/)
- - [How to match "A B C" where A+B=C in RegEx: The Beast Reborn](http://www.drregex.com/2018/11/how-to-match-b-c-where-abc-beast-reborn.html)
- - [Wow! This AI Creates a Website just by looking at the Wireframe](https://twitter.com/larrykim/status/1059855516120297472/video/1)
+ - [Apple Bans Distribution of Facebook’s Internal Apps ](https://www.thurrott.com/cloud/social/198649/apple-bans-distribution-of-facebooks-internal-apps)
+ - [Localized Messaging is Important](https://twitter.com/marty/status/1082339657785008129/photo/1)
+ - [The Norwegian Consumer Council has filed a complaint against Google. Google is accused of using deceptive design and misleading information, which results in users accepting to be constantly tracked](https://www.forbrukerradet.no/side/google-manipulates-users-into-constant-tracking)
+ - [Self-driving cars will "cruise" to avoid paying to park](https://news.ucsc.edu/2019/01/millardball-vehicles.html)
+ - [Modern Weather Forecasts Are Stunningly Accurate](https://www.theatlantic.com/science/archive/2019/01/polar-vortex-weather-forecasting-good-now/581605/)
 
-### Chris Lauren
+### Truck Hacking
 
-Chris has been a Program Manager at Microsoft for almost 19 years focused on Big Data, Machine Learning and AI the whole time. He currently leads the ML.NET team and the Azure Machine Learning PM team which makes it possible to deploy and use machine learning models in your apps and services at scale.
+ - Forscan
+    - [forscan.org](https://forscan.org/)
+    - [FORScan FAQ](https://forscan.org/faq.html)
+    - [FORScan Codes for 2017-2019 Ford Super Duty](https://docs.google.com/spreadsheets/d/1qf2gYgkhmsX-dnFO3Ki0nYUvr7aeLKsHsA0WxhDns1s/edit?usp=sharing)
+ - Jason: F-350 Lariat Diesel
+    - Fog Lights with High Beam
+    - LED and some HALOGEN
+    - Double Horn Honk Disable
+    - Show Temps on Gauges
+    - Remove Sirius from Sync
+    - Disable all Seat Belt Chimes
+    - Secure Idle (Police Mode)
+    - Add DPF Filter % to screen
+ - Carl: F-250 XLT Gas
+    - Fog Lights with High Beam
+    - LED and some HALOGEN
+    - Remember Fog Lights and High Beams on Startup
+    - Enter NAV Destination and viewing texts while vehicle is in motion
+    - Disable Door Lock Horn Honk
+    - Future: Remove Sirius from Sync
+ - Torque Pro 2
+    - [Torque Pro (OBD 2 & Car)](https://play.google.com/store/apps/details?id=org.prowl.torque&hl=en_US)
 
- - [@clauren42](https://twitter.com/clauren42)
+### Jason's Home Theater
 
------------------------------------------------------
+ - [klipsch.com](https://www.klipsch.com)
+ - [LG 65" 4k OLED TV](https://amzn.to/2GgBLKG)
+ - Test video: [LG 4K DEMO HDR 2018 (60FPS) OLED PERPECT BLACK](https://www.youtube.com/watch?v=7Y9nX0QHqzA)
 
- - [Microsoft AI Lab](https://www.ailab.microsoft.com/)
- - [ML.NET on GitHub](https://github.com/dotnet/machinelearning)
- - [Nimbus](https://docs.microsoft.com/en-us/NimbusML/overview)
-   - [Nimbus on GitHub](https://github.com/Microsoft/NimbusML)
- - [Pandas](https://pandas-ml.readthedocs.io/en/latest/)
-    - [Pandas on GitHub](https://github.com/pandas-ml/pandas-ml)
- - [SciKit](https://scikit-learn.org/stable/index.html)
- - [ML.NET Samples on Github](https://github.com/dotnet/machinelearning-samples)
- - [ML.NET Tutorials](https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/)
- - [ONNX](http://onnx.ai/)
+### Reclaiming audio gear for Office PC
 
- ### Azure Pick of the Week
-
- - [Azure portal and the new account manager. Making it easy to switch between accounts in the portal](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Azure-portal-and-the-new-account-manager/ba-p/283709)
-
-### Website of the Week
-
- - [Absolutely lovely free wallpapers.](https://wallpaperhub.app/)
-
-### Dev Tip of the Week
-
- - [Helpful Hotkeys - A collection of some of my favorite lesser known keyboard shortcuts](https://mobile.twitter.com/i/moments/790312594389110784)
- - [Windows 10 now has a BUILT-IN Clipboard Manager. Just press WIN+V instead of CTRL+V. Syncs across devices optionally as well.](https://twitter.com/shanselman/status/1061465638839828480/photo/1)
+ - [JBL 160SISAT Speakers](https://www.amazon.com/JBL-SCS160SI-150-Watt-Discontinued-Manufacturer/dp/B0000B160U)
+    - 2.6 pounds each speaker!
+ - [Grace Digital GDI-BTAR513 100 Watt Digital Integrated Stereo Amplifier with Built-In AptX Bluetooth Wireless Stereo Receiver ](https://www.amazon.com/gp/product/B00PLCMZ8W/)
