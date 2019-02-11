@@ -11,8 +11,8 @@
 
 The MS Dev Show is lovingly crafted for you each week 
 by Carl Schweitzer (@carlschweitzer) and Jason Young 
-(@ytechie) directly out of their home offices in 
-Wisconsin and Washington respectively. 
+(@ytechie) directly out of their cozy home offices in 
+Wisconsin, aka the Frozen Tundra. 
 
 ======================================================
 /*                      THANKS                      */
