@@ -1,7 +1,7 @@
 ---
 layout: post
 episodeNumber: 216
-title: CLoud Native Computing Foundation 
+title: Cloud Native Computing Foundation 
 guest: Alessandro Vozza
 guestImage: alessandro-vozza.jpg
 date: 2019-03-30
