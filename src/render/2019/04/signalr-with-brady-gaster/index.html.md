@@ -1,43 +1,35 @@
 ---
 layout: post
-episodeNumber: 216
-title: Cloud Native Computing Foundation 
-guest: Alessandro Vozza
-guestImage: alessandro-vozza.jpg
-date: 2019-03-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0216.mp3
+episodeNumber: 217
+title: SignalR 
+guest: Brady Gaster
+guestImage: brady-gaster.jpg
+date: 2019-04-30
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0217.mp3
 --- 
 
 ### News
 
- - [DTrace on Windows](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/DTrace-on-Windows/ba-p/362902)
-    - [Open DTrace on GitHub](https://github.com/opendtrace)
-    - [Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-    - [DTrace on Windows Branch](https://github.com/opendtrace/opendtrace/tree/windows)
- - [Ads cost you 10% of your users](https://twitter.com/gwern/status/1103855323100708866)
-    - [Pandora Learns the Cost of Ads and of Subscruptions](https://www.wired.com/story/pandora-learns-the-cost-of-ads-and-of-subscriptions/)
-    - [Mozilla Research: The Effect of Ad Blocking on User Engagement with the Web](https://research.mozilla.org/files/2018/04/The-Effect-of-Ad-Blocking-on-User-Engagement-with-the-Web.pdf)
-    - LinkedIn Charts:
-    - ![linkedin ads statistics chart](linkedin.png)
- - [My Salary Progression in Tech](https://georgestocker.com/2019/03/14/my-salary-progression-in-tech/)
-    - Form: [http://msdv.sh/AnonymousPayForm](http://msdv.sh/AnonymousPayForm)
-    - Results: [http://msdv.sh/AnonymousPayResults](http://msdv.sh/AnonymousPayResults)
+ - [How the AoE2 AI Thinks (ft. Promi)](https://www.youtube.com/watch?v=-S1CkfzEHSU)
+ - [Accenture sued over website redesign so bad it Hertz: Car hire biz demands $32m+ for 'defective' cyber-revamp](https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/)
+ - [Here's Why We Think Galaxy Folds Are Failing](https://ifixit.org/blog/16025/galaxy-fold-failure-causes/)
+ - [These are the Features Microsoft Turned Off or Replaced in Chromium-Based Edge](https://www.thurrott.com/cloud/web-browsers/microsoft-edge/204585/these-are-the-features-microsoft-turned-off-or-replaced-in-chromium-based-edge)
+ - [Microsoft changes how Windows 10 disconnects USB storage devices](https://www.zdnet.com/article/microsoft-changes-how-windows-10-disconnects-usb-storage-devices/)
 
-### Allesandro Vozza 
+### Brady Gaster 
 
-Alessandro works in Commercial Software Engineering at Microsoft. He's also a community organizer and participant, and an ambassador for the Cloud Native Computing Foundation.
+Brady Gaster is a Senior Program Manager on the ASP .NET core team
 
- - [@bongo](https://twitter.com/bongo)
- - [LinkedIn](https://www.linkedin.com/in/alessandrovozza)
- - [GitHub](https://github.com/ams0/)
+ - [@bradygaster](https://twitter.com/bradygaster)
+ - [bradygaster.com](http://www.bradygaster.com/)
+ - [GitHub](https://github.com/bradygaster)
+ - [Ch9](https://channel9.msdn.com/Niners/bradygaster)
+ - [LinkedIn](https://www.linkedin.com/in/bradygaster/)
 
--------------------------------------------------------------------
+---------------------------------------
 
- - [cncf.io](https://www.cncf.io/)
- - [Members](https://www.cncf.io/about/members/)
- - [Ambassadors](https://www.cncf.io/people/ambassadors/)
- - [CNCF Github](https://github.com/cncf)
- - [Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc)
- - [Kubecon Events](https://www.cncf.io/community/kubecon-cloudnativecon-events/)
- - [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/)
- - [CNCF Landscape](https://landscape.cncf.io/)
+ - [SignalR Docs](https://docs.microsoft.com/en-us/aspnet/signalr/)
+ - [Streaming](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-2.2)
+    - [Streamr Website](https://streamr.azurewebsites.net/)
+ - [NSwag](https://github.com/RicoSuter/NSwag/)
+ - [Scale Out](https://docs.microsoft.com/en-us/aspnet/signalr/overview/performance/scaleout-in-signalr)
