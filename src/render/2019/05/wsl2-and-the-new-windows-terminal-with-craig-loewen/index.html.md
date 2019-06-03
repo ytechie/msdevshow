@@ -1,0 +1,20 @@
+---
+layout: post
+episodeNumber: 220
+title: WSL2 and the new Windows Terminal
+guest: Craig Loewen
+guestImage: craig-loewen.jpg
+date: 2019-05-19
+audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0220.mp3
+--- 
+
+### Craig Loewen
+
+Craig Loewen is a Program Manager for the Windows Subsystem for Linux.
+
+ - [@craigaloewen](https://twitter.com/craigaloewen)
+ - [craigloewen.com](http://www.craigloewen.com/)
+
+--------------------------------------------------------------
+
+ - [Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/)
