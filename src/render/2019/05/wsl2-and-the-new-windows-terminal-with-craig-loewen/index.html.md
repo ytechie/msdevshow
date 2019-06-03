@@ -8,6 +8,10 @@ date: 2019-05-19
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0220.mp3
 --- 
 
+### Build 2019
+
+This episode was recorded live at Build 2019. 
+
 ### Craig Loewen
 
 Craig Loewen is a Program Manager for the Windows Subsystem for Linux.

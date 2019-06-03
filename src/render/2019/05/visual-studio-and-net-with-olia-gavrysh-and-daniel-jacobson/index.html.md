@@ -8,6 +8,10 @@ date: 2019-05-28
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0221.mp3
 --- 
 
+### Build 2019
+
+This episode was recorded live at Build 2019. 
+
 ### Olia Gavrysh
 
 Olia is a Program Manager on the .NET team focusing on Windows Forms and porting to .NET Core 
