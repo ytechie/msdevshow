@@ -18,7 +18,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0223.mp3
 
 ### Steve Smith
 
-Steve Smith, who goes by Ardalis online, is an experienced software developer and architect who acts as a force multiplier for dev teams. Steve and his team provide training, coaching, mentoring and assessments. Steve is also a former US Army combat engineer officer and Iraq war veteran and has started and sold several businesses along with his wife and business partner Dr. Michelle Smith.
+Steve Smith, who goes by Ardalis online, is an experienced software developer and architect who acts as a force multiplier for dev teams. Steve and his team provide training, coaching, mentoring and assessments. Steve is also a former US Army combat engineer officer and Iraq war veteran and, along with his wife and business partner Dr. Michelle Smith, has started and sold several businesses.
 
  - [@ardalis](https://twitter.com/ardalis)
  - [ardalis.com](https://ardalis.com/)
