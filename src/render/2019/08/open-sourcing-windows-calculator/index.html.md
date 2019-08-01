@@ -18,23 +18,22 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0228.mp3
  - [Advancing Microsoft Azure reliability](https://azure.microsoft.com/en-us/blog/advancing-microsoft-azure-reliability/)
  - [Alternative Big O notations](https://twitter.com/PPathole/status/1155464941177987072)
  - ![Alternate Big-O Notation](big-o.png)
-[Book of News Build 2019](https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019-5.6.19-2.pdf)
+ - [Book of News Build 2019](https://news.microsoft.com/wp-content/uploads/prod/sites/558/2019/05/FINAL-Book-of-News-Build-2019-5.6.19-2.pdf)
 
 ### Dave Grochocki 
 
-		David Grochocki is a Senior Program manager at Microsoft working in the app space focusing on user experience.
-
+David Grochocki is a Senior Program manager at Microsoft working in the app space focusing on user experience.
 
  - [@dgrochocki](https://twitter.com/dgrochocki)
  - [GitHub](https://github.com/grochocki)
 
 ### Howard Wolosky
 
-		Howard Wolosky is a Senior Engineer at Microsoft for the past 18 years, working on VS, Windows Phone, and is now working across the first party apps built into windows.
-
+Howard Wolosky is a Senior Engineer at Microsoft for the past 18 years, working on VS, Windows Phone, and is now working across the first party apps built into windows.
 
  - [@QuackFu](https://twitter.com/QuackFu)
  - [GitHub](https://github.com/HowardWolosky)
+
 ----------------------------------------------
 
  - [Calculator](http://aka.ms/calculator)
