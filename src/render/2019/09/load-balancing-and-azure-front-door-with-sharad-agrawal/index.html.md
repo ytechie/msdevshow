@@ -20,6 +20,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0230.mp3
              - [GaN Chargers are getting more common](https://www.amazon.com/gp/product/B07PT7XMP9/)
  - [Why Angry Librarians Are Going to War With Publishers Over E-Books](https://slate.com/business/2019/09/e-book-library-publisher-buying-controversy-petition.html)
  - [Google AI/ML Comic](https://cloud.google.com/products/ai/ml-comic-1/)
+ - [Jason's new Work Laptop](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/new-xps-13-2-in-1-7390/spd/xps-13-7390-2-in-1-laptop/cax13w10p1c115)
 
 ### Sharad Agrawal
 
