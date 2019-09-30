@@ -16,7 +16,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0229.mp3
  - [npm install funding](https://github.com/standard/standard/issues/1381)
  - [Why our team cancelled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
  - [Null license plate backfires on owner](https://mashable.com/article/dmv-vanity-license-plate-def-con-backfire/)
-    - [Wisocnsin License Plate Rules](https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/validation.aspx)
+    - [Wisconsin License Plate Rules](https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/validation.aspx)
 
 -------------------------------------------------
 
