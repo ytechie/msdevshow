@@ -4,7 +4,6 @@ episodeNumber: 231
 title: VS Code Remote Development and More
 date: 2019-10-03
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0231.mp3
-ignore: true
 --- 
 
 ### News
