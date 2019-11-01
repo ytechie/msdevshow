@@ -23,7 +23,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0232.mp3
 
 - [Surface Laptop 3](https://www.youtube.com/watch?v=o3IQ1JrXnV8&feature=youtu.be)
     - The new Surface Laptop 3 provides the perfect balance of power and elegance. Now twice as fast with the same slim design and all-day battery life and offering a choice between colors - Matte Black, Cobalt, Platinum, or the all new Sandstone, materials - fabric or all metal aluminum chassis, size - 13.5” and 15” displays, and silicon - Intel 10th generation processor in the 13.5” and the custom AMD Ryzen Surface Edition in the 15”.
-    - [Microsoft Surface Laptop 3 (15-inch) Teardown - iFixit](https://www.ifixit.com/Teardown/Microsoft+Surface+Laptop+3+(15-inch)+Teardown/127277)
+    - [Microsoft Surface Laptop 3 (15-inch) Teardown - iFixit](https://msdv.sh/2qbRdBQ)
 - [Surface Pro 7](https://www.youtube.com/watch?v=V4Hwi3o2X0E&feature=youtu.be)
     - Surface Pro 7 has been redesigned from the inside out, now twice as fast with a new 10th generation Intel core processor, both USB-A and USB-C, and all-day battery. While Surface Pro 7 keeps the iconic design customers love and businesses rely on, it has more performance and amazing new experiences across Office.
 - [Surface Pro X](https://www.youtube.com/watch?v=v5SFBpMiaiQ)
