@@ -32,6 +32,6 @@
   "main": "./node_modules/docpad/bin/docpad-server",
   "scripts": {
     "start": "node ./node_modules/docpad/bin/docpad-server",
-    "build": "docker build -t ytechie/msdevshow ."
+    "build": "./build.sh"
   }
 }
