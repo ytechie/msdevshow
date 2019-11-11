@@ -31,6 +31,8 @@
   },
   "main": "./node_modules/docpad/bin/docpad-server",
   "scripts": {
-    "start": "node ./node_modules/docpad/bin/docpad-server"
+    "start": "node ./node_modules/docpad/bin/docpad-server",
+    "build": "./build.sh",
+    "push": "docker login -u ${dockerhub_user} -p ${dockerhub_password} && docker push ytechie/msdevshow"
   }
 }
