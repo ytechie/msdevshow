@@ -8,7 +8,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0234.mp3
 
 ### CSE OneWeek 2019
 
- - [Pepper the Azure connected face detecting conversational robot](https://en.wikipedia.org/wiki/ Pepper_(robot))
+ - [Pepper the Azure connected face detecting conversational robot](https://msdv.sh/33OW0In)
    - [Jackie Becker ](https://twitter.com/chatbotjackie)
    - [Jerry Nixon](https://twitter.com/jerrynixon)
  - Auto VIN number Image Validation
