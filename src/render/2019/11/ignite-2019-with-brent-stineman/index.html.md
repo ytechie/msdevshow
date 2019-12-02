@@ -4,7 +4,7 @@ episodeNumber: 235
 guest: Brent Stineman
 guestImage: brent-stineman.jpg
 title: Ignite 2019
-date: 2019-17-28
+date: 2019-11-17
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0235.mp3
 --- 
 
