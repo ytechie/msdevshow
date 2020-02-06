@@ -18,3 +18,15 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0236.mp3
  - [Microsoft Edge!](https://www.microsoft.com/edge/?form=MY01BL&OCID=MY01BL)
  - [Nerd Fonts](https://www.nerdfonts.com/)
  - [State of Remote Work 2020](https://remotework2020.remote.tools/2-state-of-remote-work.html#remote-work-doesn-t-mean-employees-are-not-working-but-probably-working-too-much)
+
+### Dev Tip of the Week
+
+Chrome / New Edge DevTools life hacks
+
+ - ↖️ Get the last element you inspected:
+    - $0
+ - If it's a <video>...
+   - 🏎 Change playback speed:
+      - $0.playbackRate = 2
+   - 🌠 Show picture-in-picture mode:
+      - $0.requestPictureInPicture()
