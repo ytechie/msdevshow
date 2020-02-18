@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ytechie/msdevshow.svg?branch=master)](https://travis-ci.org/ytechie/msdevshow)
+![Node CI](https://github.com/ytechie/msdevshow/workflows/Node%20CI/badge.svg)
 
 # The _MS Dev Show_ Site
 
