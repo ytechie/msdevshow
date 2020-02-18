@@ -83,6 +83,11 @@
 	    appInsights.trackPageView();
 
         </script>
+	
+	<script type="text/javascript">
+	  rg4js('apiKey', '3cISCIDbDv7MT5r3GuxHA');
+	  rg4js('enablePulse', true);
+	</script>
 
         <!-- /Scripts -->
     </body>
