@@ -23,10 +23,10 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0237.mp3
     - [Planned feature specs](https://github.com/microsoft/PowerToys/tree/feature/keyboardmanager/doc/specs)
        - SVG Previewer
        - Markdown Previewer
-       - PowerLauncher (quicklauncher)
-       - [Process terminate tool](https://github.com/microsoft/PowerToys/blob/master/doc/specs/Terminate%20Spec.md)
-       - [Animated gif screen recorder](https://github.com/microsoft/PowerToys/blob/master/doc/specs/Gif-Maker.md)
-       - [Keyboard Manager](https://github.com/microsoft/PowerToys/blob/feature/keyboardmanager/doc/specs/KeyboardManager.md)
+       - [PowerLauncher (quicklauncher)](https://github.com/microsoft/PowerToys/wiki/Launcher)
+       - [Process terminate tool](https://github.com/microsoft/PowerToys/wiki/Terminate-Spec)
+       - [Animated gif screen recorder](https://github.com/microsoft/PowerToys/wiki/Gif-Maker)
+       - [Keyboard Manager](https://github.com/microsoft/PowerToys/wiki/Keyboard-Manager)
 
 ### Clint Rutkas
 
