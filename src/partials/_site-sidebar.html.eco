@@ -13,7 +13,7 @@ cacheable: true
     </nav>
     <nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsors</h2>
-			<a href="https://raygun.com/lp/ms-dev-show" title="Raygun">
+			<a href="https://raygun.com/?utm_medium=podcast_banner&utm_source=msdev&utm_campaign=homepage" title="Raygun">
 				<img src="/images/sidebar2.jpg" title="Raygun" />
 			</a>
     </nav>
