@@ -21,8 +21,14 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0241.mp3
 
 ![Hey, honey, the socond monitor was one thing, but it seems like quite the slippery slope from home office to evil lair.](homeoffice.jpg)
  - [Uplift Desk](https://www.upliftdesk.com/) - Not a sponsor! Both of us now have a version of these great desks.
- - Wire Management - Jason spent a great deal of effort to hide 
+ - Wire Management
+     - [Cable Management Sleeve](https://amzn.to/31wg3MZ)
+     - [Desktop Power Grommet](https://amzn.to/3gCJq4u)
+ - [Invisible under-desk charger](https://www.mockett.com/wcs4-95.html)
  - Wall Decorations
+     - [Nanoleaf Wall Lights](https://nanoleaf.me/en/)
+     - [Cloud LED Light](https://amzn.to/3joQT9j)
+     - [Heart LED Light](https://amzn.to/2FVgjwC)
  - Lighting
    - [Ikea GRÖNÖ](https://www.ikea.com/us/en/p/groenoe-table-lamp-with-led-bulb-frosted-glass-white-70424982/) - Great lamp for ambient light.
    - [Lampat LED Desk Lamp](https://www.amazon.com/gp/product/B00KSQ8ZNA/) - LED, dimmable, and can adjust color or warmth of the light. Excellent task lighting.
