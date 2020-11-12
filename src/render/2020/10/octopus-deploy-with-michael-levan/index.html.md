@@ -10,6 +10,8 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0242.mp3
 
 ### News
 
+![Tutorial Selector](tutorial.png)
+
  - [Building an invisible PC](https://www.youtube.com/watch?v=Perqf0dOGLk) \[YouTube Link\]
  - [Debug Visualizer for VS Code](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
  - [Introducing the half type in .NET 5](https://devblogs.microsoft.com/dotnet/introducing-the-half-type/)
