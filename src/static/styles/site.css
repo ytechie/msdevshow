@@ -929,7 +929,7 @@ Static instance of the old sass files
           #container #site-content-container #site-sidebar nav h2 {
             background: #ef9587;
             color: #fff;
-            text-shadow: 2px 2px #666;
+            text-shadow: 2px 2px #333;
             padding: 0.6em 0.5em 0 0.5em; }
           #container #site-content-container #site-sidebar nav ul {
             margin: 0;
@@ -969,7 +969,6 @@ Static instance of the old sass files
           #container #site-content-container #site-sidebar nav#share-nav .view-all {
             background: #ef9587;
             color: #fff;
-            text-shadow: 2px 2px #666;
             padding: 0.5em;
             width: 100%;
             display: block;
@@ -1007,6 +1006,7 @@ Static instance of the old sass files
           #container #site-content-container #site-sidebar nav#latest-shows-nav .view-all {
             background: #ef9587;
             color: #fff;
+            text-shadow: 1px 1px #333;
             padding: 0.5em;
             width: 100%;
             display: block;
