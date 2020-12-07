@@ -6,7 +6,6 @@ guest: Jon Sequeira and Kathleen Dollard
 guestImage: jon-and-kathleen.jpg
 date: 2020-12-07
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0245.mp3
-ignore: true
 --- 
 
 ### News
