@@ -13,19 +13,14 @@ cacheable: true
     </nav>
     <nav class="sidebar-nav" id="sponsor-nav">
     	<h2>Sponsors</h2>
-			<a href="https://raygun.com/?utm_medium=podcast_banner&utm_source=msdev&utm_campaign=homepage" title="Raygun">
-				<img src="/images/sidebar2.jpg" title="Raygun" />
+			<a href="http://www.martinezmedia.net/" title="Martinez Media">
+				<img src="/images/sidebar3.png" title="Martinez Media" />
 			</a>
     </nav>
     <nav class="sidebar-nav" id="share-nav">
     	<h2>Social</h2>
     	<ul>
-			<li>
-				<a href="https://www.facebook.com/msdevshow" title="Like the MS Dev Show on Facebook">
-					<img src="/images/share-facebook.png" title="Like the MS Dev Show on Facebook" />
-				</a>
-			</li>
-			<li>
+|			<li>
 				<a href="https://twitter.com/msdevshow" title="Follow @msdevshow on Twitter">
 					<img src="/images/share-twitter.png" title="Follow @msdevshow on Twitter" />
 				</a>
@@ -36,7 +31,6 @@ cacheable: true
 		<h2>Misc</h2>
 		<ul>
 			<li><a href="http://msdevshow.com/about/" title="About us">About us</a></li>
-			<li><a href="https://trello.com/b/KWmTX2sG/ms-dev-show-potential-topics" title="Vote on show topics at Trello">Show Topic Voting</a></li>
 			<li><a href="http://www.amazon.com/s/ref=sr_nr_i_0?fst=as%3Aoff&rh=k%3Ams+dev+show%2Ci%3Afashion&keywords=ms+dev+show&ie=UTF8&qid=1445871789" title="MS Dev Show Merchandise on Amazon">Want a MS Dev Show shirt? Buy some!</a></li>
 		</ul>
 	</nav>
