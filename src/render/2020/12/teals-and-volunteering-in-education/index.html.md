@@ -4,7 +4,6 @@ episodeNumber: 246
 title: TEALS and volunterring in Education
 date: 2020-12-24
 audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0246.mp3
-ignore: true
 --- 
 
 ### News
