@@ -9,20 +9,54 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x]
+        node-version: [14.x]
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - name: Spit out version file
+      run: echo "`date -u`" > out/when.txt
     - name: npm install, build, and test
       run: |
         npm run build --if-present
+    - name: Archive static site
+      uses: actions/upload-artifact@v2
+      with:
+        name: static-output
+        path: out
+    
+  deploy-storage:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: static-output
+          path: out
+      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
+        with:
+          source_dir: out
+          container_name: $web
+          connection_string: ${{ secrets.STORAGE_CONNECTION_STRING }}
+          sync: false
+
+  deploy-docker-hub:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: static-output
+          path: out
+      - name: Docker Push
+      run: |
         npm run push
       env:
         CI: true
         dockerhub_user: ${{ secrets.dockerhub_user }}
         dockerhub_password: ${{ secrets.dockerhub_password }}
-
