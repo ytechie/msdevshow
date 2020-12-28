@@ -54,9 +54,9 @@ jobs:
           name: static-output
           path: out
       - name: Docker Push
-      run: |
-        npm run push
-      env:
-        CI: true
-        dockerhub_user: ${{ secrets.dockerhub_user }}
-        dockerhub_password: ${{ secrets.dockerhub_password }}
+        run: |
+          npm run push
+        env:
+          CI: true
+          dockerhub_user: ${{ secrets.dockerhub_user }}
+          dockerhub_password: ${{ secrets.dockerhub_password }}
