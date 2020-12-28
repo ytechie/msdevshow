@@ -17,11 +17,11 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: Spit out version file
-      run: echo "`date -u`" > out/when.txt
     - name: npm install, build, and test
       run: |
         npm run build --if-present
+    - name: Spit out version file
+      run: echo "`date -u`" > out/when.txt
     - name: Archive static site
       uses: actions/upload-artifact@v2
       with:
