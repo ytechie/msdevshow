@@ -53,10 +53,13 @@ jobs:
         with:
           name: static-output
           path: out
-      - name: Docker Push
-        run: |
-          npm run push
-        env:
-          CI: true
-          dockerhub_user: ${{ secrets.dockerhub_user }}
-          dockerhub_password: ${{ secrets.dockerhub_password }}
+      - name: Login to DockerHub
+        uses: docker/login-action@v1 
+        with:
+          username: ${{ secrets.dockerhub_user }}
+          password: ${{ secrets.dockerhub_password }}
+      - name: Build and push Docker images
+        uses: docker/build-push-action@v2.2.1
+        with:
+          push: true
+          tags: ytechie/msdevshow:latest
