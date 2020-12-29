@@ -60,6 +60,9 @@ jobs:
         with:
           username: ${{ secrets.dockerhub_user }}
           password: ${{ secrets.dockerhub_password }}
+      - name: Display structure of downloaded files
+        run: ls -R
+        working-directory: out
       - name: Build and push Docker images
         uses: docker/build-push-action@v2.2.1
         with:
