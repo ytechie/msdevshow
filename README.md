@@ -1,4 +1,4 @@
-![Node CI](https://github.com/ytechie/msdevshow/workflows/Node%20CI/badge.svg)
+[![Node CI](https://github.com/ytechie/msdevshow/workflows/Node%20CI/badge.svg)](https://github.com/ytechie/msdevshow/actions)
 
 # The _MS Dev Show_ Site
 
