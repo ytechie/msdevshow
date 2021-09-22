@@ -15,7 +15,7 @@ audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0252.mp3
  - [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
    - [https://github.com/features/codespaces](https://github.com/features/codespaces)
 
-### Benjamin Cabé
+### Benjamin Cabe
 
 Benjamin is a PM on the IoT team and works closely with the IoT developer communities.
 
