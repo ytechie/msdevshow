@@ -5,7 +5,7 @@ title: Service Fabric and Mesh
 guest: Mark Fussell
 guestImage: mark-fussell.jpg
 date: 2018-10-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0205.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0205.mp3
 --- 
 
 ### News

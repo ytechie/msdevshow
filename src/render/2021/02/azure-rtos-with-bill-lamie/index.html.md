@@ -5,7 +5,7 @@ title: Azure RTOS
 guest: Bill Lamie
 guestImage: bill-lamie.jpg
 date: 2021-02-01
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0248.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0248.mp3
 --- 
 
 ### News

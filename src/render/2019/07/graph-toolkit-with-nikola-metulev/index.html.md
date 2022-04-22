@@ -5,7 +5,7 @@ title: Microsoft Graph Toolkit
 guest: Nikola Metulev
 guestImage: nikola-metulev.jpg
 date: 2019-07-17
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0227.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0227.mp3
 --- 
 
 ### News

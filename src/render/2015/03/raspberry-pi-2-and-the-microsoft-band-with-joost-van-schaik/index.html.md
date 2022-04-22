@@ -4,7 +4,7 @@ episodeNumber: 46
 title: Raspberry PI 2 and the Microsoft Band 
 guest: Joost van Schaik
 date: 2015-03-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0046.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0046.mp3
 guestImage: joost-van-schaik.jpg
 ---
 

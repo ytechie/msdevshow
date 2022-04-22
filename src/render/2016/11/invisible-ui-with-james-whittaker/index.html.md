@@ -6,7 +6,7 @@ guest: James Whittaker and Dona Sarkar
 guestImage: james-and-dona.jpg
 date: 2016-11-14
 explicit: true
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0129.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0129.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-129-Data--the-Augmented-Self-with-James-Whittaker--Dona-Sarkar
 ---
 

@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 3
 title: April 25th, 2014
 date: 2014-04-25
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0003.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0003.mp3
 ---
 
 Carl goes to [Chicago DVLUP Day](http://dvlup.com), embracing a hackfest culture, new sound setup, Nokia acquisition complete, MsDevShow.com is now pinnable, and Azure storage options

@@ -5,7 +5,7 @@ title: Identity Platform
 guest: Christos Matskas and John Patrick Dandison
 guestImage: christos-and-john.jpg
 date: 2020-11-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0244.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0244.mp3
 --- 
 
 ### 425 Show

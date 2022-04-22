@@ -5,7 +5,7 @@ title: Adaptive Cards
 guest: Thomas Fennnel and Matt Hidinger
 guestImage: thomas-and-matt.jpg
 date: 2017-06-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0156.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0156.mp3
 --- 
 
 ### News

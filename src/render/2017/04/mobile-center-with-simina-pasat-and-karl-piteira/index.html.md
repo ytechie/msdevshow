@@ -5,7 +5,7 @@ title: Mobile Center
 guest: Simina Pasat and Karl Piteira
 guestImage: simina-and-karl.jpg
 date: 2017-04-11
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0146.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0146.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-146-Mobile-Center-with-Simina-Pasat-and-Karl-Piteira
 --- 
  

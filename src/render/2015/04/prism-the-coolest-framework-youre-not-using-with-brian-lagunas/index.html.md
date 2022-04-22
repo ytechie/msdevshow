@@ -4,7 +4,7 @@ episodeNumber: 51
 title: Prism the Coolest Framework You're Not Using
 guest: Brian Lagunas
 date: 2015-04-17
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0051.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0051.mp3
 guestImage: brian-lagunas.jpg
 ---
 

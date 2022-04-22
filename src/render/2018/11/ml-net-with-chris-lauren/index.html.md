@@ -5,7 +5,7 @@ title: ML.NET
 guest: Chris Lauren
 guestImage: chris-lauren.jpg
 date: 2018-11-02
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0206.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0206.mp3
 --- 
 
 ### News

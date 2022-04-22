@@ -5,7 +5,7 @@ title: Prefix and Stackify
 guest: Matt Watson
 guestImage: matt-watson.jpg
 date: 2016-05-07
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0104.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0104.mp3
 ---
 
 ### News

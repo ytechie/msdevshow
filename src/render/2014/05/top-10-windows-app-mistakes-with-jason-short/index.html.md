@@ -4,7 +4,7 @@ episodeNumber: 6
 title: Top 10 Windows App Mistakes
 guest: Jason Short
 date: 2014-05-24
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0006.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0006.mp3
 guestImage: jason-short.jpg
 ---
 

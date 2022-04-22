@@ -5,7 +5,7 @@ title: React Native
 guest: Harini Kannan and Paul Gusmorino
 guestImage: harini-and-paul.jpg
 date: 2020-03-23
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0238.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0238.mp3
 --- 
 
 ### News

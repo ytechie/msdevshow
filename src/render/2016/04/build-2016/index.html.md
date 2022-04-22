@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 100
 title: //Build/ 2016
 date: 2016-04-07
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0100.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0100.mp3
 ---
 
 ### Infragistics Ultimate Winner of the Week and Proud new Swag Bag Owner!!!

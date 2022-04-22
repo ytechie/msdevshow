@@ -4,7 +4,7 @@ episodeNumber: 31
 title:  Getting People Excited about Technology
 guest: Anthony Russell
 date: 2014-11-21
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0031.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0031.mp3
 guestImage: anthony-russell.jpg
 ---
 

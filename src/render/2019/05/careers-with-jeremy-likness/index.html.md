@@ -5,7 +5,7 @@ title: Careers
 guest: Jeremy Likness
 guestImage: jeremy-likness.jpg
 date: 2019-05-06
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0218.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0218.mp3
 --- 
 
 ### News

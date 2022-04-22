@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 88
 title: 3 + 3 Random Topics
 date: 2016-01-06
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0088.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0088.mp3
 ---
  
 ### News

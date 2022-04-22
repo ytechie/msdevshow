@@ -4,7 +4,7 @@ episodeNumber: 41
 title: Websites Kudu and WebJobs
 guest: David Ebbo
 date: 2015-01-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0041.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0041.mp3
 guestImage: david-ebbo.jpg
 ---
 

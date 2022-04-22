@@ -5,7 +5,7 @@ title: Visual Studio Code
 guest: Chris Dias and Erich Gamma
 guestImage: chris-and-erich.jpg
 date: 2015-09-01
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0070.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0070.mp3
 ---
 
 ### News

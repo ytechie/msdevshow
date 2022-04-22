@@ -82,7 +82,7 @@ docpadConfig = {
 		#googlePlusId: '105512648454315380048'
 
 		# RSS Feed
-		rssFeedUrl: 'http://msdevshow.libsyn.com/rss'
+		rssFeedUrl: 'https://static.msdevshow.com/episodes/rss.xml'
 
 	collections:
 		posts: ->

@@ -4,7 +4,7 @@ episodeNumber: 16
 title:	Windows Phone Apps
 guest: Ambassador Lance McCarthy
 date: 2014-08-04
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0016.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0016.mp3
 guestImage: lance-mccarthy.jpg
 ---
 

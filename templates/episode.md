@@ -5,7 +5,7 @@ title: Show Topic
 guest: Guest Name
 guestImage: guest-name.jpg
 date: 2022-xx-xx
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_xxxx.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_xxxx.mp3
 ignore: true <!-- Remove to publish -->
 ---
 

@@ -4,7 +4,7 @@ episodeNumber: 39
 title: MVVM Light
 guest: Laurent Bugnion
 date: 2015-01-16
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0039.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0039.mp3
 guestImage: laurent-bugnion.jpg
 ---
 

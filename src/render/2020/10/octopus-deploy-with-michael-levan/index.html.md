@@ -5,7 +5,7 @@ title: Octopus Deploy
 guest: Michael Levan
 guestImage: michael-levan.jpg
 date: 2020-10-26
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0242.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0242.mp3
 --- 
 
 ### News

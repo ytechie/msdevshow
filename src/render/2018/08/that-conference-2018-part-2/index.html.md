@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 201
 title: That Conference 2018 Part 2
 date: 2018-08-18
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0201.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0201.mp3
 --- 
 
 ### That Conference 2018

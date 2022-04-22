@@ -4,7 +4,7 @@ episodeNumber: 54
 title: 	Roslyn & Ignite News
 guest: Jason Bock
 date: 2015-05-08
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0054.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0054.mp3
 guestImage: jason-bock.jpg
 ---
 

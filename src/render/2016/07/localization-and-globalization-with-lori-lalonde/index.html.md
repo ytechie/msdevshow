@@ -5,7 +5,7 @@ title: Localization and Globalization
 guest: Lori Lalonde
 guestImage: lori-lalonde.jpg
 date: 2016-07-21
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0114.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0114.mp3
 ---
 
 ### News

@@ -5,7 +5,7 @@ title: Cortana Skills Kit
 guest: Mai Nguyen
 guestImage: mai-nguyen.jpg
 date: 2016-12-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0135.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0135.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-135-Cortana-Skills-Kit-with-Mai-Nguyen
 ---
 

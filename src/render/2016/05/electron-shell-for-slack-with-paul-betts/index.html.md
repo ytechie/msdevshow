@@ -5,7 +5,7 @@ title: Electron Shell for Slack
 guest: Paul Betts
 guestImage: paul-betts.jpg
 date: 2016-05-14
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0105.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0105.mp3
 ---
 
 ### News

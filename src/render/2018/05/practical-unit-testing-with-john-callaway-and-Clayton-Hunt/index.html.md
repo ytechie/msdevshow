@@ -5,7 +5,7 @@ title: Practical Software Unit Testing
 guest:  John Callaway and Clayton Hunt
 guestImage: john-and-clayton.jpg
 date: 2018-05-06
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0187.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0187.mp3
 --- 
 
 ### News

@@ -5,7 +5,7 @@ title: Fluent Design
 guest:  James Clarke
 guestImage:  james-clarke.jpg
 date: 2017-07-25
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0162.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0162.mp3
 --- 
 
 ### News

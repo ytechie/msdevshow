@@ -5,7 +5,7 @@ title: Upgrading Angular
 guest: Sam Julien
 guestImage: sam-julien.jpg
 date: 2018-03-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0183.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0183.mp3
 ---
 
 ### News

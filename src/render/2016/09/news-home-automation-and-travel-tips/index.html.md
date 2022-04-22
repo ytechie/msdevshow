@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 120
 title: News, Home Automation, and Travel Tips
 date: 2016-09-04
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0120.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0120.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-120-News-Home-Automation--Travel-Tips
 ---
 

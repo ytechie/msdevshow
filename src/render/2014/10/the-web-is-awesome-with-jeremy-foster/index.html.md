@@ -4,7 +4,7 @@ episodeNumber: 25
 title: The Web is Awesome
 guest: Jeremy Foster
 date: 2014-10-06
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0025.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0025.mp3
 guestImage: jeremy-foster.jpg
 ---
 

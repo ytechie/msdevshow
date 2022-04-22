@@ -5,7 +5,7 @@ title: Microsoft in Education
 guest:  Colin and Tej
 guestImage: colin-and-tej.jpg
 date: 2018-03-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0185.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0185.mp3
 --- 
 
 ### News

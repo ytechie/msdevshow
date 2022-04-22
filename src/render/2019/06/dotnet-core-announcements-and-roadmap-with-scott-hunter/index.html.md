@@ -5,7 +5,7 @@ title: .NET Core Announcements and Roadmap
 guest: Scott Hunter
 guestImage: scott-hunter.jpg
 date: 2019-06-03
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0222.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0222.mp3
 --- 
 
 ### Build 2019

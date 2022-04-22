@@ -5,7 +5,7 @@ title: Blockchain
 guest:  Zeyad Rajabi
 guestImage: zeyad-rajabi.jpg
 date: 2018-02-12
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0180.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0180.mp3
 --- 
 ### News
 

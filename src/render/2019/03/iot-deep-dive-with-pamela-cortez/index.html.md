@@ -5,7 +5,7 @@ title: IoT Deep Dive
 guest: Pamela Cortez
 guestImage: pamela-cortez.jpg
 date: 2019-03-05
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0213.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0213.mp3
 --- 
 
 ### News

@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 236
 title: A decade of Development
 date: 2020-01-18
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0236.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0236.mp3
 --- 
 
 ### News

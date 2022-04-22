@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 232
 title: Windows 10 and Surface announcements -- How we train
 date: 2019-10-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0232.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0232.mp3
 --- 
 
 ### News

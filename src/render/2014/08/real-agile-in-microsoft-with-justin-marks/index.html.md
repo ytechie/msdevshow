@@ -4,7 +4,7 @@ episodeNumber: 20
 title:	Real Agile in Microsoft
 guest: Justin Marks
 date: 2014-08-29
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0020.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0020.mp3
 guestImage: justin-marks.jpg
 ---
 

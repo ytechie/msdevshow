@@ -4,7 +4,7 @@ episodeNumber: 42
 title: Raygun
 guest: John-Daniel Trask
 date: 2015-02-09
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0042.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0042.mp3
 guestImage: john-daniel-trask.jpg
 ---
 

@@ -5,7 +5,7 @@ title: SignalR
 guest: Brady Gaster
 guestImage: brady-gaster.jpg
 date: 2019-04-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0217.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0217.mp3
 --- 
 
 ### News

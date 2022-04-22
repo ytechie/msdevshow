@@ -5,7 +5,7 @@ title: Microsoft and Progressive Web Apps
 guest: Josh Holmes
 guestImage:  josh-holmes.jpg
 date: 2018-10-17
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0203.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0203.mp3
 --- 
 
 ### News

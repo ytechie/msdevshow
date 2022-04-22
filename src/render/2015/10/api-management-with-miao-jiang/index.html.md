@@ -5,7 +5,7 @@ title: Azure API Managment
 guest: Miao Jiang 
 guestImage: miao-jiang.jpg
 date: 2015-10-31
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0079.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0079.mp3
 ---
 
 ### News

@@ -5,7 +5,7 @@ title: .NET Core 3 Present & Future
 guest: Scott Hunter & Mike Harsh
 guestImage: scott-hunter.jpg
 date: 2018-05-11
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0189.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0189.mp3
 --- 
 
 ### Build 2018

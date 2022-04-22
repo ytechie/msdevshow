@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 165
 title: That Conference 2017 Part 2
 date: 2017-08-20
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0165.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0165.mp3
 --- 
 
 We're really excited to be at [ThatConference](https://www.thatconference.com/) for the **third** year in a row! Check out the second batch of awesome speaker interviews we did this year.

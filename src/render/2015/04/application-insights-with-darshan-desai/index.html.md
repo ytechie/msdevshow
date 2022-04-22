@@ -4,7 +4,7 @@ episodeNumber: 49
 title: Application Insights
 guest: Darshan Desai
 date: 2015-04-03
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0049.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0049.mp3
 guestImage: darshan-desai.jpg
 ---
 

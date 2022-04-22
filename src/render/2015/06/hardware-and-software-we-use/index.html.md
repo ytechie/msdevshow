@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 59
 title: Hardware and Software We Use
 date: 2015-06-14
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0059.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0059.mp3
 ---
 
 ### News

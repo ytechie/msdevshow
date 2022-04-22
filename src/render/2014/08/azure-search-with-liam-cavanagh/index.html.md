@@ -4,7 +4,7 @@ episodeNumber: 19
 title:	Azure Search
 guest: Liam Cavanagh
 date: 2014-08-26
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0019.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0019.mp3
 guestImage: liam-cavanagh.jpg
 ---
 

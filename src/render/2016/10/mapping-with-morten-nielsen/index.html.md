@@ -5,7 +5,7 @@ title: Mapping
 guest: Morten Nielsen
 guestImage: morten-nielsen.jpg
 date: 2016-10-08
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0124.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0124.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-124-Mapping-with-Morten
 ---
 

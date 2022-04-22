@@ -4,7 +4,7 @@ episodeNumber: 38
 title: Azure Stream Analytics
 guest: Janet Yeilding
 date: 2015-01-09
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0038.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0038.mp3
 guestImage: janet-yeilding.jpg
 ---
 

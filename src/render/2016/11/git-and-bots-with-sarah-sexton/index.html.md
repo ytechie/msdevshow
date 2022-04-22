@@ -5,7 +5,7 @@ title: Git and Bots
 guest: Sarah Sexton
 guestImage: sarah-sexton.jpg
 date: 2016-11-22
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0130.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0130.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-130-Git--Bots-with-Sarah-Sexton
 ---
 

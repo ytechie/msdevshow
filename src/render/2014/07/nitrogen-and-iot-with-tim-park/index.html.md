@@ -4,7 +4,7 @@ episodeNumber: 13
 title: Nitrogen and IoT
 guest: Tim Park
 date: 2014-07-11
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0013.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0013.mp3
 guestImage: tim-park.jpg
 ---
 

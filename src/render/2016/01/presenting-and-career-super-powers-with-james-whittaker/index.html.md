@@ -5,7 +5,7 @@ title: Presenting and Career Super Powers
 guest: James Whittaker
 guestImage: james-whittaker.jpg
 date: 2016-01-22
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0090.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0090.mp3
 ---
 
 This week there may be profanity, often. Sorry bout that.

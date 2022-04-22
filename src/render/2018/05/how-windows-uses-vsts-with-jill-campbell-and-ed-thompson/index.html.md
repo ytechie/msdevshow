@@ -5,7 +5,7 @@ title: How Windows uses VSTS
 guest:  Jill Campbell & Ed Thompson
 guestImage: jill-and-ed.jpg
 date: 2018-05-10
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0188.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0188.mp3
 --- 
 
 ### Build 2018

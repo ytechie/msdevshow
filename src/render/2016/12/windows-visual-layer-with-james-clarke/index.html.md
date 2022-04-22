@@ -5,7 +5,7 @@ title: Composition: The Windows Visual Layer
 guest: James Clarke
 guestImage: james-clarke.jpg
 date: 2016-12-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0132.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0132.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-132-Windows-Visual-Layer-with-James-Clarke
 ---
 

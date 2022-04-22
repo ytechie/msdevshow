@@ -5,7 +5,7 @@ title: What's up with Docs
 guest: Den Delimarsky
 guestImage: den-delimarsky.jpg
 date: 2017-04-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0148.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0148.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-148-Whats-up-with-Docs-with-Den-Delimarsky
 --- 
 

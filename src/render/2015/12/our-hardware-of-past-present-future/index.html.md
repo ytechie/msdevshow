@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 83
 title: Our Hardware of Past, Present, and Future
 date: 2015-12-01
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0083.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0083.mp3
 ---
 
 ### News

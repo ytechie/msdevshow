@@ -5,7 +5,7 @@ title: WSL2 and the new Windows Terminal
 guest: Craig Loewen
 guestImage: craig-loewen.jpg
 date: 2019-05-19
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0220.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0220.mp3
 --- 
 
 ### Build 2019

@@ -5,7 +5,7 @@ title: Adaptive Card Updates
 guest: Matt Hidinger
 guestImage: matt-hidinger.jpg
 date: 2019-07-08
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0226.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0226.mp3
 --- 
 
 ### News

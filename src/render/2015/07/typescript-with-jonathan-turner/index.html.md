@@ -5,7 +5,7 @@ title: Typescript
 guest: Jonathan Turner
 guestImage: jonathan-turner.jpg
 date: 2015-07-24
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0065.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0065.mp3
 ---
 
 ### News

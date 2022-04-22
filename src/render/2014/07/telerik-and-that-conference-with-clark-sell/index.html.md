@@ -4,7 +4,7 @@ episodeNumber: 14
 title: Telerik and That Conference
 guest: Clark Sell
 date: 2014-07-18
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0014.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0014.mp3
 guestImage: clark-sell.jpg
 ---
 

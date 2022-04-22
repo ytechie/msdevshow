@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 229
 title: Jason is building a PC
 date: 2019-08-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0229.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0229.mp3
 --- 
 
 ### News

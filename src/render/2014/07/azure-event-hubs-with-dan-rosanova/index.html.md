@@ -4,7 +4,7 @@ episodeNumber: 15
 title: Azure Event Hubs
 guest: Dan Rosanova
 date: 2014-07-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0015.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0015.mp3
 guestImage: dan-rosanova.jpg
 ---
 

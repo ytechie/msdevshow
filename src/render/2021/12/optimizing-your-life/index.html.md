@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 253
 title: Optimizing Your Life
 date: 2021-12-23
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0253.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0253.mp3
 --- 
 
 ### Optimizing Your Life

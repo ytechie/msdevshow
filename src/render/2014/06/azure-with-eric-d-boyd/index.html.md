@@ -4,7 +4,7 @@ episodeNumber: 11
 title: Azure
 guest: Eric D. Boyd
 date: 2014-06-27
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0011.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0011.mp3
 guestImage: eric-d-boyd.jpg
 ---
 

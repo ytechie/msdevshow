@@ -4,7 +4,7 @@ episodeNumber: 12
 title: GitHub
 guest: Phil Haack
 date: 2014-07-04
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0012.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0012.mp3
 guestImage: phil-haack.jpg
 ---
 

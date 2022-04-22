@@ -4,7 +4,7 @@ episodeNumber: 28
 title: How to Get Your Boss to Pay for Azure
 guest: Kenny Young
 date: 2014-10-27
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0028.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0028.mp3
 guestImage: kenny-young.jpg
 ---
 

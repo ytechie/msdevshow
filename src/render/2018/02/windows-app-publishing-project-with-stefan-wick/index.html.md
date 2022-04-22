@@ -5,7 +5,7 @@ title: Desktop Bridge and the App Packaging Project
 guest:  Stefan Wick
 guestImage: stefan-wick.jpg
 date: 2018-02-19
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0181.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0181.mp3
 --- 
 
 ### News

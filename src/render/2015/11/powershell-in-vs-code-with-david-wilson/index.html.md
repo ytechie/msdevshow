@@ -5,7 +5,7 @@ title: Powershell in VS Code
 guest: David Wilson
 guestImage: david-wilson.jpg
 date: 2015-11-18
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0081.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0081.mp3
 ---
 
 ### News

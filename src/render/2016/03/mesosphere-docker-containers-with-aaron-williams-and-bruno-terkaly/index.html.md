@@ -5,7 +5,7 @@ title: Mesosphere, Docker, & Containers
 guest: Aaron Williams and Bruno Terkaly
 guestImage: aaron-and-bruno.jpg
 date: 2016-03-26
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0098.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0098.mp3
 ---
 
 ### News

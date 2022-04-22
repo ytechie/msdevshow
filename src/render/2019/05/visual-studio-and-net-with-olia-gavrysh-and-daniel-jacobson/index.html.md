@@ -5,7 +5,7 @@ title: Visual Studio and .NET
 guest: Olia Gavrysh and Daniel Jacobson
 guestImage: olia-and-daniel.jpg
 date: 2019-05-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0221.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0221.mp3
 --- 
 
 ### Build 2019

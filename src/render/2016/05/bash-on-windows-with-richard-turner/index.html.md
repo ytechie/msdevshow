@@ -5,7 +5,7 @@ title: BASH on Windows
 guest: Richard Turner
 guestImage: richard-turner.jpg
 date: 2016-05-21
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0106.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0106.mp3
 ---
 
 ### News

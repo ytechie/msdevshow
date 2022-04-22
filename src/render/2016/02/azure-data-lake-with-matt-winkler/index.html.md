@@ -5,7 +5,7 @@ title: Azure Data Lake
 guest: Matt Winkler
 guestImage: matt-winkler.jpg
 date: 2016-02-20
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0094.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0094.mp3
 ---
 
 ### News

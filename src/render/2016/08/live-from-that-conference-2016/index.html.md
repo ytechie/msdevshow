@@ -5,7 +5,7 @@ title: ThatConference 2016
 guest: a Plethora of Guests - pt. 1
 guestImage: thatConference.jpg
 date: 2016-08-15
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0117.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0117.mp3
 ---
 
 ### News

@@ -5,7 +5,7 @@ title: Azure Functions and Keda
 guest: Jeff Hollan
 guestImage: jeff-hollan.jpg
 date: 2019-05-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0219.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0219.mp3
 --- 
 
 ### Build 2019

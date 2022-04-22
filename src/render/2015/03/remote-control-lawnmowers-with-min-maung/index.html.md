@@ -4,7 +4,7 @@ episodeNumber: 47
 title: Remote Control Lawnmowers
 guest: Min Maung
 date: 2015-03-20
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0047.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0047.mp3
 guestImage: min-maung.jpg
 ---
 

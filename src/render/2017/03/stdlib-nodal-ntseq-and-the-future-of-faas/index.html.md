@@ -5,7 +5,7 @@ title: stdlib, Nodal, NtSeq, and the Future of FaaS
 guest: Keith Horwood
 guestImage: keith-horwood.jpg
 date: 2017-03-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0144.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0144.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-144-stdlib-Nodal-NtSeq-and-the-Future-of-FaaS-with-Keith-Horwood
 --- 
 

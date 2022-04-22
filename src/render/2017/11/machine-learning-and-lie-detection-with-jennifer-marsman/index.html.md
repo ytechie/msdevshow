@@ -5,7 +5,7 @@ title: Machine Learning
 guest:  Jennifer Marsman
 guestImage: jennifer-marsman.jpg
 date: 2017-11-14
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0173.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0173.mp3
 --- 
 
 ### News

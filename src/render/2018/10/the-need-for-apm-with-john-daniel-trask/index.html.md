@@ -5,7 +5,7 @@ title: The need for APM
 guest: John Daniel Trask
 guestImage: jd-trask.jpg
 date: 2018-10-08
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0202.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0202.mp3
 --- 
 
 ### News

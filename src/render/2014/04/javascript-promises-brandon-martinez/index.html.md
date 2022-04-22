@@ -4,7 +4,7 @@ episodeNumber: 2
 title: JavaScript Promises
 guest: Brandon Martinez
 date: 2014-04-18
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0002.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0002.mp3
 guestImage: brandon-martinez.jpg
 ---
 

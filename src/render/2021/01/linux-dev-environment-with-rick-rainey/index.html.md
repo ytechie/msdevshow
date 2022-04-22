@@ -5,7 +5,7 @@ title: Linux Dev Environment
 guest: Rick Rainey
 guestImage: rick-rainey.jpg
 date: 2021-01-18
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0247.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0247.mp3
 --- 
 
 ### News

@@ -4,7 +4,7 @@ episodeNumber: 27
 title: Getting Rich with Ads
 guest: Robert Irving and Simon Jackson
 date: 2014-10-20
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0027.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0027.mp3
 guestImage: robert-irving-and-simon-jackson.jpg
 ---
 

@@ -5,7 +5,7 @@ title: Quantum Computing & Q#
 guest: Bettina Heim
 guestImage: bettina-heim.jpg
 date: 2018-12-10
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0207.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0207.mp3
 --- 
 
 ### News

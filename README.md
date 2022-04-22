@@ -6,7 +6,7 @@
 
 A NEW podcast for Microsoft developers covering topics such as Azure/cloud, Windows, Windows Phone, .NET, Visual Studio, and more! Hosted by Jason Young and Carl Schweitzer.
 
-Subscribe to the show using our [RSS Feed](http://msdevshow.libsyn.com/rss), or search for "ms dev show" in your favorite podcast app.
+Subscribe to the show using our [RSS Feed](https://static.msdevshow.com/episodes/rss.xml), or search for "ms dev show" in your favorite podcast app.
 
 ## Getting Started with Docpad
 The _MS Dev Show_ site utilizes Docpad, a nodejs-based static site generation tool, to build its website and resources. Follow the installation steps below to run a local copy of the site.

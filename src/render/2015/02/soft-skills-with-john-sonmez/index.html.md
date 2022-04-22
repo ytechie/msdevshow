@@ -4,7 +4,7 @@ episodeNumber: 44
 title: Soft Skills
 guest: John Sonmez
 date: 2015-02-23
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0044.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0044.mp3
 guestImage: john-sonmez.jpg
 ---
 

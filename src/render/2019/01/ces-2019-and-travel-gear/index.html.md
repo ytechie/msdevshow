@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 209
 title: CES 2019 and Travel Gear
 date: 2019-01-22
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0209.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0209.mp3
 --- 
 
 ### News

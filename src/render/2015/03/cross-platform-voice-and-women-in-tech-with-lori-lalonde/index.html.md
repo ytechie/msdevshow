@@ -4,7 +4,7 @@ episodeNumber: 48
 title: Cross Platform Voice and Women in Tech
 guest: Lori LaLonde
 date: 2015-03-27
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0048.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0048.mp3
 guestImage: lori-lalonde.jpg
 ---
 

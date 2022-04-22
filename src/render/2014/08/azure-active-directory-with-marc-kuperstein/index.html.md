@@ -4,7 +4,7 @@ episodeNumber: 17
 title:	Azure Active Directory
 guest: Marc Kuperstein
 date: 2014-08-08
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0017.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0017.mp3
 guestImage: marc-kuperstein.jpg
 ---
 

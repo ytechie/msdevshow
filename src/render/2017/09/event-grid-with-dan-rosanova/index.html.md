@@ -5,7 +5,7 @@ title: Event Grid
 guest:  Dan Rosanova
 guestImage:  dan-rosanova.jpg
 date: 2017-09-07
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0167.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0167.mp3
 --- 
 
 ### News

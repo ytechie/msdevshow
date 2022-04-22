@@ -5,7 +5,7 @@ title: Load Balancing
 guest: Sharad Agrawal
 guestImage: sharad-agrawal.jpg
 date: 2019-09-19
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0230.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0230.mp3
 --- 
 
 ### News

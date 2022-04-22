@@ -5,7 +5,7 @@ title: Power BI
 guest: Josh Caplan
 guestImage: josh-caplan.jpg
 date: 2016-06-25
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0111.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0111.mp3
 ---
 
 ### News

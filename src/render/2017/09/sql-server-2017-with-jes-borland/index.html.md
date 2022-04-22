@@ -5,7 +5,7 @@ title: Sql Server 2017
 guest:  Jes Borland
 guestImage: jes-borland.jpg
 date: 2017-09-20
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0168.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0168.mp3
 --- 
 
 ### News

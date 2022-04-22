@@ -4,7 +4,7 @@ episodeNumber: 62
 title: Windows 10 App Communication APIs
 guest: Arun Singh
 date: 2015-07-04
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0062.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0062.mp3
 guestImage: arun-singh.jpg
 ---
 

@@ -4,7 +4,7 @@ episodeNumber: 50
 title: 	Node Tools for Visual Studio
 guest: Sara Itani
 date: 2015-04-10
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0050.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0050.mp3
 guestImage: sara-itani.jpg
 ---
 

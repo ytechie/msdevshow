@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 52
 title: News-A-Palooza
 date: 2015-04-24
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0052.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0052.mp3
 ---
 
 ### News

@@ -4,7 +4,7 @@ episodeNumber: 40
 title: Dev Ops
 guest: Steven Murawski
 date: 2015-01-23
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0040.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0040.mp3
 guestImage: steven-murawski.jpg
 ---
 

@@ -5,7 +5,7 @@ title: Identity
 guest: Sahil Malik
 guestImage: sahil-malik.jpg
 date: 2019-03-12
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0214.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0214.mp3
 --- 
 
 ### News

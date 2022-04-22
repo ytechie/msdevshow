@@ -4,7 +4,7 @@ episodeNumber: 34
 title:  Real Developer Potpourri 
 guest: Trish Curry
 date: 2014-12-12
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0034.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0034.mp3
 guestImage: trish-curry.jpg
 ---
 

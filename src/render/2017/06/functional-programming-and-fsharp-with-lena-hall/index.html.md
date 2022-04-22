@@ -5,7 +5,7 @@ title: Functional Programming and F#
 guest:  Lena Hall
 guestImage:  lena-hall.jpg
 date: 2017-06-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0158.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0158.mp3
 --- 
 
 ### News

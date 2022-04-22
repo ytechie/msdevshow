@@ -5,7 +5,7 @@ title: Hosted Web Apps - Project Westminster
 guest: Jeff Burtoft
 guestImage: jeff-burtoft.jpg
 date: 2015-08-08
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0067.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0067.mp3
 ---
 
 ### News

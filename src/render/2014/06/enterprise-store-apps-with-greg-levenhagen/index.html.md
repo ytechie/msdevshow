@@ -4,7 +4,7 @@ episodeNumber: 9
 title: Enterprise Store Apps
 guest: Greg Levenhagen
 date: 2014-06-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0009.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0009.mp3
 guestImage: greg-levenhagen.jpg
 ---
 

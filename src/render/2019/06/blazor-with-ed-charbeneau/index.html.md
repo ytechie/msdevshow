@@ -5,7 +5,7 @@ title: Blazor
 guest: Ed Charbeneau
 guestImage: ed-charbeneau.jpg
 date: 2019-06-24
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0224.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0224.mp3
 --- 
 
 ### News

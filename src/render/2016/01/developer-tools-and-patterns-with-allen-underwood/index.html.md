@@ -5,7 +5,7 @@ title: Developer Tools and Patterns
 guest: Allen Underwood
 guestImage: allen-underwood.jpg
 date: 2016-01-14
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0089.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0089.mp3
 ---
 
 ### News

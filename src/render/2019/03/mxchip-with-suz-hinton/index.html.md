@@ -5,7 +5,7 @@ title: MX Chip
 guest: Suz Hinton
 guestImage: suz-hinton.jpg
 date: 2019-03-20
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0215.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0215.mp3
 --- 
 
 ### News

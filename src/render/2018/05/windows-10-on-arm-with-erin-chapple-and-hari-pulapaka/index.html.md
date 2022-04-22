@@ -5,7 +5,7 @@ title: Windows 10 on ARM
 guest: Erin Chapple & Hari Pulapaka
 guestImage: erin-and-hari.jpg
 date: 2018-05-18
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0191.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0191.mp3
 --- 
 
 ### Build 2018

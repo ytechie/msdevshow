@@ -5,7 +5,7 @@ title: Image2Docker
 guest: Trevor Sullivan
 guestImage: trevor-sullivan.jpg
 date: 2016-10-25
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0126.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0126.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-126-Image2Docker-with-Trevor-Sullivan
 ---
 

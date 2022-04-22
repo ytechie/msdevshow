@@ -5,7 +5,7 @@ title: Live Streaming Your Code
 guest:  Suz Hinton
 guestImage: suz-hinton.jpg
 date: 2018-02-05
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0179.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0179.mp3
 --- 
 
 ### News

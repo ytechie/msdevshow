@@ -4,7 +4,7 @@ episodeNumber: 45
 title: Get Your Dream Job
 guest: Lindsey Garrity
 date: 2015-03-06
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0045.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0045.mp3
 guestImage: lindsey-garrity.jpg
 ---
 

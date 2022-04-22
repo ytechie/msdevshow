@@ -5,7 +5,7 @@ title: Android Apps on Windows (Project Astoria)
 guest: Shabnam Erfani
 guestImage: shabnam-erfani.jpg
 date: 2015-05-29
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0057.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0057.mp3
 ---
 
 ### News

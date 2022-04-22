@@ -5,7 +5,7 @@ title: SQL Server 2016 and Azure SQL Database
 guest: Neeraj Joshi
 guestImage: neeraj-joshi.jpg
 date: 2015-09-06
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0071.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0071.mp3
 ---
 
 ### News

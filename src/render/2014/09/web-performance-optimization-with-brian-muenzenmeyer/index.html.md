@@ -4,7 +4,7 @@ episodeNumber: 24
 title: Web Performance Optimization
 guest: Brian Muenzenmeyer
 date: 2014-09-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0024.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0024.mp3
 guestImage: brian-muenzenmeyer.jpg
 ---
 

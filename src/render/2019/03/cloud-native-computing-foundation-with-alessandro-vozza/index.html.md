@@ -5,7 +5,7 @@ title: Cloud Native Computing Foundation
 guest: Alessandro Vozza
 guestImage: alessandro-vozza.jpg
 date: 2019-03-30
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0216.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0216.mp3
 --- 
 
 ### News

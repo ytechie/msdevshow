@@ -5,7 +5,7 @@ title: Open Sourcing the Windows Calculator
 guest: Dave Grochocki and Howard Wolosky
 guestImage: dave-and-howard.jpg
 date: 2019-08-01
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0228.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0228.mp3
 --- 
 
 ### News

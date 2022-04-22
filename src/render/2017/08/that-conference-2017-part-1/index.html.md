@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 164
 title: That Conference 2017 Part 1
 date: 2017-08-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0164.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0164.mp3
 --- 
 
 We're really excited to be at [ThatConference](https://www.thatconference.com/) for the **third** year in a row! Check out all the awesome speaker interviews we did this year. And Carl even has some exciting news too.

@@ -5,7 +5,7 @@ title: The latest in Teams
 guest: Andrew Bybee and Larry Jin
 guestImage: larry-and-andrew.jpg
 date: 2018-06-25
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0195.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0195.mp3
 --- 
 
 ### News

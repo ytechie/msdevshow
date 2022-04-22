@@ -5,7 +5,7 @@ title: Artificial Nose
 guest: Benjamin Cabe
 guestImage: benjamin-cabe.jpg
 date: 2021-09-03
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0252.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0252.mp3
 --- 
 
 ### News

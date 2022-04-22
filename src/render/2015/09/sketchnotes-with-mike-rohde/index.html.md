@@ -5,7 +5,7 @@ title: SketchNotes
 guest: Mike Rohde
 guestImage: mike-rohde.jpg
 date: 2015-09-13
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0072.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0072.mp3
 ---
 
 ### News

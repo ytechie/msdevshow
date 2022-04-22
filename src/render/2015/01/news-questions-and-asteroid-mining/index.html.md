@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 37
 title: News, Questions, and Asteroid Mining
 date: 2015-01-02
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0037.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0037.mp3
 ---
 
 ### News

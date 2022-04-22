@@ -4,7 +4,7 @@ episodeNumber: 32
 title:  App Design for Monetization
 guest: Atley Hunter
 date: 2014-11-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0032.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0032.mp3
 guestImage: atley-hunter.jpg
 ---
 

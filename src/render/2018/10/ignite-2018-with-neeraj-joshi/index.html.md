@@ -5,7 +5,7 @@ title: Ignite 2018
 guest: Neeraj Joshi
 guestImage: neeraj-joshi.jpg
 date: 2018-10-24
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0204.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0204.mp3
 ---
 
 ### News

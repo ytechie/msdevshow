@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 208
 title: Welcome to 2019!
 date: 2019-01-08
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0208.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0208.mp3
 --- 
 
 ### News

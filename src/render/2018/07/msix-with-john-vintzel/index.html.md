@@ -5,7 +5,7 @@ title: MSIX
 guest: John Vintzel
 guestImage: john-vintzel.jpg
 date: 2018-07-11
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0197.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0197.mp3
 --- 
 
 ### News

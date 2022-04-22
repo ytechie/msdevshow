@@ -5,7 +5,7 @@ title: .NET 5
 guest: Scott Hunter
 guestImage: scott-hunter.jpg
 date: 2020-11-23
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0243.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0243.mp3
 --- 
 
 ### Scott Hunter

@@ -5,7 +5,7 @@ title: Bots Experience
 guest: Michael Szul
 guestImage: michael-szul.jpg
 date: 2018-07-03
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0196.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0196.mp3
 --- 
 
 ### News

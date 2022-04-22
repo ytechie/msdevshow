@@ -5,7 +5,7 @@ title: PowerToys
 guest: Clint Rutkas
 guestImage: clint-rutkas.jpg
 date: 2020-02-03
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0237.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0237.mp3
 --- 
 
 ### News

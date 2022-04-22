@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 134
 title: Merry Christmas to All
 date: 2016-12-24
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0134.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0134.mp3
 ch9Url: https://channel9.msdn.com/Shows/msdevshow/Episode-134-Christmas-Gift-Exchange
 ---
 

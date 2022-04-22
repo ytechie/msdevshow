@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 210
 title: Hacking your Car
 date: 2019-02-04
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0210.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0210.mp3
 --- 
 
 ### News

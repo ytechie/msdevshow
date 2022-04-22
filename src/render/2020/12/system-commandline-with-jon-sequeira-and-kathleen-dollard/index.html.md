@@ -5,7 +5,7 @@ title: System.CommandLine
 guest: Jon Sequeira and Kathleen Dollard
 guestImage: jon-and-kathleen.jpg
 date: 2020-12-07
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0245.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0245.mp3
 --- 
 
 ### News

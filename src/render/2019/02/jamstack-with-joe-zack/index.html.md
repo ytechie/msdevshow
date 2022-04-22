@@ -5,7 +5,7 @@ title: JAMstack
 guest: Joe Zack
 guestImage: joe-zack.jpg
 date: 2019-02-11
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0211.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0211.mp3
 --- 
 
 ### News

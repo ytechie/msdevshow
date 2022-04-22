@@ -5,7 +5,7 @@ title: Azure vs AWS
 guest: Kevin Wittkopf
 guestImage: kevin-wittkopf.jpg
 date: 2015-05-15
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0055.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0055.mp3
 ---
 
 ### News

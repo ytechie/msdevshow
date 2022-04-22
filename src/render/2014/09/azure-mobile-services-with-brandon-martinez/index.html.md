@@ -4,7 +4,7 @@ episodeNumber: 22
 title: Azure Mobile Services
 guest: Brandon Martinez
 date: 2014-09-15
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0022.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0022.mp3
 guestImage: brandon-martinez.jpg
 ---
 

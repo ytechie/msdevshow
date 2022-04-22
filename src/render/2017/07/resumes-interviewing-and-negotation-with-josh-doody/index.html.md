@@ -5,7 +5,7 @@ title: Resumes, Interviews, and Negotiation
 guest:  Josh Doody
 guestImage:  josh-doody.jpg
 date: 2017-07-21
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0161.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0161.mp3
 --- 
 
 ### News

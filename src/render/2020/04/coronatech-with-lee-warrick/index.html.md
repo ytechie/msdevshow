@@ -5,7 +5,7 @@ title: Coronatech
 guest: Lee Warrick
 guestImage: lee-warrick.jpg
 date: 2020-04-07
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0239.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0239.mp3
 --- 
 
 ### News

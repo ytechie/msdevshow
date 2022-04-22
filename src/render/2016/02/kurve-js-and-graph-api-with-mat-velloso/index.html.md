@@ -5,7 +5,7 @@ title: Kurve.JS and Graph API
 guest: Mat Velloso
 guestImage: mat-velloso.jpg
 date: 2016-02-06
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0092.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0092.mp3
 ---
 
 ### News

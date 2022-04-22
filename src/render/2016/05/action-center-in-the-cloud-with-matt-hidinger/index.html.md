@@ -5,7 +5,7 @@ title: Action Center in the Cloud
 guest: Matt Hidinger
 guestImage: matt-hidinger.jpg
 date: 2016-05-28
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0107.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0107.mp3
 ---
 
 ### News

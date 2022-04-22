@@ -3,7 +3,7 @@ layout: post
 episodeNumber: 241
 title: Ultimate Home Office
 date: 2020-08-24
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0241.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0241.mp3
 --- 
 
 ### News

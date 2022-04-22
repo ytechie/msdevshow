@@ -5,7 +5,7 @@ title: UWP and C++
 guest: Kenny Kerr
 guestImage: kenny-kerr.jpg
 date: 2019-07-01
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0225.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0225.mp3
 --- 
 
 ### News

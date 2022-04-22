@@ -4,7 +4,7 @@ episodeNumber: 43
 title: ASP.NET 5 and More
 guest: Scott Hanselman
 date: 2015-02-16
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0043.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0043.mp3
 guestImage: scott-hanselman.jpg
 ---
 

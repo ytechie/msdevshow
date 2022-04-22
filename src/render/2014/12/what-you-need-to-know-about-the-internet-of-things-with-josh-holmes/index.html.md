@@ -4,7 +4,7 @@ episodeNumber: 36
 title: What You Need to Know about the Internet of Things
 guest: Josh Holmes
 date: 2014-12-26
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0036.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0036.mp3
 guestImage: josh-holmes.jpg
 ---
 

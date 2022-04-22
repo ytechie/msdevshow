@@ -5,7 +5,7 @@ title: PowerShell Core
 guest:  Jeffery Snover
 guestImage: jeffery-snover.jpg
 date: 2018-02-26
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0182.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0182.mp3
 --- 
 
 ### Jeffery Snover

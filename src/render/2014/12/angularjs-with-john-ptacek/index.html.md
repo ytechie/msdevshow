@@ -4,7 +4,7 @@ episodeNumber: 35
 title:  AngularJS
 guest: John Ptacek
 date: 2014-12-19
-audioUrl: https://traffic.libsyn.com/msdevshow/msdevshow_0035.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0035.mp3
 guestImage: john-ptacek.jpg
 ---
 
