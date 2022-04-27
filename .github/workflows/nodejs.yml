@@ -37,7 +37,7 @@ jobs:
         with:
           name: static-output
           path: out
-      - uses: bacongobbler/azure-blob-storage-upload@v1.2.0
+      - uses: bacongobbler/azure-blob-storage-upload@v1.1.1
         with:
           source_dir: out
           container_name: $web
