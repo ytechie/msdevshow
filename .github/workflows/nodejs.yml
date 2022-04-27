@@ -37,12 +37,12 @@ jobs:
         with:
           name: static-output
           path: out
-      - uses: bacongobbler/azure-blob-storage-upload@v1.2.0
+      - uses: bacongobbler/azure-blob-storage-upload@main
         with:
           source_dir: out
           container_name: $web
           connection_string: ${{ secrets.STORAGE_CONNECTION_STRING }}
-          sync: false
+          overwrite: 'true'
 
   deploy-docker-hub:
     runs-on: ubuntu-latest
