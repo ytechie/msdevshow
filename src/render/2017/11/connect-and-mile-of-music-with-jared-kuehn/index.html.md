@@ -5,7 +5,7 @@ title: Connect() and Mile of Music
 guest:  Jared Kuehn
 guestImage: jared-kuehn.jpg
 date: 2017-11-20
-audioUrl: http://traffic.libsyn.com/msdevshow/msdevshow_0174.mp3
+audioUrl: https://static.msdevshow.com/episodes/msdevshow_0174.mp3
 --- 
 
 ### News
