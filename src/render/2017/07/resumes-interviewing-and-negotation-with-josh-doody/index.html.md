@@ -29,7 +29,6 @@ Josh Doody is a salary negotiation coach who helps software developers get more 
     - [Salary negotiation coaching](https://fearlesssalarynegotiation.com/coach/)
  - [Restricted Stock Unit](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
 
-![cartoon.gif](cartoon.gif)
 
 ### Dev Tip of the Week
 
