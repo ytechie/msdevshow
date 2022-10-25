@@ -25,7 +25,7 @@ Chrome / New Edge DevTools life hacks
 
  - ↖️ Get the last element you inspected:
     - $0
- - If it's a <video>...
+ - If it's a video tag...
    - 🏎 Change playback speed:
       - $0.playbackRate = 2
    - 🌠 Show picture-in-picture mode:
