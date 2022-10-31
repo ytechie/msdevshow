@@ -37,12 +37,12 @@ jobs:
         with:
           name: static-output
           path: out
-      - uses: bacongobbler/azure-blob-storage-upload@main
+      - uses: LanceMcCarthy/Action-AzureBlobUpload@v2
         with:
-          source_dir: out
+          source_folder: out
           container_name: $web
           connection_string: ${{ secrets.STORAGE_CONNECTION_STRING }}
-          overwrite: 'true'
+          clean_destination_folder: 'true'
 
   deploy-docker-hub:
     runs-on: ubuntu-latest
